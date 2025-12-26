@@ -1,15 +1,15 @@
 📊 Bike Purchase Demographics Analysis (Excel)
 📌 Project Overview
 
-This project analyzes customer demographic data to understand the key factors influencing bike purchase behavior. The analysis was conducted entirely in Microsoft Excel, from data cleaning to pivot table analysis and dashboard creation.
+This project analyzes customer demographic data to identify the key factors influencing bike purchase behavior. The analysis was conducted entirely in Microsoft Excel, covering data cleaning, exploratory analysis, pivot table reporting, and dashboard development to support business decision-making.
 
 🎯 Business Objectives
 
-Identify demographic patterns linked to bike purchases
+Identify demographic patterns associated with bike purchases
 
-Understand how income, age, and commute distance affect buying behavior
+Analyze the impact of income, age, and commute distance on purchasing behavior
 
-Present insights in a clear, executive-ready dashboard
+Present insights through a clear, executive-ready Excel dashboard
 
 🗂 Dataset
 
@@ -17,7 +17,7 @@ Source: Customer demographic dataset
 
 File: Project5_PurchaseOfBikesDemographics.xlsx
 
-Key attributes:
+Key attributes include:
 
 Age
 
@@ -35,39 +35,39 @@ Bike Purchase Indicator
 
 Removed duplicate records
 
-Standardized column formats
+Standardized column naming and formats
 
-Validated numeric fields (income, age)
+Validated numeric fields (income and age)
 
-Created derived fields for analysis
+Created derived fields to support analysis
 
-All transformations are documented in the Data_Cleaning_Notes sheet.
+All data transformation steps are documented in the Data_Cleaning_Notes worksheet.
 
 📈 Analysis Performed
 
-Pivot table analysis of:
+The analysis was carried out using pivot tables and Excel charts, focusing on:
 
-Income vs Bike Purchase
+Income versus bike purchase behavior
 
-Age group vs Purchase behavior
+Purchase trends across age groups
 
-Commute distance impact
+Commute distance impact on purchasing decisions
 
-Gender and marital status comparison
+Gender and marital status comparisons
 
-Trend and distribution analysis using Excel charts
+Trend and distribution analysis for key demographic segments
 
-📊 Dashboard Preview
+📊 Dashboard
 
-The dashboard provides interactive filtering and KPI tracking for decision-makers.
+An interactive Excel dashboard was developed to provide key performance indicators, demographic-based filtering, and clear visual summaries designed for business stakeholders and decision-makers.
 
 🔍 Key Insights
 
-Higher-income customers show a significantly higher likelihood of purchasing bikes
+Higher-income customers are significantly more likely to purchase bikes
 
-Shorter commute distances correlate strongly with bike purchases
+Shorter commute distances show a strong correlation with bike purchases
 
-Middle-aged demographics demonstrate the strongest purchase intent
+Middle-aged demographics demonstrate the highest purchase intent
 
 🛠 Tools Used
 
@@ -75,6 +75,6 @@ Microsoft Excel
 
 Pivot Tables
 
-Charts & Slicers
+Charts and Slicers
 
 Data Cleaning Techniques
