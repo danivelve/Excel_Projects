@@ -1,15 +1,13 @@
-#📊 Bike Purchase Demographics Analysis (Excel)
+📊 #Bike Purchase Demographics Analysis (Excel)
 📌 Project Overview
 This project analyzes customer demographic data to identify the key factors influencing bike purchase behavior. The analysis was conducted entirely in Microsoft Excel, covering data cleaning, exploratory analysis, pivot table reporting, and dashboard development to support business decision-making.
 
-#🎯 Business Objectives
+🎯 #Business Objectives
 Identify demographic patterns associated with bike purchases
-
 Analyze the impact of income, age, and commute distance on purchasing behavior
-
 Present insights through a clear, executive-ready Excel dashboard
 
-#🗂 Dataset
+🗂 #Dataset
 Source: Customer demographic dataset
 File: Project5_PurchaseOfBikesDemographics.xlsx
 
@@ -21,14 +19,14 @@ Marital Status
 Commute Distance
 Bike Purchase Indicator
 
-🧹 Data Cleaning & Preparation
+🧹 #Data Cleaning & Preparation
 Removed duplicate records
 Standardized column naming and formats
 Validated numeric fields (income and age)
 Created derived fields to support analysis
 All data transformation steps are documented in the Data_Cleaning_Notes worksheet.
 
-📈 Analysis Performed
+📈 #Analysis Performed
 The analysis was carried out using pivot tables and Excel charts, focusing on:
 Income versus bike purchase behavior
 Purchase trends across age groups
