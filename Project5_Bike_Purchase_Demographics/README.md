@@ -1,4 +1,4 @@
-#** 📊 Bike Purchase Demographics Analysis (Excel)
+#** Bike Purchase Demographics Analysis (Excel)
 📌 Project Overview
 This project analyzes customer demographic data to identify the key factors influencing bike purchase behavior. The analysis was conducted entirely in Microsoft Excel, covering data cleaning, exploratory analysis, pivot table reporting, and dashboard development to support business decision-making.
 
