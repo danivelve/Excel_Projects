@@ -1,0 +1,910 @@
+OrderID,Salesperson,Product,Region,Customer,Date,Sales,Year,MonthNum,Month,Quarter,Weekday,UnitPrice,Units
+1,"Stuart, Jill",Vegetarian Dishes,Oti,Elton John,2018-01-06,3068.55,2018,1,Jan,Q1,Sat,340.95,9
+2,"Fog, Londong",Fish Meals,Ashanti,Kwaku Mason,2018-01-06,681.9,2018,1,Jan,Q1,Sat,340.95,2
+3,"Haveria, Luiz",Seafood,Greater Accra,Clifford Quist,2018-01-07,559.93,2018,1,Jan,Q1,Sun,79.99,7
+4,"Fog, Londong",Beef Meals,Ashanti,Clifford Quist,2018-01-08,506.85,2018,1,Jan,Q1,Mon,168.95,3
+5,"Hines, Zach",Seafood,Ashanti,Elton John,2018-01-08,959.88,2018,1,Jan,Q1,Mon,79.99,12
+6,"Read, Tira",Pasta Dishes,Savannah,Clifford Quist,2018-01-10,10399.35,2018,1,Jan,Q1,Wed,799.95,13
+7,"Smith, Bob",Seafood,Oti,Kwaku Mason,2018-01-11,799.9,2018,1,Jan,Q1,Thu,79.99,10
+8,"Fog, Londong",Pasta Dishes,Ashanti,Kwaku Mason,2018-01-11,1599.9,2018,1,Jan,Q1,Thu,799.95,2
+9,"Fog, Londong",Fish Meals,Ashanti,Kwaku Mason,2018-01-11,2045.7,2018,1,Jan,Q1,Thu,340.95,6
+10,"Fog, Londong",Fish Meals,Ashanti,Elton John,2018-01-14,4432.35,2018,1,Jan,Q1,Sun,340.95,13
+11,"Hines, Zach",Beef Meals,Ashanti,Kwaku Mason,2018-01-14,1689.5,2018,1,Jan,Q1,Sun,168.95,10
+12,"Stuart, Jill",Fish Meals,Oti,Kwaku Mason,2018-01-14,1363.8,2018,1,Jan,Q1,Sun,340.95,4
+13,"Hines, Zach",Beef Meals,Ashanti,Elton John,2018-01-15,1858.45,2018,1,Jan,Q1,Mon,168.95,11
+14,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Elton John,2018-01-15,2386.65,2018,1,Jan,Q1,Mon,340.95,7
+15,"Hines, Zach",Seafood,Ashanti,Clifford Quist,2018-01-16,879.89,2018,1,Jan,Q1,Tue,79.99,11
+16,"Smith, Bob",Pasta Dishes,Oti,Elton John,2018-01-16,4799.7,2018,1,Jan,Q1,Tue,799.95,6
+17,"Tall, Liz",Vegetarian Dishes,Savannah,Elton John,2018-01-17,4773.3,2018,1,Jan,Q1,Wed,340.95,14
+18,"Read, Tira",Beef Meals,Savannah,Kwaku Mason,2018-01-17,1689.5,2018,1,Jan,Q1,Wed,168.95,10
+19,"Stuart, Jill",Fish Meals,Oti,Clifford Quist,2018-01-22,1363.8,2018,1,Jan,Q1,Mon,340.95,4
+20,"Tall, Liz",Seafood,Savannah,Elton John,2018-01-23,1599.8,2018,1,Jan,Q1,Tue,79.99,20
+21,"Read, Tira",Fish Meals,Savannah,Kwaku Mason,2018-01-24,2727.6,2018,1,Jan,Q1,Wed,340.95,8
+22,"Temple, Cheryl",Seafood,Oti,Kwaku Mason,2018-01-26,879.89,2018,1,Jan,Q1,Fri,79.99,11
+23,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Clifford Quist,2018-01-28,4432.35,2018,1,Jan,Q1,Sun,340.95,13
+24,"Haveria, Luiz",Fish Meals,Greater Accra,Elton John,2018-01-28,2386.65,2018,1,Jan,Q1,Sun,340.95,7
+25,"Temple, Cheryl",Fish Meals,Oti,Elton John,2018-01-29,2727.6,2018,1,Jan,Q1,Mon,340.95,8
+26,"Stuart, Jill",Pasta Dishes,Oti,Clifford Quist,2018-01-30,7999.5,2018,1,Jan,Q1,Tue,799.95,10
+27,"Stuart, Jill",Pasta Dishes,Oti,Kwaku Mason,2018-01-30,5599.65,2018,1,Jan,Q1,Tue,799.95,7
+28,"Tall, Liz",Fish Meals,Savannah,Clifford Quist,2018-01-31,1363.8,2018,1,Jan,Q1,Wed,340.95,4
+29,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Kwaku Mason,2018-01-31,2727.6,2018,1,Jan,Q1,Wed,340.95,8
+30,"Haveria, Luiz",Pasta Dishes,Greater Accra,Fisher Mills,2018-02-01,3999.75,2018,2,Feb,Q1,Thu,799.95,5
+31,"Read, Tira",Pasta Dishes,Savannah,Kwaku Mason,2018-02-01,5599.65,2018,2,Feb,Q1,Thu,799.95,7
+32,"Stuart, Jill",Vegetarian Dishes,Oti,Kwaku Mason,2018-02-01,2045.7,2018,2,Feb,Q1,Thu,340.95,6
+33,"Haveria, Luiz",Seafood,Greater Accra,Kwaku Mason,2018-02-02,399.95,2018,2,Feb,Q1,Fri,79.99,5
+34,"Fog, Londong",Seafood,Ashanti,Kwaku Mason,2018-02-05,799.9,2018,2,Feb,Q1,Mon,79.99,10
+35,"Dede, Amakye",Vegetarian Dishes,Savannah,Elton John,2018-02-06,2386.65,2018,2,Feb,Q1,Tue,340.95,7
+36,"Dede, Amakye",Vegetarian Dishes,Savannah,Elton John,2018-02-06,3750.45,2018,2,Feb,Q1,Tue,340.95,11
+37,"Smith, Bob",Vegetarian Dishes,Oti,Elton John,2018-02-06,3068.55,2018,2,Feb,Q1,Tue,340.95,9
+38,"Smith, Bob",Vegetarian Dishes,Oti,Elton John,2018-02-06,4091.4,2018,2,Feb,Q1,Tue,340.95,12
+39,"Stuart, Jill",Vegetarian Dishes,Oti,Elton John,2018-02-06,5114.25,2018,2,Feb,Q1,Tue,340.95,15
+40,"Stuart, Jill",Vegetarian Dishes,Oti,Elton John,2018-02-06,5796.15,2018,2,Feb,Q1,Tue,340.95,17
+41,"Fog, Londong",Seafood,Ashanti,Fisher Mills,2018-02-08,719.91,2018,2,Feb,Q1,Thu,79.99,9
+42,"Fog, Londong",Seafood,Ashanti,Fisher Mills,2018-02-08,1119.86,2018,2,Feb,Q1,Thu,79.99,14
+43,"Read, Tira",Vegetarian Dishes,Savannah,Kwaku Mason,2018-02-09,340.95,2018,2,Feb,Q1,Fri,340.95,1
+44,"Read, Tira",Vegetarian Dishes,Savannah,Kwaku Mason,2018-02-09,1022.85,2018,2,Feb,Q1,Fri,340.95,3
+45,"Read, Tira",Pasta Dishes,Savannah,Fisher Mills,2018-02-11,3199.8,2018,2,Feb,Q1,Sun,799.95,4
+46,"Read, Tira",Pasta Dishes,Savannah,Fisher Mills,2018-02-11,8799.45,2018,2,Feb,Q1,Sun,799.95,11
+47,"Barkley, Ross",Fish Meals,Savannah,Clifford Quist,2018-02-12,1363.8,2018,2,Feb,Q1,Mon,340.95,4
+48,"Barkley, Ross",Fish Meals,Savannah,Clifford Quist,2018-02-12,2045.7,2018,2,Feb,Q1,Mon,340.95,6
+49,"Stuart, Jill",Beef Meals,Oti,Elton John,2018-02-12,1351.6,2018,2,Feb,Q1,Mon,168.95,8
+50,"Stuart, Jill",Beef Meals,Oti,Elton John,2018-02-12,2196.35,2018,2,Feb,Q1,Mon,168.95,13
+51,"Stuart, Jill",Seafood,Oti,Elton John,2018-02-12,639.92,2018,2,Feb,Q1,Mon,79.99,8
+52,"Stuart, Jill",Seafood,Oti,Elton John,2018-02-12,1119.86,2018,2,Feb,Q1,Mon,79.99,14
+53,"Dede, Amakye",Seafood,Savannah,Elton John,2018-02-15,1359.83,2018,2,Feb,Q1,Thu,79.99,17
+54,"Barkley, Ross",Pasta Dishes,Savannah,Fisher Mills,2018-02-16,799.95,2018,2,Feb,Q1,Fri,799.95,1
+55,"Temple, Cheryl",Beef Meals,Oti,Kwaku Mason,2018-02-16,1858.45,2018,2,Feb,Q1,Fri,168.95,11
+56,"Barkley, Ross",Pasta Dishes,Savannah,Clifford Quist,2018-02-19,7199.55,2018,2,Feb,Q1,Mon,799.95,9
+57,"Smith, Bob",Seafood,Oti,Elton John,2018-02-19,1199.85,2018,2,Feb,Q1,Mon,79.99,15
+58,"Read, Tira",Pasta Dishes,Savannah,Elton John,2018-02-19,11199.3,2018,2,Feb,Q1,Mon,799.95,14
+59,"Stuart, Jill",Seafood,Oti,Elton John,2018-02-19,1599.8,2018,2,Feb,Q1,Mon,79.99,20
+60,"Temple, Cheryl",Pasta Dishes,Oti,Fisher Mills,2018-02-19,3999.75,2018,2,Feb,Q1,Mon,799.95,5
+61,"Temple, Cheryl",Pasta Dishes,Oti,Elton John,2018-02-20,14399.1,2018,2,Feb,Q1,Tue,799.95,18
+62,"Haveria, Luiz",Beef Meals,Greater Accra,Fisher Mills,2018-02-20,1351.6,2018,2,Feb,Q1,Tue,168.95,8
+63,"Temple, Cheryl",Pasta Dishes,Oti,Fisher Mills,2018-02-21,11199.3,2018,2,Feb,Q1,Wed,799.95,14
+64,"Read, Tira",Vegetarian Dishes,Savannah,Elton John,2018-02-22,6137.1,2018,2,Feb,Q1,Thu,340.95,18
+65,"Hines, Zach",Vegetarian Dishes,Ashanti,Kwaku Mason,2018-02-22,681.9,2018,2,Feb,Q1,Thu,340.95,2
+66,"Read, Tira",Pasta Dishes,Savannah,Elton John,2018-02-23,13599.15,2018,2,Feb,Q1,Fri,799.95,17
+67,"Dede, Amakye",Vegetarian Dishes,Savannah,Fisher Mills,2018-02-23,4091.4,2018,2,Feb,Q1,Fri,340.95,12
+68,"Read, Tira",Fish Meals,Savannah,Kwaku Mason,2018-02-27,4773.3,2018,2,Feb,Q1,Tue,340.95,14
+69,"Read, Tira",Pasta Dishes,Savannah,Clifford Quist,2018-02-28,7199.55,2018,2,Feb,Q1,Wed,799.95,9
+70,"Fog, Londong",Beef Meals,Ashanti,Clifford Quist,2018-03-04,675.8,2018,3,Mar,Q1,Sun,168.95,4
+71,"Smith, Bob",Fish Meals,Oti,Elton John,2018-03-04,6819.0,2018,3,Mar,Q1,Sun,340.95,20
+72,"Fog, Londong",Seafood,Ashanti,Kwaku Mason,2018-03-05,799.9,2018,3,Mar,Q1,Mon,79.99,10
+73,"Read, Tira",Seafood,Savannah,Clifford Quist,2018-03-07,959.88,2018,3,Mar,Q1,Wed,79.99,12
+74,"Hines, Zach",Beef Meals,Ashanti,Clifford Quist,2018-03-08,1858.45,2018,3,Mar,Q1,Thu,168.95,11
+75,"Read, Tira",Fish Meals,Savannah,Sharon Sticks,2018-03-09,340.95,2018,3,Mar,Q1,Fri,340.95,1
+76,"Dede, Amakye",Pasta Dishes,Savannah,Clifford Quist,2018-03-12,6399.6,2018,3,Mar,Q1,Mon,799.95,8
+77,"Barkley, Ross",Beef Meals,Savannah,Kwaku Mason,2018-03-12,2534.25,2018,3,Mar,Q1,Mon,168.95,15
+78,"Stuart, Jill",Vegetarian Dishes,Oti,Sharon Sticks,2018-03-12,2045.7,2018,3,Mar,Q1,Mon,340.95,6
+79,"Barkley, Ross",Vegetarian Dishes,Savannah,Elton John,2018-03-13,5796.15,2018,3,Mar,Q1,Tue,340.95,17
+80,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Fisher Mills,2018-03-13,681.9,2018,3,Mar,Q1,Tue,340.95,2
+81,"Barkley, Ross",Vegetarian Dishes,Savannah,Fisher Mills,2018-03-13,3068.55,2018,3,Mar,Q1,Tue,340.95,9
+82,"Read, Tira",Pasta Dishes,Savannah,Fisher Mills,2018-03-13,6399.6,2018,3,Mar,Q1,Tue,799.95,8
+83,"Stuart, Jill",Fish Meals,Oti,Clifford Quist,2018-03-14,1704.75,2018,3,Mar,Q1,Wed,340.95,5
+84,"Smith, Bob",Pasta Dishes,Oti,Clifford Quist,2018-03-16,8799.45,2018,3,Mar,Q1,Fri,799.95,11
+85,"Stuart, Jill",Seafood,Oti,Clifford Quist,2018-03-18,719.91,2018,3,Mar,Q1,Sun,79.99,9
+86,"Haveria, Luiz",Seafood,Greater Accra,Sharon Sticks,2018-03-18,79.99,2018,3,Mar,Q1,Sun,79.99,1
+87,"Temple, Cheryl",Vegetarian Dishes,Oti,Sharon Sticks,2018-03-18,3750.45,2018,3,Mar,Q1,Sun,340.95,11
+88,"Hines, Zach",Seafood,Ashanti,Clifford Quist,2018-03-19,399.95,2018,3,Mar,Q1,Mon,79.99,5
+89,"Temple, Cheryl",Beef Meals,Oti,Kwaku Mason,2018-03-20,2027.4,2018,3,Mar,Q1,Tue,168.95,12
+90,"Dede, Amakye",Fish Meals,Savannah,Fisher Mills,2018-03-21,340.95,2018,3,Mar,Q1,Wed,340.95,1
+91,"Temple, Cheryl",Pasta Dishes,Oti,Fisher Mills,2018-03-21,7199.55,2018,3,Mar,Q1,Wed,799.95,9
+92,"Smith, Bob",Fish Meals,Oti,Elton John,2018-03-23,5455.2,2018,3,Mar,Q1,Fri,340.95,16
+93,"Read, Tira",Pasta Dishes,Savannah,Kwaku Mason,2018-03-26,6399.6,2018,3,Mar,Q1,Mon,799.95,8
+94,"Stuart, Jill",Seafood,Oti,Elton John,2018-03-27,1599.8,2018,3,Mar,Q1,Tue,79.99,20
+95,"Barkley, Ross",Fish Meals,Savannah,Sharon Sticks,2018-03-27,2045.7,2018,3,Mar,Q1,Tue,340.95,6
+96,"Dede, Amakye",Fish Meals,Savannah,Elton John,2018-03-29,6819.0,2018,3,Mar,Q1,Thu,340.95,20
+97,"Barkley, Ross",Fish Meals,Savannah,Clifford Quist,2018-03-30,5114.25,2018,3,Mar,Q1,Fri,340.95,15
+98,"Stuart, Jill",Pasta Dishes,Oti,Kwaku Mason,2018-04-02,5599.65,2018,4,Apr,Q2,Mon,799.95,7
+99,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Sharon Sticks,2018-04-02,3068.55,2018,4,Apr,Q2,Mon,340.95,9
+100,"Dede, Amakye",Seafood,Savannah,Kwaku Mason,2018-04-04,479.94,2018,4,Apr,Q2,Wed,79.99,6
+101,"Hines, Zach",Beef Meals,Ashanti,Clifford Quist,2018-04-05,2365.3,2018,4,Apr,Q2,Thu,168.95,14
+102,"Haveria, Luiz",Fish Meals,Greater Accra,Fisher Mills,2018-04-05,1022.85,2018,4,Apr,Q2,Thu,340.95,3
+103,"Stuart, Jill",Vegetarian Dishes,Oti,Sharon Sticks,2018-04-06,1704.75,2018,4,Apr,Q2,Fri,340.95,5
+104,"Temple, Cheryl",Vegetarian Dishes,Oti,Kwaku Mason,2018-04-08,1022.85,2018,4,Apr,Q2,Sun,340.95,3
+105,"Temple, Cheryl",Fish Meals,Oti,Elton John,2018-04-09,6137.1,2018,4,Apr,Q2,Mon,340.95,18
+106,"Smith, Bob",Beef Meals,Oti,Fisher Mills,2018-04-09,2196.35,2018,4,Apr,Q2,Mon,168.95,13
+107,"Dede, Amakye",Fish Meals,Savannah,Kwaku Mason,2018-04-09,3750.45,2018,4,Apr,Q2,Mon,340.95,11
+108,"Barkley, Ross",Seafood,Savannah,Kwaku Mason,2018-04-09,1039.87,2018,4,Apr,Q2,Mon,79.99,13
+109,"Haveria, Luiz",Fish Meals,Greater Accra,Sharon Sticks,2018-04-09,2045.7,2018,4,Apr,Q2,Mon,340.95,6
+110,"Barkley, Ross",Fish Meals,Savannah,Sharon Sticks,2018-04-09,681.9,2018,4,Apr,Q2,Mon,340.95,2
+111,"Temple, Cheryl",Seafood,Oti,Clifford Quist,2018-04-10,1039.87,2018,4,Apr,Q2,Tue,79.99,13
+112,"Hines, Zach",Beef Meals,Ashanti,Kwaku Mason,2018-04-11,506.85,2018,4,Apr,Q2,Wed,168.95,3
+113,"Temple, Cheryl",Beef Meals,Oti,Fisher Mills,2018-04-13,1689.5,2018,4,Apr,Q2,Fri,168.95,10
+114,"Haveria, Luiz",Fish Meals,Greater Accra,Kwaku Mason,2018-04-13,4773.3,2018,4,Apr,Q2,Fri,340.95,14
+115,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Sharon Sticks,2018-04-13,2727.6,2018,4,Apr,Q2,Fri,340.95,8
+116,"Dede, Amakye",Pasta Dishes,Savannah,Kwaku Mason,2018-04-15,3199.8,2018,4,Apr,Q2,Sun,799.95,4
+117,"Stuart, Jill",Fish Meals,Oti,Kwaku Mason,2018-04-15,1363.8,2018,4,Apr,Q2,Sun,340.95,4
+118,"Barkley, Ross",Fish Meals,Savannah,Clifford Quist,2018-04-16,2045.7,2018,4,Apr,Q2,Mon,340.95,6
+119,"Haveria, Luiz",Pasta Dishes,Greater Accra,Elton John,2018-04-16,5599.65,2018,4,Apr,Q2,Mon,799.95,7
+120,"Barkley, Ross",Beef Meals,Savannah,Sharon Sticks,2018-04-16,2027.4,2018,4,Apr,Q2,Mon,168.95,12
+121,"Azpilecueta, Moses",Seafood,Oti,Elton John,2018-04-18,959.88,2018,4,Apr,Q2,Wed,79.99,12
+122,"Azpilecueta, Moses",Seafood,Oti,Sharon Sticks,2018-04-18,959.88,2018,4,Apr,Q2,Wed,79.99,12
+123,"Temple, Cheryl",Seafood,Oti,Fisher Mills,2018-04-19,639.92,2018,4,Apr,Q2,Thu,79.99,8
+124,"Smith, Bob",Fish Meals,Oti,Kwaku Mason,2018-04-20,1704.75,2018,4,Apr,Q2,Fri,340.95,5
+125,"Dede, Amakye",Pasta Dishes,Savannah,Kwaku Mason,2018-04-22,6399.6,2018,4,Apr,Q2,Sun,799.95,8
+126,"Barkley, Ross",Fish Meals,Savannah,Clifford Quist,2018-04-23,681.9,2018,4,Apr,Q2,Mon,340.95,2
+127,"Dede, Amakye",Seafood,Savannah,Elton John,2018-04-23,879.89,2018,4,Apr,Q2,Mon,79.99,11
+128,"Azpilecueta, Moses",Fish Meals,Oti,Fisher Mills,2018-04-23,340.95,2018,4,Apr,Q2,Mon,340.95,1
+129,"Haveria, Luiz",Beef Meals,Greater Accra,Sharon Sticks,2018-04-24,2027.4,2018,4,Apr,Q2,Tue,168.95,12
+130,"Dede, Amakye",Vegetarian Dishes,Savannah,Clifford Quist,2018-04-25,2727.6,2018,4,Apr,Q2,Wed,340.95,8
+131,"Azpilecueta, Moses",Seafood,Oti,Elton John,2018-04-25,799.9,2018,4,Apr,Q2,Wed,79.99,10
+132,"Smith, Bob",Fish Meals,Oti,Fisher Mills,2018-04-25,1363.8,2018,4,Apr,Q2,Wed,340.95,4
+133,"Dede, Amakye",Seafood,Savannah,Kwaku Mason,2018-04-25,559.93,2018,4,Apr,Q2,Wed,79.99,7
+134,"Stuart, Jill",Fish Meals,Oti,Sharon Sticks,2018-04-25,2386.65,2018,4,Apr,Q2,Wed,340.95,7
+135,"Dede, Amakye",Pasta Dishes,Savannah,Elton John,2018-04-26,12799.2,2018,4,Apr,Q2,Thu,799.95,16
+136,"Read, Tira",Pasta Dishes,Savannah,Sharon Sticks,2018-04-29,6399.6,2018,4,Apr,Q2,Sun,799.95,8
+137,"Smith, Bob",Pasta Dishes,Oti,Fisher Mills,2018-04-30,1599.9,2018,4,Apr,Q2,Mon,799.95,2
+138,"Read, Tira",Fish Meals,Savannah,Fisher Mills,2018-04-30,3750.45,2018,4,Apr,Q2,Mon,340.95,11
+139,"Stuart, Jill",Vegetarian Dishes,Oti,Clifford Quist,2018-05-01,2727.6,2018,5,May,Q2,Tue,340.95,8
+140,"Read, Tira",Beef Meals,Savannah,Sharon Sticks,2018-05-01,2027.4,2018,5,May,Q2,Tue,168.95,12
+141,"Fog, Londong",Seafood,Ashanti,Fisher Mills,2018-05-02,79.99,2018,5,May,Q2,Wed,79.99,1
+142,"Haveria, Luiz",Fish Meals,Greater Accra,Clifford Quist,2018-05-07,681.9,2018,5,May,Q2,Mon,340.95,2
+143,"Barkley, Ross",Pasta Dishes,Savannah,Sharon Sticks,2018-05-08,4799.7,2018,5,May,Q2,Tue,799.95,6
+144,"Haveria, Luiz",Seafood,Greater Accra,Clifford Quist,2018-05-10,399.95,2018,5,May,Q2,Thu,79.99,5
+145,"Azpilecueta, Moses",Pasta Dishes,Oti,Fisher Mills,2018-05-11,4799.7,2018,5,May,Q2,Fri,799.95,6
+146,"Fog, Londong",Fish Meals,Ashanti,Fisher Mills,2018-05-11,5114.25,2018,5,May,Q2,Fri,340.95,15
+147,"Haveria, Luiz",Pasta Dishes,Greater Accra,Clifford Quist,2018-05-13,7199.55,2018,5,May,Q2,Sun,799.95,9
+148,"Hines, Zach",Pasta Dishes,Ashanti,Kwaku Mason,2018-05-14,7999.5,2018,5,May,Q2,Mon,799.95,10
+149,"Temple, Cheryl",Vegetarian Dishes,Oti,Sharon Sticks,2018-05-14,3750.45,2018,5,May,Q2,Mon,340.95,11
+150,"Haveria, Luiz",Seafood,Greater Accra,Kwaku Mason,2018-05-15,239.97,2018,5,May,Q2,Tue,79.99,3
+151,"Read, Tira",Beef Meals,Savannah,Fisher Mills,2018-05-16,2534.25,2018,5,May,Q2,Wed,168.95,15
+152,"Barkley, Ross",Beef Meals,Savannah,Sharon Sticks,2018-05-16,2365.3,2018,5,May,Q2,Wed,168.95,14
+153,"Barkley, Ross",Vegetarian Dishes,Savannah,Elton John,2018-05-17,2045.7,2018,5,May,Q2,Thu,340.95,6
+154,"Temple, Cheryl",Seafood,Oti,Elton John,2018-05-18,559.93,2018,5,May,Q2,Fri,79.99,7
+155,"Smith, Bob",Vegetarian Dishes,Oti,Fisher Mills,2018-05-18,4091.4,2018,5,May,Q2,Fri,340.95,12
+156,"Smith, Bob",Vegetarian Dishes,Oti,Kwaku Mason,2018-05-18,1704.75,2018,5,May,Q2,Fri,340.95,5
+157,"Hines, Zach",Fish Meals,Ashanti,Elton John,2018-05-20,5114.25,2018,5,May,Q2,Sun,340.95,15
+158,"Haveria, Luiz",Beef Meals,Greater Accra,Kwaku Mason,2018-05-20,1858.45,2018,5,May,Q2,Sun,168.95,11
+159,"Milner, James",Fish Meals,Greater Accra,Sharon Sticks,2018-05-20,5114.25,2018,5,May,Q2,Sun,340.95,15
+160,"Read, Tira",Vegetarian Dishes,Savannah,Elton John,2018-05-21,6137.1,2018,5,May,Q2,Mon,340.95,18
+161,"Dede, Amakye",Fish Meals,Savannah,Clifford Quist,2018-05-23,1022.85,2018,5,May,Q2,Wed,340.95,3
+162,"Azpilecueta, Moses",Beef Meals,Oti,Clifford Quist,2018-05-24,675.8,2018,5,May,Q2,Thu,168.95,4
+163,"Barkley, Ross",Beef Meals,Savannah,Elton John,2018-05-25,1520.55,2018,5,May,Q2,Fri,168.95,9
+164,"Dede, Amakye",Fish Meals,Savannah,Fisher Mills,2018-05-27,1022.85,2018,5,May,Q2,Sun,340.95,3
+165,"Stuart, Jill",Pasta Dishes,Oti,Fisher Mills,2018-05-27,7999.5,2018,5,May,Q2,Sun,799.95,10
+166,"Dede, Amakye",Seafood,Savannah,Clifford Quist,2018-05-28,79.99,2018,5,May,Q2,Mon,79.99,1
+167,"Barkley, Ross",Beef Meals,Savannah,Elton John,2018-05-28,1013.7,2018,5,May,Q2,Mon,168.95,6
+168,"Smith, Bob",Vegetarian Dishes,Oti,Elton John,2018-05-28,4773.3,2018,5,May,Q2,Mon,340.95,14
+169,"Temple, Cheryl",Beef Meals,Oti,Kwaku Mason,2018-05-28,1520.55,2018,5,May,Q2,Mon,168.95,9
+170,"Read, Tira",Vegetarian Dishes,Savannah,Sharon Sticks,2018-05-28,340.95,2018,5,May,Q2,Mon,340.95,1
+171,"Read, Tira",Pasta Dishes,Savannah,Clifford Quist,2018-05-31,3999.75,2018,5,May,Q2,Thu,799.95,5
+172,"Smith, Bob",Beef Meals,Oti,Elton John,2018-06-03,2365.3,2018,6,Jun,Q2,Sun,168.95,14
+173,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Kwaku Mason,2018-06-04,681.9,2018,6,Jun,Q2,Mon,340.95,2
+174,"Temple, Cheryl",Seafood,Oti,Kwaku Mason,2018-06-04,959.88,2018,6,Jun,Q2,Mon,79.99,12
+175,"Dede, Amakye",Vegetarian Dishes,Savannah,Clifford Quist,2018-06-06,3068.55,2018,6,Jun,Q2,Wed,340.95,9
+176,"Read, Tira",Seafood,Savannah,Fisher Mills,2018-06-07,479.94,2018,6,Jun,Q2,Thu,79.99,6
+177,"Barkley, Ross",Beef Meals,Savannah,Elton John,2018-06-10,3041.1,2018,6,Jun,Q2,Sun,168.95,18
+178,"Smith, Bob",Vegetarian Dishes,Oti,Elton John,2018-06-11,4432.35,2018,6,Jun,Q2,Mon,340.95,13
+179,"Hines, Zach",Seafood,Ashanti,Fisher Mills,2018-06-12,1119.86,2018,6,Jun,Q2,Tue,79.99,14
+180,"Smith, Bob",Pasta Dishes,Oti,Fisher Mills,2018-06-12,2399.85,2018,6,Jun,Q2,Tue,799.95,3
+181,"Smith, Bob",Fish Meals,Oti,Elton John,2018-06-13,6137.1,2018,6,Jun,Q2,Wed,340.95,18
+182,"Haveria, Luiz",Seafood,Greater Accra,Sharon Sticks,2018-06-13,719.91,2018,6,Jun,Q2,Wed,79.99,9
+183,"Dede, Amakye",Pasta Dishes,Savannah,Fisher Mills,2018-06-14,7999.5,2018,6,Jun,Q2,Thu,799.95,10
+184,"Milner, James",Vegetarian Dishes,Greater Accra,Clifford Quist,2018-06-15,2045.7,2018,6,Jun,Q2,Fri,340.95,6
+185,"Barkley, Ross",Beef Meals,Savannah,Clifford Quist,2018-06-18,1013.7,2018,6,Jun,Q2,Mon,168.95,6
+186,"Temple, Cheryl",Beef Meals,Oti,Clifford Quist,2018-06-18,1520.55,2018,6,Jun,Q2,Mon,168.95,9
+187,"Milner, James",Vegetarian Dishes,Greater Accra,Clifford Quist,2018-06-18,3409.5,2018,6,Jun,Q2,Mon,340.95,10
+188,"Stuart, Jill",Pasta Dishes,Oti,Sharon Sticks,2018-06-18,2399.85,2018,6,Jun,Q2,Mon,799.95,3
+189,"Stuart, Jill",Pasta Dishes,Oti,Elton John,2018-06-19,15199.05,2018,6,Jun,Q2,Tue,799.95,19
+190,"Azpilecueta, Moses",Fish Meals,Oti,Kwaku Mason,2018-06-19,4773.3,2018,6,Jun,Q2,Tue,340.95,14
+191,"Azpilecueta, Moses",Pasta Dishes,Oti,Kwaku Mason,2018-06-21,8799.45,2018,6,Jun,Q2,Thu,799.95,11
+192,"Dede, Amakye",Pasta Dishes,Savannah,Sharon Sticks,2018-06-21,4799.7,2018,6,Jun,Q2,Thu,799.95,6
+193,"Stuart, Jill",Seafood,Oti,Kwaku Mason,2018-06-22,239.97,2018,6,Jun,Q2,Fri,79.99,3
+194,"Haveria, Luiz",Beef Meals,Greater Accra,Clifford Quist,2018-06-25,844.75,2018,6,Jun,Q2,Mon,168.95,5
+195,"Smith, Bob",Pasta Dishes,Oti,Elton John,2018-06-25,15199.05,2018,6,Jun,Q2,Mon,799.95,19
+196,"Smith, Bob",Seafood,Oti,Fisher Mills,2018-06-25,799.9,2018,6,Jun,Q2,Mon,79.99,10
+197,"Temple, Cheryl",Vegetarian Dishes,Oti,Sharon Sticks,2018-06-25,2727.6,2018,6,Jun,Q2,Mon,340.95,8
+198,"Smith, Bob",Pasta Dishes,Oti,Sharon Sticks,2018-06-25,7199.55,2018,6,Jun,Q2,Mon,799.95,9
+199,"Smith, Bob",Fish Meals,Oti,Fisher Mills,2018-06-26,2045.7,2018,6,Jun,Q2,Tue,340.95,6
+200,"Read, Tira",Seafood,Savannah,Kwaku Mason,2018-06-26,879.89,2018,6,Jun,Q2,Tue,79.99,11
+201,"Temple, Cheryl",Beef Meals,Oti,Clifford Quist,2018-06-27,1182.65,2018,6,Jun,Q2,Wed,168.95,7
+202,"Dede, Amakye",Fish Meals,Savannah,Kwaku Mason,2018-06-27,681.9,2018,6,Jun,Q2,Wed,340.95,2
+203,"Temple, Cheryl",Fish Meals,Oti,Sharon Sticks,2018-06-27,5114.25,2018,6,Jun,Q2,Wed,340.95,15
+204,"Azpilecueta, Moses",Seafood,Oti,Elton John,2018-06-28,959.88,2018,6,Jun,Q2,Thu,79.99,12
+205,"Hines, Zach",Pasta Dishes,Ashanti,Sharon Sticks,2018-06-28,11199.3,2018,6,Jun,Q2,Thu,799.95,14
+206,"Barkley, Ross",Pasta Dishes,Savannah,Sharon Sticks,2018-06-28,11999.25,2018,6,Jun,Q2,Thu,799.95,15
+207,"Barkley, Ross",Vegetarian Dishes,Savannah,Sharon Sticks,2018-06-28,1363.8,2018,6,Jun,Q2,Thu,340.95,4
+208,"Haveria, Luiz",Pasta Dishes,Greater Accra,Clifford Quist,2018-07-04,8799.45,2018,7,Jul,Q3,Wed,799.95,11
+209,"Read, Tira",Vegetarian Dishes,Savannah,Fisher Mills,2018-07-04,4773.3,2018,7,Jul,Q3,Wed,340.95,14
+210,"Haveria, Luiz",Seafood,Greater Accra,Clifford Quist,2018-07-05,479.94,2018,7,Jul,Q3,Thu,79.99,6
+211,"Hines, Zach",Beef Meals,Ashanti,Fisher Mills,2018-07-05,1182.65,2018,7,Jul,Q3,Thu,168.95,7
+212,"Haveria, Luiz",Pasta Dishes,Greater Accra,Fisher Mills,2018-07-05,1599.9,2018,7,Jul,Q3,Thu,799.95,2
+213,"Read, Tira",Vegetarian Dishes,Savannah,Kwaku Mason,2018-07-05,4432.35,2018,7,Jul,Q3,Thu,340.95,13
+214,"Temple, Cheryl",Pasta Dishes,Oti,Elton John,2018-07-09,11999.25,2018,7,Jul,Q3,Mon,799.95,15
+215,"Temple, Cheryl",Seafood,Oti,Kwaku Mason,2018-07-09,959.88,2018,7,Jul,Q3,Mon,79.99,12
+216,"Stuart, Jill",Beef Meals,Oti,Sharon Sticks,2018-07-11,2365.3,2018,7,Jul,Q3,Wed,168.95,14
+217,"Smith, Bob",Vegetarian Dishes,Oti,Elton John,2018-07-12,3068.55,2018,7,Jul,Q3,Thu,340.95,9
+218,"Smith, Bob",Pasta Dishes,Oti,Elton John,2018-07-13,11199.3,2018,7,Jul,Q3,Fri,799.95,14
+219,"Hines, Zach",Pasta Dishes,Ashanti,Fisher Mills,2018-07-13,2399.85,2018,7,Jul,Q3,Fri,799.95,3
+220,"Fog, Londong",Fish Meals,Ashanti,Fisher Mills,2018-07-13,4773.3,2018,7,Jul,Q3,Fri,340.95,14
+221,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Clifford Quist,2018-07-16,2045.7,2018,7,Jul,Q3,Mon,340.95,6
+222,"Smith, Bob",Seafood,Oti,Clifford Quist,2018-07-16,159.98,2018,7,Jul,Q3,Mon,79.99,2
+223,"Smith, Bob",Fish Meals,Oti,Kwaku Mason,2018-07-16,4432.35,2018,7,Jul,Q3,Mon,340.95,13
+224,"Stuart, Jill",Vegetarian Dishes,Oti,Sharon Sticks,2018-07-17,681.9,2018,7,Jul,Q3,Tue,340.95,2
+225,"Dede, Amakye",Seafood,Savannah,Elton John,2018-07-18,639.92,2018,7,Jul,Q3,Wed,79.99,8
+226,"Fog, Londong",Vegetarian Dishes,Ashanti,Fisher Mills,2018-07-19,681.9,2018,7,Jul,Q3,Thu,340.95,2
+227,"Smith, Bob",Pasta Dishes,Oti,Clifford Quist,2018-07-20,11199.3,2018,7,Jul,Q3,Fri,799.95,14
+228,"Read, Tira",Vegetarian Dishes,Savannah,Kwaku Mason,2018-07-20,4432.35,2018,7,Jul,Q3,Fri,340.95,13
+229,"Temple, Cheryl",Pasta Dishes,Oti,Clifford Quist,2018-07-23,1599.9,2018,7,Jul,Q3,Mon,799.95,2
+230,"Milner, James",Pasta Dishes,Greater Accra,Fisher Mills,2018-07-23,11999.25,2018,7,Jul,Q3,Mon,799.95,15
+231,"Stuart, Jill",Vegetarian Dishes,Oti,Fisher Mills,2018-07-23,4432.35,2018,7,Jul,Q3,Mon,340.95,13
+232,"Fog, Londong",Seafood,Ashanti,Kwaku Mason,2018-07-23,1039.87,2018,7,Jul,Q3,Mon,79.99,13
+233,"Haveria, Luiz",Beef Meals,Greater Accra,Elton John,2018-07-24,1182.65,2018,7,Jul,Q3,Tue,168.95,7
+234,"Fog, Londong",Vegetarian Dishes,Ashanti,Fisher Mills,2018-07-24,3068.55,2018,7,Jul,Q3,Tue,340.95,9
+235,"Smith, Bob",Fish Meals,Oti,Sharon Sticks,2018-07-24,2386.65,2018,7,Jul,Q3,Tue,340.95,7
+236,"Barkley, Ross",Fish Meals,Savannah,Clifford Quist,2018-07-25,4773.3,2018,7,Jul,Q3,Wed,340.95,14
+237,"Stuart, Jill",Seafood,Oti,Clifford Quist,2018-07-26,719.91,2018,7,Jul,Q3,Thu,79.99,9
+238,"Hines, Zach",Vegetarian Dishes,Ashanti,Elton John,2018-07-26,4091.4,2018,7,Jul,Q3,Thu,340.95,12
+239,"Dede, Amakye",Pasta Dishes,Savannah,Kwaku Mason,2018-07-27,1599.9,2018,7,Jul,Q3,Fri,799.95,2
+240,"Smith, Bob",Fish Meals,Oti,Clifford Quist,2018-07-29,1022.85,2018,7,Jul,Q3,Sun,340.95,3
+241,"Temple, Cheryl",Pasta Dishes,Oti,Sharon Sticks,2018-07-29,7199.55,2018,7,Jul,Q3,Sun,799.95,9
+242,"Read, Tira",Beef Meals,Savannah,Elton John,2018-07-30,2027.4,2018,7,Jul,Q3,Mon,168.95,12
+243,"Fog, Londong",Beef Meals,Ashanti,Fisher Mills,2018-07-30,1351.6,2018,7,Jul,Q3,Mon,168.95,8
+244,"Dede, Amakye",Fish Meals,Savannah,Elton John,2018-07-31,4091.4,2018,7,Jul,Q3,Tue,340.95,12
+245,"Stuart, Jill",Seafood,Oti,Kwaku Mason,2018-07-31,799.9,2018,7,Jul,Q3,Tue,79.99,10
+246,"Temple, Cheryl",Fish Meals,Oti,Elton John,2018-08-01,3750.45,2018,8,Aug,Q3,Wed,340.95,11
+247,"Stuart, Jill",Vegetarian Dishes,Oti,Clifford Quist,2018-08-02,3409.5,2018,8,Aug,Q3,Thu,340.95,10
+248,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Elton John,2018-08-05,5114.25,2018,8,Aug,Q3,Sun,340.95,15
+249,"Haveria, Luiz",Beef Meals,Greater Accra,Elton John,2018-08-05,3379.0,2018,8,Aug,Q3,Sun,168.95,20
+250,"Temple, Cheryl",Fish Meals,Oti,Elton John,2018-08-06,2386.65,2018,8,Aug,Q3,Mon,340.95,7
+251,"Fog, Londong",Fish Meals,Ashanti,Fisher Mills,2018-08-06,1363.8,2018,8,Aug,Q3,Mon,340.95,4
+252,"Smith, Bob",Beef Meals,Oti,Sharon Sticks,2018-08-06,2534.25,2018,8,Aug,Q3,Mon,168.95,15
+253,"Smith, Bob",Pasta Dishes,Oti,Clifford Quist,2018-08-07,6399.6,2018,8,Aug,Q3,Tue,799.95,8
+254,"Read, Tira",Pasta Dishes,Savannah,Kwaku Mason,2018-08-07,3999.75,2018,8,Aug,Q3,Tue,799.95,5
+255,"Fog, Londong",Fish Meals,Ashanti,Clifford Quist,2018-08-09,4773.3,2018,8,Aug,Q3,Thu,340.95,14
+256,"Milner, James",Fish Meals,Greater Accra,Sharon Sticks,2018-08-09,681.9,2018,8,Aug,Q3,Thu,340.95,2
+257,"Temple, Cheryl",Beef Meals,Oti,Kwaku Mason,2018-08-12,2196.35,2018,8,Aug,Q3,Sun,168.95,13
+258,"Read, Tira",Seafood,Savannah,Fisher Mills,2018-08-13,239.97,2018,8,Aug,Q3,Mon,79.99,3
+259,"Smith, Bob",Fish Meals,Oti,Elton John,2018-08-14,6819.0,2018,8,Aug,Q3,Tue,340.95,20
+260,"Azpilecueta, Moses",Pasta Dishes,Oti,Fisher Mills,2018-08-16,7199.55,2018,8,Aug,Q3,Thu,799.95,9
+261,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Fisher Mills,2018-08-17,5114.25,2018,8,Aug,Q3,Fri,340.95,15
+262,"Azpilecueta, Moses",Pasta Dishes,Oti,Clifford Quist,2018-08-19,799.95,2018,8,Aug,Q3,Sun,799.95,1
+263,"Dede, Amakye",Fish Meals,Savannah,Clifford Quist,2018-08-19,1022.85,2018,8,Aug,Q3,Sun,340.95,3
+264,"Dede, Amakye",Fish Meals,Savannah,Fisher Mills,2018-08-19,3409.5,2018,8,Aug,Q3,Sun,340.95,10
+265,"Read, Tira",Beef Meals,Savannah,Fisher Mills,2018-08-19,337.9,2018,8,Aug,Q3,Sun,168.95,2
+266,"Milner, James",Beef Meals,Greater Accra,Sharon Sticks,2018-08-20,1351.6,2018,8,Aug,Q3,Mon,168.95,8
+267,"Read, Tira",Fish Meals,Savannah,Elton John,2018-08-21,2045.7,2018,8,Aug,Q3,Tue,340.95,6
+268,"Read, Tira",Beef Meals,Savannah,Fisher Mills,2018-08-21,168.95,2018,8,Aug,Q3,Tue,168.95,1
+269,"Dede, Amakye",Pasta Dishes,Savannah,Fisher Mills,2018-08-22,10399.35,2018,8,Aug,Q3,Wed,799.95,13
+270,"Azpilecueta, Moses",Seafood,Oti,Fisher Mills,2018-08-23,719.91,2018,8,Aug,Q3,Thu,79.99,9
+271,"Stuart, Jill",Pasta Dishes,Oti,Clifford Quist,2018-08-24,3199.8,2018,8,Aug,Q3,Fri,799.95,4
+272,"Stuart, Jill",Seafood,Oti,Elton John,2018-08-26,959.88,2018,8,Aug,Q3,Sun,79.99,12
+273,"Hines, Zach",Fish Meals,Ashanti,Fisher Mills,2018-08-26,2727.6,2018,8,Aug,Q3,Sun,340.95,8
+274,"Fog, Londong",Fish Meals,Ashanti,Kwaku Mason,2018-08-26,1704.75,2018,8,Aug,Q3,Sun,340.95,5
+275,"Dede, Amakye",Beef Meals,Savannah,Sharon Sticks,2018-08-27,506.85,2018,8,Aug,Q3,Mon,168.95,3
+276,"Dede, Amakye",Fish Meals,Savannah,Sharon Sticks,2018-08-27,5114.25,2018,8,Aug,Q3,Mon,340.95,15
+277,"Haveria, Luiz",Seafood,Greater Accra,Kwaku Mason,2018-08-29,399.95,2018,8,Aug,Q3,Wed,79.99,5
+278,"Azpilecueta, Moses",Seafood,Oti,Fisher Mills,2018-08-30,959.88,2018,8,Aug,Q3,Thu,79.99,12
+279,"Barkley, Ross",Fish Meals,Savannah,Elton John,2018-09-03,3750.45,2018,9,Sep,Q3,Mon,340.95,11
+280,"Haveria, Luiz",Seafood,Greater Accra,Kwaku Mason,2018-09-03,159.98,2018,9,Sep,Q3,Mon,79.99,2
+281,"Haveria, Luiz",Seafood,Greater Accra,Sharon Sticks,2018-09-03,239.97,2018,9,Sep,Q3,Mon,79.99,3
+282,"Read, Tira",Beef Meals,Savannah,Sharon Sticks,2018-09-03,2027.4,2018,9,Sep,Q3,Mon,168.95,12
+283,"Temple, Cheryl",Vegetarian Dishes,Oti,Sharon Sticks,2018-09-04,3068.55,2018,9,Sep,Q3,Tue,340.95,9
+284,"Fog, Londong",Seafood,Ashanti,Elton John,2018-09-05,879.89,2018,9,Sep,Q3,Wed,79.99,11
+285,"Haveria, Luiz",Beef Meals,Greater Accra,Elton John,2018-09-06,1520.55,2018,9,Sep,Q3,Thu,168.95,9
+286,"Temple, Cheryl",Vegetarian Dishes,Oti,Kwaku Mason,2018-09-06,340.95,2018,9,Sep,Q3,Thu,340.95,1
+287,"Temple, Cheryl",Seafood,Oti,Clifford Quist,2018-09-09,1039.87,2018,9,Sep,Q3,Sun,79.99,13
+288,"Temple, Cheryl",Fish Meals,Oti,Elton John,2018-09-09,2386.65,2018,9,Sep,Q3,Sun,340.95,7
+289,"Smith, Bob",Seafood,Oti,Sharon Sticks,2018-09-09,79.99,2018,9,Sep,Q3,Sun,79.99,1
+290,"Stuart, Jill",Pasta Dishes,Oti,Sharon Sticks,2018-09-09,3199.8,2018,9,Sep,Q3,Sun,799.95,4
+291,"Barkley, Ross",Pasta Dishes,Savannah,Clifford Quist,2018-09-10,11199.3,2018,9,Sep,Q3,Mon,799.95,14
+292,"Milner, James",Pasta Dishes,Greater Accra,Kwaku Mason,2018-09-10,799.95,2018,9,Sep,Q3,Mon,799.95,1
+293,"Smith, Bob",Vegetarian Dishes,Oti,Clifford Quist,2018-09-12,1022.85,2018,9,Sep,Q3,Wed,340.95,3
+294,"Fog, Londong",Beef Meals,Ashanti,Sharon Sticks,2018-09-12,675.8,2018,9,Sep,Q3,Wed,168.95,4
+295,"Stuart, Jill",Fish Meals,Oti,Sharon Sticks,2018-09-12,3409.5,2018,9,Sep,Q3,Wed,340.95,10
+296,"Dede, Amakye",Fish Meals,Savannah,Clifford Quist,2018-09-14,1704.75,2018,9,Sep,Q3,Fri,340.95,5
+297,"Barkley, Ross",Fish Meals,Savannah,Clifford Quist,2018-09-14,2727.6,2018,9,Sep,Q3,Fri,340.95,8
+298,"Fog, Londong",Pasta Dishes,Ashanti,Elton John,2018-09-14,10399.35,2018,9,Sep,Q3,Fri,799.95,13
+299,"Read, Tira",Seafood,Savannah,Elton John,2018-09-14,1039.87,2018,9,Sep,Q3,Fri,79.99,13
+300,"Temple, Cheryl",Pasta Dishes,Oti,Kwaku Mason,2018-09-14,7999.5,2018,9,Sep,Q3,Fri,799.95,10
+301,"Smith, Bob",Vegetarian Dishes,Oti,Clifford Quist,2018-09-17,2727.6,2018,9,Sep,Q3,Mon,340.95,8
+302,"Hines, Zach",Fish Meals,Ashanti,Fisher Mills,2018-09-17,3068.55,2018,9,Sep,Q3,Mon,340.95,9
+303,"Dede, Amakye",Pasta Dishes,Savannah,Kwaku Mason,2018-09-17,6399.6,2018,9,Sep,Q3,Mon,799.95,8
+304,"Read, Tira",Pasta Dishes,Savannah,Kwaku Mason,2018-09-17,7999.5,2018,9,Sep,Q3,Mon,799.95,10
+305,"Dede, Amakye",Pasta Dishes,Savannah,Kwaku Mason,2018-09-19,10399.35,2018,9,Sep,Q3,Wed,799.95,13
+306,"Milner, James",Fish Meals,Greater Accra,Fisher Mills,2018-09-20,5114.25,2018,9,Sep,Q3,Thu,340.95,15
+307,"Temple, Cheryl",Pasta Dishes,Oti,Kwaku Mason,2018-09-20,8799.45,2018,9,Sep,Q3,Thu,799.95,11
+308,"Read, Tira",Seafood,Savannah,Kwaku Mason,2018-09-20,1119.86,2018,9,Sep,Q3,Thu,79.99,14
+309,"Read, Tira",Pasta Dishes,Savannah,Clifford Quist,2018-09-21,7999.5,2018,9,Sep,Q3,Fri,799.95,10
+310,"Fog, Londong",Vegetarian Dishes,Ashanti,Sharon Sticks,2018-09-21,4091.4,2018,9,Sep,Q3,Fri,340.95,12
+311,"Fog, Londong",Seafood,Ashanti,Kwaku Mason,2018-09-24,959.88,2018,9,Sep,Q3,Mon,79.99,12
+312,"Read, Tira",Pasta Dishes,Savannah,Sharon Sticks,2018-09-24,3199.8,2018,9,Sep,Q3,Mon,799.95,4
+313,"Haveria, Luiz",Seafood,Greater Accra,Fisher Mills,2018-09-26,239.97,2018,9,Sep,Q3,Wed,79.99,3
+314,"Milner, James",Fish Meals,Greater Accra,Clifford Quist,2018-09-27,340.95,2018,9,Sep,Q3,Thu,340.95,1
+315,"Fog, Londong",Beef Meals,Ashanti,Sharon Sticks,2018-09-28,675.8,2018,9,Sep,Q3,Fri,168.95,4
+316,"Haveria, Luiz",Pasta Dishes,Greater Accra,Elton John,2018-09-30,4799.7,2018,9,Sep,Q3,Sun,799.95,6
+317,"Dede, Amakye",Fish Meals,Savannah,Sharon Sticks,2018-09-30,340.95,2018,9,Sep,Q3,Sun,340.95,1
+318,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Sharon Sticks,2018-10-01,4091.4,2018,10,Oct,Q4,Mon,340.95,12
+319,"Read, Tira",Beef Meals,Savannah,Kwaku Mason,2018-10-02,168.95,2018,10,Oct,Q4,Tue,168.95,1
+320,"Temple, Cheryl",Fish Meals,Oti,Elton John,2018-10-03,6478.05,2018,10,Oct,Q4,Wed,340.95,19
+321,"Read, Tira",Fish Meals,Savannah,Elton John,2018-10-03,2045.7,2018,10,Oct,Q4,Wed,340.95,6
+322,"Stuart, Jill",Seafood,Oti,Elton John,2018-10-03,1599.8,2018,10,Oct,Q4,Wed,79.99,20
+323,"Fog, Londong",Beef Meals,Ashanti,Kwaku Mason,2018-10-04,1013.7,2018,10,Oct,Q4,Thu,168.95,6
+324,"Tall, Liz",Beef Meals,Savannah,Elton John,2018-10-07,3041.1,2018,10,Oct,Q4,Sun,168.95,18
+325,"Smith, Bob",Seafood,Oti,Clifford Quist,2018-10-08,319.96,2018,10,Oct,Q4,Mon,79.99,4
+326,"Milner, James",Fish Meals,Greater Accra,Fisher Mills,2018-10-08,340.95,2018,10,Oct,Q4,Mon,340.95,1
+327,"Temple, Cheryl",Vegetarian Dishes,Oti,Kwaku Mason,2018-10-08,5114.25,2018,10,Oct,Q4,Mon,340.95,15
+328,"Stuart, Jill",Beef Meals,Oti,Kwaku Mason,2018-10-08,675.8,2018,10,Oct,Q4,Mon,168.95,4
+329,"Temple, Cheryl",Fish Meals,Oti,Sharon Sticks,2018-10-08,2045.7,2018,10,Oct,Q4,Mon,340.95,6
+330,"Fog, Londong",Vegetarian Dishes,Ashanti,Sharon Sticks,2018-10-08,2386.65,2018,10,Oct,Q4,Mon,340.95,7
+331,"Read, Tira",Vegetarian Dishes,Savannah,Sharon Sticks,2018-10-11,4091.4,2018,10,Oct,Q4,Thu,340.95,12
+332,"Read, Tira",Seafood,Savannah,Clifford Quist,2018-10-14,79.99,2018,10,Oct,Q4,Sun,79.99,1
+333,"Tall, Liz",Fish Meals,Savannah,Elton John,2018-10-15,4432.35,2018,10,Oct,Q4,Mon,340.95,13
+334,"Smith, Bob",Seafood,Oti,Fisher Mills,2018-10-15,159.98,2018,10,Oct,Q4,Mon,79.99,2
+335,"Fog, Londong",Seafood,Ashanti,Clifford Quist,2018-10-16,319.96,2018,10,Oct,Q4,Tue,79.99,4
+336,"Azpilecueta, Moses",Seafood,Oti,Kwaku Mason,2018-10-16,79.99,2018,10,Oct,Q4,Tue,79.99,1
+337,"Azpilecueta, Moses",Fish Meals,Oti,Kwaku Mason,2018-10-16,1022.85,2018,10,Oct,Q4,Tue,340.95,3
+338,"Haveria, Luiz",Beef Meals,Greater Accra,Clifford Quist,2018-10-21,1182.65,2018,10,Oct,Q4,Sun,168.95,7
+339,"Smith, Bob",Vegetarian Dishes,Oti,Clifford Quist,2018-10-22,2045.7,2018,10,Oct,Q4,Mon,340.95,6
+340,"Smith, Bob",Fish Meals,Oti,Clifford Quist,2018-10-22,2386.65,2018,10,Oct,Q4,Mon,340.95,7
+341,"Fog, Londong",Pasta Dishes,Ashanti,Clifford Quist,2018-10-22,10399.35,2018,10,Oct,Q4,Mon,799.95,13
+342,"Hines, Zach",Pasta Dishes,Ashanti,Fisher Mills,2018-10-22,3999.75,2018,10,Oct,Q4,Mon,799.95,5
+343,"Smith, Bob",Beef Meals,Oti,Kwaku Mason,2018-10-22,337.9,2018,10,Oct,Q4,Mon,168.95,2
+344,"Smith, Bob",Fish Meals,Oti,Sharon Sticks,2018-10-22,681.9,2018,10,Oct,Q4,Mon,340.95,2
+345,"Dede, Amakye",Seafood,Savannah,Sharon Sticks,2018-10-23,959.88,2018,10,Oct,Q4,Tue,79.99,12
+346,"Barkley, Ross",Seafood,Savannah,Clifford Quist,2018-10-25,959.88,2018,10,Oct,Q4,Thu,79.99,12
+347,"Read, Tira",Pasta Dishes,Savannah,Clifford Quist,2018-10-25,1599.9,2018,10,Oct,Q4,Thu,799.95,2
+348,"Hines, Zach",Vegetarian Dishes,Ashanti,Fisher Mills,2018-10-25,1704.75,2018,10,Oct,Q4,Thu,340.95,5
+349,"Hines, Zach",Fish Meals,Ashanti,Kwaku Mason,2018-10-25,2727.6,2018,10,Oct,Q4,Thu,340.95,8
+350,"Read, Tira",Fish Meals,Savannah,Clifford Quist,2018-10-26,1363.8,2018,10,Oct,Q4,Fri,340.95,4
+351,"Smith, Bob",Vegetarian Dishes,Oti,Kwaku Mason,2018-10-28,681.9,2018,10,Oct,Q4,Sun,340.95,2
+352,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Sharon Sticks,2018-10-28,1704.75,2018,10,Oct,Q4,Sun,340.95,5
+353,"Haveria, Luiz",Beef Meals,Greater Accra,Fisher Mills,2018-10-29,2027.4,2018,10,Oct,Q4,Mon,168.95,12
+354,"Stuart, Jill",Beef Meals,Oti,Fisher Mills,2018-10-29,2534.25,2018,10,Oct,Q4,Mon,168.95,15
+355,"Read, Tira",Pasta Dishes,Savannah,Clifford Quist,2018-10-30,7199.55,2018,10,Oct,Q4,Tue,799.95,9
+356,"Temple, Cheryl",Vegetarian Dishes,Oti,Sharon Sticks,2018-10-30,1704.75,2018,10,Oct,Q4,Tue,340.95,5
+357,"Smith, Bob",Pasta Dishes,Oti,Clifford Quist,2018-10-31,3199.8,2018,10,Oct,Q4,Wed,799.95,4
+358,"Fog, Londong",Fish Meals,Ashanti,Sharon Sticks,2018-10-31,5114.25,2018,10,Oct,Q4,Wed,340.95,15
+359,"Barkley, Ross",Pasta Dishes,Savannah,Clifford Quist,2018-11-01,7999.5,2018,11,Nov,Q4,Thu,799.95,10
+360,"Dede, Amakye",Fish Meals,Savannah,Kwaku Mason,2018-11-02,681.9,2018,11,Nov,Q4,Fri,340.95,2
+361,"Azpilecueta, Moses",Beef Meals,Oti,Elton John,2018-11-04,1858.45,2018,11,Nov,Q4,Sun,168.95,11
+362,"Azpilecueta, Moses",Beef Meals,Oti,Kwaku Mason,2018-11-04,337.9,2018,11,Nov,Q4,Sun,168.95,2
+363,"Hines, Zach",Pasta Dishes,Ashanti,Sharon Sticks,2018-11-05,5599.65,2018,11,Nov,Q4,Mon,799.95,7
+364,"Dede, Amakye",Vegetarian Dishes,Savannah,Sharon Sticks,2018-11-05,2045.7,2018,11,Nov,Q4,Mon,340.95,6
+365,"Haveria, Luiz",Seafood,Greater Accra,Elton John,2018-11-08,719.91,2018,11,Nov,Q4,Thu,79.99,9
+366,"Haveria, Luiz",Beef Meals,Greater Accra,Kwaku Mason,2018-11-08,1858.45,2018,11,Nov,Q4,Thu,168.95,11
+367,"Dede, Amakye",Seafood,Savannah,Clifford Quist,2018-11-12,1039.87,2018,11,Nov,Q4,Mon,79.99,13
+368,"Hines, Zach",Vegetarian Dishes,Ashanti,Elton John,2018-11-12,5455.2,2018,11,Nov,Q4,Mon,340.95,16
+369,"Barkley, Ross",Beef Meals,Savannah,Elton John,2018-11-12,1858.45,2018,11,Nov,Q4,Mon,168.95,11
+370,"Temple, Cheryl",Seafood,Oti,Elton John,2018-11-12,799.9,2018,11,Nov,Q4,Mon,79.99,10
+371,"Barkley, Ross",Beef Meals,Savannah,Fisher Mills,2018-11-12,168.95,2018,11,Nov,Q4,Mon,168.95,1
+372,"Haveria, Luiz",Fish Meals,Greater Accra,Kwaku Mason,2018-11-12,681.9,2018,11,Nov,Q4,Mon,340.95,2
+373,"Stuart, Jill",Vegetarian Dishes,Oti,Sharon Sticks,2018-11-12,1363.8,2018,11,Nov,Q4,Mon,340.95,4
+374,"Azpilecueta, Moses",Pasta Dishes,Oti,Kwaku Mason,2018-11-15,2399.85,2018,11,Nov,Q4,Thu,799.95,3
+375,"Smith, Bob",Beef Meals,Oti,Elton John,2018-11-16,2534.25,2018,11,Nov,Q4,Fri,168.95,15
+376,"Azpilecueta, Moses",Seafood,Oti,Clifford Quist,2018-11-19,639.92,2018,11,Nov,Q4,Mon,79.99,8
+377,"Tall, Liz",Seafood,Savannah,Elton John,2018-11-19,1039.87,2018,11,Nov,Q4,Mon,79.99,13
+378,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Kwaku Mason,2018-11-19,3068.55,2018,11,Nov,Q4,Mon,340.95,9
+379,"Smith, Bob",Beef Meals,Oti,Kwaku Mason,2018-11-19,844.75,2018,11,Nov,Q4,Mon,168.95,5
+380,"Read, Tira",Vegetarian Dishes,Savannah,Kwaku Mason,2018-11-19,3409.5,2018,11,Nov,Q4,Mon,340.95,10
+381,"Barkley, Ross",Seafood,Savannah,Sharon Sticks,2018-11-19,799.9,2018,11,Nov,Q4,Mon,79.99,10
+382,"Read, Tira",Fish Meals,Savannah,Sharon Sticks,2018-11-19,1022.85,2018,11,Nov,Q4,Mon,340.95,3
+383,"Stuart, Jill",Beef Meals,Oti,Clifford Quist,2018-11-20,675.8,2018,11,Nov,Q4,Tue,168.95,4
+384,"Haveria, Luiz",Pasta Dishes,Greater Accra,Fisher Mills,2018-11-20,3999.75,2018,11,Nov,Q4,Tue,799.95,5
+385,"Temple, Cheryl",Fish Meals,Oti,Kwaku Mason,2018-11-20,2386.65,2018,11,Nov,Q4,Tue,340.95,7
+386,"Stuart, Jill",Vegetarian Dishes,Oti,Elton John,2018-11-22,2727.6,2018,11,Nov,Q4,Thu,340.95,8
+387,"Temple, Cheryl",Seafood,Oti,Kwaku Mason,2018-11-22,879.89,2018,11,Nov,Q4,Thu,79.99,11
+388,"Dede, Amakye",Vegetarian Dishes,Savannah,Sharon Sticks,2018-11-22,5114.25,2018,11,Nov,Q4,Thu,340.95,15
+389,"Temple, Cheryl",Beef Meals,Oti,Sharon Sticks,2018-11-22,506.85,2018,11,Nov,Q4,Thu,168.95,3
+390,"Stuart, Jill",Fish Meals,Oti,Sharon Sticks,2018-11-22,2727.6,2018,11,Nov,Q4,Thu,340.95,8
+391,"Barkley, Ross",Fish Meals,Savannah,Elton John,2018-11-23,4773.3,2018,11,Nov,Q4,Fri,340.95,14
+392,"Temple, Cheryl",Fish Meals,Oti,Elton John,2018-11-23,6478.05,2018,11,Nov,Q4,Fri,340.95,19
+393,"Temple, Cheryl",Seafood,Oti,Fisher Mills,2018-11-23,319.96,2018,11,Nov,Q4,Fri,79.99,4
+394,"Barkley, Ross",Fish Meals,Savannah,Sharon Sticks,2018-11-23,5114.25,2018,11,Nov,Q4,Fri,340.95,15
+395,"Temple, Cheryl",Pasta Dishes,Oti,Elton John,2018-11-25,11199.3,2018,11,Nov,Q4,Sun,799.95,14
+396,"Stuart, Jill",Fish Meals,Oti,Elton John,2018-11-25,2727.6,2018,11,Nov,Q4,Sun,340.95,8
+397,"Milner, James",Pasta Dishes,Greater Accra,Sharon Sticks,2018-11-25,1599.9,2018,11,Nov,Q4,Sun,799.95,2
+398,"Haveria, Luiz",Beef Meals,Greater Accra,Clifford Quist,2018-11-26,337.9,2018,11,Nov,Q4,Mon,168.95,2
+399,"Stuart, Jill",Pasta Dishes,Oti,Fisher Mills,2018-11-26,11199.3,2018,11,Nov,Q4,Mon,799.95,14
+400,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Elton John,2018-11-28,4773.3,2018,11,Nov,Q4,Wed,340.95,14
+401,"Stuart, Jill",Fish Meals,Oti,Fisher Mills,2018-11-28,3068.55,2018,11,Nov,Q4,Wed,340.95,9
+402,"Milner, James",Seafood,Greater Accra,Sharon Sticks,2018-11-28,399.95,2018,11,Nov,Q4,Wed,79.99,5
+403,"Stuart, Jill",Beef Meals,Oti,Clifford Quist,2018-11-29,506.85,2018,11,Nov,Q4,Thu,168.95,3
+404,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Elton John,2018-11-29,5796.15,2018,11,Nov,Q4,Thu,340.95,17
+405,"Stuart, Jill",Fish Meals,Oti,Kwaku Mason,2018-11-29,4091.4,2018,11,Nov,Q4,Thu,340.95,12
+406,"Milner, James",Beef Meals,Greater Accra,Fisher Mills,2018-11-30,2365.3,2018,11,Nov,Q4,Fri,168.95,14
+407,"Smith, Bob",Fish Meals,Oti,Kwaku Mason,2018-12-02,4773.3,2018,12,Dec,Q4,Sun,340.95,14
+408,"Milner, James",Beef Meals,Greater Accra,Clifford Quist,2018-12-03,1520.55,2018,12,Dec,Q4,Mon,168.95,9
+409,"Haveria, Luiz",Fish Meals,Greater Accra,Elton John,2018-12-03,4432.35,2018,12,Dec,Q4,Mon,340.95,13
+410,"Tall, Liz",Pasta Dishes,Savannah,Elton John,2018-12-04,9599.4,2018,12,Dec,Q4,Tue,799.95,12
+411,"Smith, Bob",Fish Meals,Oti,Kwaku Mason,2018-12-04,5114.25,2018,12,Dec,Q4,Tue,340.95,15
+412,"Temple, Cheryl",Fish Meals,Oti,Sharon Sticks,2018-12-05,4432.35,2018,12,Dec,Q4,Wed,340.95,13
+413,"Dede, Amakye",Seafood,Savannah,Clifford Quist,2018-12-06,239.97,2018,12,Dec,Q4,Thu,79.99,3
+414,"Smith, Bob",Seafood,Oti,Elton John,2018-12-09,1039.87,2018,12,Dec,Q4,Sun,79.99,13
+415,"Smith, Bob",Beef Meals,Oti,Kwaku Mason,2018-12-10,2534.25,2018,12,Dec,Q4,Mon,168.95,15
+416,"Dede, Amakye",Seafood,Savannah,Sharon Sticks,2018-12-10,799.9,2018,12,Dec,Q4,Mon,79.99,10
+417,"Haveria, Luiz",Beef Meals,Greater Accra,Sharon Sticks,2018-12-11,844.75,2018,12,Dec,Q4,Tue,168.95,5
+418,"Read, Tira",Seafood,Savannah,Sharon Sticks,2018-12-11,559.93,2018,12,Dec,Q4,Tue,79.99,7
+419,"Read, Tira",Seafood,Savannah,Clifford Quist,2018-12-13,479.94,2018,12,Dec,Q4,Thu,79.99,6
+420,"Milner, James",Beef Meals,Greater Accra,Fisher Mills,2018-12-13,168.95,2018,12,Dec,Q4,Thu,168.95,1
+421,"Barkley, Ross",Vegetarian Dishes,Savannah,Kwaku Mason,2018-12-13,340.95,2018,12,Dec,Q4,Thu,340.95,1
+422,"Stuart, Jill",Pasta Dishes,Oti,Clifford Quist,2018-12-14,5599.65,2018,12,Dec,Q4,Fri,799.95,7
+423,"Hines, Zach",Pasta Dishes,Ashanti,Elton John,2018-12-16,10399.35,2018,12,Dec,Q4,Sun,799.95,13
+424,"Temple, Cheryl",Vegetarian Dishes,Oti,Clifford Quist,2018-12-17,3068.55,2018,12,Dec,Q4,Mon,340.95,9
+425,"Barkley, Ross",Fish Meals,Savannah,Elton John,2018-12-17,4432.35,2018,12,Dec,Q4,Mon,340.95,13
+426,"Smith, Bob",Vegetarian Dishes,Oti,Fisher Mills,2018-12-17,681.9,2018,12,Dec,Q4,Mon,340.95,2
+427,"Milner, James",Seafood,Greater Accra,Fisher Mills,2018-12-18,319.96,2018,12,Dec,Q4,Tue,79.99,4
+428,"Milner, James",Pasta Dishes,Greater Accra,Sharon Sticks,2018-12-19,11199.3,2018,12,Dec,Q4,Wed,799.95,14
+429,"Temple, Cheryl",Fish Meals,Oti,Fisher Mills,2018-12-20,3750.45,2018,12,Dec,Q4,Thu,340.95,11
+430,"Stuart, Jill",Beef Meals,Oti,Fisher Mills,2018-12-20,1858.45,2018,12,Dec,Q4,Thu,168.95,11
+431,"Haveria, Luiz",Pasta Dishes,Greater Accra,Elton John,2018-12-21,8799.45,2018,12,Dec,Q4,Fri,799.95,11
+432,"Temple, Cheryl",Seafood,Oti,Elton John,2018-12-21,1519.81,2018,12,Dec,Q4,Fri,79.99,19
+433,"Smith, Bob",Pasta Dishes,Oti,Kwaku Mason,2018-12-23,4799.7,2018,12,Dec,Q4,Sun,799.95,6
+434,"Azpilecueta, Moses",Beef Meals,Oti,Clifford Quist,2018-12-24,1520.55,2018,12,Dec,Q4,Mon,168.95,9
+435,"Read, Tira",Beef Meals,Savannah,Elton John,2018-12-24,3210.05,2018,12,Dec,Q4,Mon,168.95,19
+436,"Azpilecueta, Moses",Seafood,Oti,Fisher Mills,2018-12-24,239.97,2018,12,Dec,Q4,Mon,79.99,3
+437,"Tall, Liz",Pasta Dishes,Savannah,Elton John,2018-12-25,15999.0,2018,12,Dec,Q4,Tue,799.95,20
+438,"Azpilecueta, Moses",Beef Meals,Oti,Fisher Mills,2018-12-25,2027.4,2018,12,Dec,Q4,Tue,168.95,12
+439,"Fog, Londong",Seafood,Ashanti,Fisher Mills,2018-12-25,79.99,2018,12,Dec,Q4,Tue,79.99,1
+440,"Read, Tira",Fish Meals,Savannah,Clifford Quist,2018-12-27,1022.85,2018,12,Dec,Q4,Thu,340.95,3
+441,"Haveria, Luiz",Fish Meals,Greater Accra,Elton John,2018-12-27,5455.2,2018,12,Dec,Q4,Thu,340.95,16
+442,"Stuart, Jill",Vegetarian Dishes,Oti,Fisher Mills,2018-12-27,1022.85,2018,12,Dec,Q4,Thu,340.95,3
+443,"Stuart, Jill",Beef Meals,Oti,Elton John,2018-12-28,3379.0,2018,12,Dec,Q4,Fri,168.95,20
+444,"Smith, Bob",Fish Meals,Oti,Fisher Mills,2018-12-28,2727.6,2018,12,Dec,Q4,Fri,340.95,8
+445,"Fog, Londong",Fish Meals,Ashanti,Kwaku Mason,2018-12-28,3068.55,2018,12,Dec,Q4,Fri,340.95,9
+446,"Hines, Zach",Fish Meals,Ashanti,Clifford Quist,2018-12-30,4091.4,2018,12,Dec,Q4,Sun,340.95,12
+447,"Azpilecueta, Moses",Beef Meals,Oti,Elton John,2018-12-30,1520.55,2018,12,Dec,Q4,Sun,168.95,9
+448,"Stuart, Jill",Seafood,Oti,Elton John,2018-12-30,1599.8,2018,12,Dec,Q4,Sun,79.99,20
+449,"Barkley, Ross",Fish Meals,Savannah,Fisher Mills,2018-12-30,2045.7,2018,12,Dec,Q4,Sun,340.95,6
+450,"Dede, Amakye",Seafood,Savannah,Kwaku Mason,2018-12-30,79.99,2018,12,Dec,Q4,Sun,79.99,1
+451,"Barkley, Ross",Seafood,Savannah,Sharon Sticks,2018-12-30,399.95,2018,12,Dec,Q4,Sun,79.99,5
+452,"Tall, Liz",Beef Meals,Savannah,Sharon Sticks,2018-12-30,506.85,2018,12,Dec,Q4,Sun,168.95,3
+453,"Stuart, Jill",Seafood,Oti,Elton John,2019-01-01,719.91,2019,1,Jan,Q1,Tue,79.99,9
+454,"Temple, Cheryl",Beef Meals,Oti,Kwaku Mason,2019-01-01,675.8,2019,1,Jan,Q1,Tue,168.95,4
+455,"Fog, Londong",Seafood,Ashanti,Kwaku Mason,2019-01-01,879.89,2019,1,Jan,Q1,Tue,79.99,11
+456,"Read, Tira",Beef Meals,Savannah,Kwaku Mason,2019-01-01,2534.25,2019,1,Jan,Q1,Tue,168.95,15
+457,"Dede, Amakye",Vegetarian Dishes,Savannah,Sharon Sticks,2019-01-01,2727.6,2019,1,Jan,Q1,Tue,340.95,8
+458,"Fog, Londong",Fish Meals,Ashanti,Elton John,2019-01-02,4091.4,2019,1,Jan,Q1,Wed,340.95,12
+459,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Fisher Mills,2019-01-02,1363.8,2019,1,Jan,Q1,Wed,340.95,4
+460,"Smith, Bob",Fish Meals,Oti,Clifford Quist,2019-01-07,681.9,2019,1,Jan,Q1,Mon,340.95,2
+461,"Fog, Londong",Beef Meals,Ashanti,Fisher Mills,2019-01-07,2534.25,2019,1,Jan,Q1,Mon,168.95,15
+462,"Fog, Londong",Seafood,Ashanti,Sharon Sticks,2019-01-07,79.99,2019,1,Jan,Q1,Mon,79.99,1
+463,"Read, Tira",Pasta Dishes,Savannah,Elton John,2019-01-08,14399.1,2019,1,Jan,Q1,Tue,799.95,18
+464,"Stuart, Jill",Beef Meals,Oti,Elton John,2019-01-08,3379.0,2019,1,Jan,Q1,Tue,168.95,20
+465,"Smith, Bob",Beef Meals,Oti,Kwaku Mason,2019-01-08,675.8,2019,1,Jan,Q1,Tue,168.95,4
+466,"Dede, Amakye",Fish Meals,Savannah,Clifford Quist,2019-01-09,3750.45,2019,1,Jan,Q1,Wed,340.95,11
+467,"Temple, Cheryl",Fish Meals,Oti,Clifford Quist,2019-01-09,340.95,2019,1,Jan,Q1,Wed,340.95,1
+468,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Fisher Mills,2019-01-09,2386.65,2019,1,Jan,Q1,Wed,340.95,7
+469,"Hines, Zach",Pasta Dishes,Ashanti,Clifford Quist,2019-01-10,5599.65,2019,1,Jan,Q1,Thu,799.95,7
+470,"Haveria, Luiz",Pasta Dishes,Greater Accra,Clifford Quist,2019-01-10,6399.6,2019,1,Jan,Q1,Thu,799.95,8
+471,"Barkley, Ross",Seafood,Savannah,Elton John,2019-01-10,1279.84,2019,1,Jan,Q1,Thu,79.99,16
+472,"Smith, Bob",Beef Meals,Oti,Elton John,2019-01-10,2703.2,2019,1,Jan,Q1,Thu,168.95,16
+473,"Hines, Zach",Beef Meals,Ashanti,Fisher Mills,2019-01-10,1013.7,2019,1,Jan,Q1,Thu,168.95,6
+474,"Azpilecueta, Moses",Pasta Dishes,Oti,Sharon Sticks,2019-01-10,11999.25,2019,1,Jan,Q1,Thu,799.95,15
+475,"Azpilecueta, Moses",Fish Meals,Oti,Sharon Sticks,2019-01-10,3750.45,2019,1,Jan,Q1,Thu,340.95,11
+476,"Fog, Londong",Beef Meals,Ashanti,Elton John,2019-01-11,1013.7,2019,1,Jan,Q1,Fri,168.95,6
+477,"Haveria, Luiz",Beef Meals,Greater Accra,Sharon Sticks,2019-01-11,1858.45,2019,1,Jan,Q1,Fri,168.95,11
+478,"Dede, Amakye",Pasta Dishes,Savannah,Sharon Sticks,2019-01-11,5599.65,2019,1,Jan,Q1,Fri,799.95,7
+479,"Temple, Cheryl",Beef Meals,Oti,Sharon Sticks,2019-01-13,168.95,2019,1,Jan,Q1,Sun,168.95,1
+480,"Hines, Zach",Beef Meals,Ashanti,Clifford Quist,2019-01-14,2534.25,2019,1,Jan,Q1,Mon,168.95,15
+481,"Haveria, Luiz",Seafood,Greater Accra,Clifford Quist,2019-01-14,959.88,2019,1,Jan,Q1,Mon,79.99,12
+482,"Hines, Zach",Beef Meals,Ashanti,Elton John,2019-01-14,2196.35,2019,1,Jan,Q1,Mon,168.95,13
+483,"Barkley, Ross",Fish Meals,Savannah,Sharon Sticks,2019-01-14,340.95,2019,1,Jan,Q1,Mon,340.95,1
+484,"Milner, James",Fish Meals,Greater Accra,Sharon Sticks,2019-01-14,5114.25,2019,1,Jan,Q1,Mon,340.95,15
+485,"Haveria, Luiz",Pasta Dishes,Greater Accra,Elton John,2019-01-16,4799.7,2019,1,Jan,Q1,Wed,799.95,6
+486,"Fog, Londong",Vegetarian Dishes,Ashanti,Sharon Sticks,2019-01-16,4432.35,2019,1,Jan,Q1,Wed,340.95,13
+487,"Azpilecueta, Moses",Beef Meals,Oti,Clifford Quist,2019-01-17,2534.25,2019,1,Jan,Q1,Thu,168.95,15
+488,"Stuart, Jill",Vegetarian Dishes,Oti,Kwaku Mason,2019-01-17,4091.4,2019,1,Jan,Q1,Thu,340.95,12
+489,"Temple, Cheryl",Vegetarian Dishes,Oti,Sharon Sticks,2019-01-17,681.9,2019,1,Jan,Q1,Thu,340.95,2
+490,"Temple, Cheryl",Seafood,Oti,Clifford Quist,2019-01-18,159.98,2019,1,Jan,Q1,Fri,79.99,2
+491,"Tall, Liz",Seafood,Savannah,Elton John,2019-01-18,639.92,2019,1,Jan,Q1,Fri,79.99,8
+492,"Fog, Londong",Fish Meals,Ashanti,Fisher Mills,2019-01-18,3409.5,2019,1,Jan,Q1,Fri,340.95,10
+493,"Stuart, Jill",Pasta Dishes,Oti,Clifford Quist,2019-01-21,2399.85,2019,1,Jan,Q1,Mon,799.95,3
+494,"Smith, Bob",Seafood,Oti,Kwaku Mason,2019-01-21,1119.86,2019,1,Jan,Q1,Mon,79.99,14
+495,"Stuart, Jill",Vegetarian Dishes,Oti,Sharon Sticks,2019-01-21,2727.6,2019,1,Jan,Q1,Mon,340.95,8
+496,"Milner, James",Pasta Dishes,Greater Accra,Kwaku Mason,2019-01-22,7999.5,2019,1,Jan,Q1,Tue,799.95,10
+497,"Tall, Liz",Pasta Dishes,Savannah,Elton John,2019-01-24,11999.25,2019,1,Jan,Q1,Thu,799.95,15
+498,"Haveria, Luiz",Fish Meals,Greater Accra,Fisher Mills,2019-01-24,3750.45,2019,1,Jan,Q1,Thu,340.95,11
+499,"Milner, James",Seafood,Greater Accra,Sharon Sticks,2019-01-25,799.9,2019,1,Jan,Q1,Fri,79.99,10
+500,"Haveria, Luiz",Beef Meals,Greater Accra,Fisher Mills,2019-01-27,1858.45,2019,1,Jan,Q1,Sun,168.95,11
+501,"Azpilecueta, Moses",Pasta Dishes,Oti,Clifford Quist,2019-01-28,1599.9,2019,1,Jan,Q1,Mon,799.95,2
+502,"Hines, Zach",Vegetarian Dishes,Ashanti,Fisher Mills,2019-01-28,5114.25,2019,1,Jan,Q1,Mon,340.95,15
+503,"Barkley, Ross",Pasta Dishes,Savannah,Kwaku Mason,2019-01-28,8799.45,2019,1,Jan,Q1,Mon,799.95,11
+504,"Barkley, Ross",Fish Meals,Savannah,Elton John,2019-01-29,5796.15,2019,1,Jan,Q1,Tue,340.95,17
+505,"Stuart, Jill",Fish Meals,Oti,Fisher Mills,2019-01-29,2727.6,2019,1,Jan,Q1,Tue,340.95,8
+506,"Fog, Londong",Beef Meals,Ashanti,Clifford Quist,2019-01-30,1520.55,2019,1,Jan,Q1,Wed,168.95,9
+507,"Milner, James",Seafood,Greater Accra,Kwaku Mason,2019-01-30,159.98,2019,1,Jan,Q1,Wed,79.99,2
+508,"Read, Tira",Pasta Dishes,Savannah,Sharon Sticks,2019-01-31,11999.25,2019,1,Jan,Q1,Thu,799.95,15
+509,"Smith, Bob",Beef Meals,Oti,Clifford Quist,2019-02-01,675.8,2019,2,Feb,Q1,Fri,168.95,4
+510,"Fog, Londong",Fish Meals,Ashanti,Clifford Quist,2019-02-01,5114.25,2019,2,Feb,Q1,Fri,340.95,15
+511,"Stuart, Jill",Beef Meals,Oti,Elton John,2019-02-03,2196.35,2019,2,Feb,Q1,Sun,168.95,13
+512,"Dede, Amakye",Seafood,Savannah,Fisher Mills,2019-02-03,639.92,2019,2,Feb,Q1,Sun,79.99,8
+513,"Milner, James",Seafood,Greater Accra,Fisher Mills,2019-02-03,79.99,2019,2,Feb,Q1,Sun,79.99,1
+514,"Read, Tira",Beef Meals,Savannah,Fisher Mills,2019-02-03,2196.35,2019,2,Feb,Q1,Sun,168.95,13
+515,"Read, Tira",Vegetarian Dishes,Savannah,Elton John,2019-02-04,4432.35,2019,2,Feb,Q1,Mon,340.95,13
+516,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Elton John,2019-02-05,4091.4,2019,2,Feb,Q1,Tue,340.95,12
+517,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Sharon Sticks,2019-02-05,3068.55,2019,2,Feb,Q1,Tue,340.95,9
+518,"Stuart, Jill",Beef Meals,Oti,Sharon Sticks,2019-02-05,1013.7,2019,2,Feb,Q1,Tue,168.95,6
+519,"Hines, Zach",Vegetarian Dishes,Ashanti,Kwaku Mason,2019-02-06,4773.3,2019,2,Feb,Q1,Wed,340.95,14
+520,"Milner, James",Seafood,Greater Accra,Kwaku Mason,2019-02-06,239.97,2019,2,Feb,Q1,Wed,79.99,3
+521,"Azpilecueta, Moses",Pasta Dishes,Oti,Fisher Mills,2019-02-07,4799.7,2019,2,Feb,Q1,Thu,799.95,6
+522,"Smith, Bob",Seafood,Oti,Fisher Mills,2019-02-07,79.99,2019,2,Feb,Q1,Thu,79.99,1
+523,"Tall, Liz",Beef Meals,Savannah,Clifford Quist,2019-02-11,2365.3,2019,2,Feb,Q1,Mon,168.95,14
+524,"Read, Tira",Vegetarian Dishes,Savannah,Elton John,2019-02-11,3750.45,2019,2,Feb,Q1,Mon,340.95,11
+525,"Dede, Amakye",Vegetarian Dishes,Savannah,Fisher Mills,2019-02-11,2386.65,2019,2,Feb,Q1,Mon,340.95,7
+526,"Tall, Liz",Pasta Dishes,Savannah,Fisher Mills,2019-02-11,8799.45,2019,2,Feb,Q1,Mon,799.95,11
+527,"Barkley, Ross",Beef Meals,Savannah,Sharon Sticks,2019-02-11,1182.65,2019,2,Feb,Q1,Mon,168.95,7
+528,"Smith, Bob",Beef Meals,Oti,Elton John,2019-02-17,2365.3,2019,2,Feb,Q1,Sun,168.95,14
+529,"Read, Tira",Fish Meals,Savannah,Fisher Mills,2019-02-18,681.9,2019,2,Feb,Q1,Mon,340.95,2
+530,"Haveria, Luiz",Fish Meals,Greater Accra,Sharon Sticks,2019-02-18,5114.25,2019,2,Feb,Q1,Mon,340.95,15
+531,"Read, Tira",Fish Meals,Savannah,Clifford Quist,2019-02-19,2386.65,2019,2,Feb,Q1,Tue,340.95,7
+532,"Fog, Londong",Pasta Dishes,Ashanti,Kwaku Mason,2019-02-20,3199.8,2019,2,Feb,Q1,Wed,799.95,4
+533,"Haveria, Luiz",Fish Meals,Greater Accra,Clifford Quist,2019-02-22,2045.7,2019,2,Feb,Q1,Fri,340.95,6
+534,"Milner, James",Seafood,Greater Accra,Clifford Quist,2019-02-22,239.97,2019,2,Feb,Q1,Fri,79.99,3
+535,"Smith, Bob",Vegetarian Dishes,Oti,Elton John,2019-02-22,6478.05,2019,2,Feb,Q1,Fri,340.95,19
+536,"Dede, Amakye",Pasta Dishes,Savannah,Sharon Sticks,2019-02-22,10399.35,2019,2,Feb,Q1,Fri,799.95,13
+537,"Stuart, Jill",Vegetarian Dishes,Oti,Clifford Quist,2019-02-24,3750.45,2019,2,Feb,Q1,Sun,340.95,11
+538,"Tall, Liz",Vegetarian Dishes,Savannah,Fisher Mills,2019-02-25,2045.7,2019,2,Feb,Q1,Mon,340.95,6
+539,"Milner, James",Vegetarian Dishes,Greater Accra,Sharon Sticks,2019-02-25,1022.85,2019,2,Feb,Q1,Mon,340.95,3
+540,"Smith, Bob",Seafood,Oti,Fisher Mills,2019-02-27,479.94,2019,2,Feb,Q1,Wed,79.99,6
+541,"Azpilecueta, Moses",Beef Meals,Oti,Sharon Sticks,2019-02-27,1351.6,2019,2,Feb,Q1,Wed,168.95,8
+542,"Smith, Bob",Fish Meals,Oti,Kwaku Mason,2019-03-01,3750.45,2019,3,Mar,Q1,Fri,340.95,11
+543,"Stuart, Jill",Fish Meals,Oti,Kwaku Mason,2019-03-01,3750.45,2019,3,Mar,Q1,Fri,340.95,11
+544,"Dede, Amakye",Fish Meals,Savannah,Sharon Sticks,2019-03-03,4091.4,2019,3,Mar,Q1,Sun,340.95,12
+545,"Barkley, Ross",Pasta Dishes,Savannah,Sharon Sticks,2019-03-04,10399.35,2019,3,Mar,Q1,Mon,799.95,13
+546,"Dede, Amakye",Beef Meals,Savannah,Elton John,2019-03-07,1351.6,2019,3,Mar,Q1,Thu,168.95,8
+547,"Milner, James",Vegetarian Dishes,Greater Accra,Fisher Mills,2019-03-11,681.9,2019,3,Mar,Q1,Mon,340.95,2
+548,"Milner, James",Seafood,Greater Accra,Fisher Mills,2019-03-11,159.98,2019,3,Mar,Q1,Mon,79.99,2
+549,"Tall, Liz",Fish Meals,Savannah,Kwaku Mason,2019-03-11,4091.4,2019,3,Mar,Q1,Mon,340.95,12
+550,"Tall, Liz",Vegetarian Dishes,Savannah,Clifford Quist,2019-03-14,4432.35,2019,3,Mar,Q1,Thu,340.95,13
+551,"Dede, Amakye",Pasta Dishes,Savannah,Elton John,2019-03-14,7199.55,2019,3,Mar,Q1,Thu,799.95,9
+552,"Smith, Bob",Fish Meals,Oti,Fisher Mills,2019-03-14,3750.45,2019,3,Mar,Q1,Thu,340.95,11
+553,"Azpilecueta, Moses",Pasta Dishes,Oti,Elton John,2019-03-15,6399.6,2019,3,Mar,Q1,Fri,799.95,8
+554,"Fog, Londong",Vegetarian Dishes,Ashanti,Sharon Sticks,2019-03-15,1363.8,2019,3,Mar,Q1,Fri,340.95,4
+555,"Dede, Amakye",Fish Meals,Savannah,Kwaku Mason,2019-03-18,1363.8,2019,3,Mar,Q1,Mon,340.95,4
+556,"Milner, James",Fish Meals,Greater Accra,Sharon Sticks,2019-03-18,2727.6,2019,3,Mar,Q1,Mon,340.95,8
+557,"Tall, Liz",Seafood,Savannah,Elton John,2019-03-19,1439.82,2019,3,Mar,Q1,Tue,79.99,18
+558,"Read, Tira",Seafood,Savannah,Kwaku Mason,2019-03-19,719.91,2019,3,Mar,Q1,Tue,79.99,9
+559,"Dede, Amakye",Seafood,Savannah,Clifford Quist,2019-03-22,79.99,2019,3,Mar,Q1,Fri,79.99,1
+560,"Barkley, Ross",Pasta Dishes,Savannah,Sharon Sticks,2019-03-25,7999.5,2019,3,Mar,Q1,Mon,799.95,10
+561,"Barkley, Ross",Vegetarian Dishes,Savannah,Elton John,2019-03-27,6137.1,2019,3,Mar,Q1,Wed,340.95,18
+562,"Haveria, Luiz",Fish Meals,Greater Accra,Fisher Mills,2019-03-27,1363.8,2019,3,Mar,Q1,Wed,340.95,4
+563,"Smith, Bob",Beef Meals,Oti,Kwaku Mason,2019-03-27,1520.55,2019,3,Mar,Q1,Wed,168.95,9
+564,"Stuart, Jill",Vegetarian Dishes,Oti,Fisher Mills,2019-03-28,1363.8,2019,3,Mar,Q1,Thu,340.95,4
+565,"Fog, Londong",Pasta Dishes,Ashanti,Elton John,2019-03-29,5599.65,2019,3,Mar,Q1,Fri,799.95,7
+566,"Smith, Bob",Vegetarian Dishes,Oti,Fisher Mills,2019-03-29,2045.7,2019,3,Mar,Q1,Fri,340.95,6
+567,"Haveria, Luiz",Beef Meals,Greater Accra,Fisher Mills,2019-03-31,2365.3,2019,3,Mar,Q1,Sun,168.95,14
+568,"Dede, Amakye",Seafood,Savannah,Elton John,2019-04-01,719.91,2019,4,Apr,Q2,Mon,79.99,9
+569,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Sharon Sticks,2019-04-01,3409.5,2019,4,Apr,Q2,Mon,340.95,10
+570,"Azpilecueta, Moses",Fish Meals,Oti,Sharon Sticks,2019-04-01,4432.35,2019,4,Apr,Q2,Mon,340.95,13
+571,"Read, Tira",Pasta Dishes,Savannah,Elton John,2019-04-02,9599.4,2019,4,Apr,Q2,Tue,799.95,12
+572,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Fisher Mills,2019-04-02,1363.8,2019,4,Apr,Q2,Tue,340.95,4
+573,"Milner, James",Fish Meals,Greater Accra,Clifford Quist,2019-04-03,2045.7,2019,4,Apr,Q2,Wed,340.95,6
+574,"Haveria, Luiz",Seafood,Greater Accra,Fisher Mills,2019-04-04,159.98,2019,4,Apr,Q2,Thu,79.99,2
+575,"Milner, James",Beef Meals,Greater Accra,Kwaku Mason,2019-04-04,2534.25,2019,4,Apr,Q2,Thu,168.95,15
+576,"Tall, Liz",Beef Meals,Savannah,Sharon Sticks,2019-04-07,1520.55,2019,4,Apr,Q2,Sun,168.95,9
+577,"Stuart, Jill",Fish Meals,Oti,Clifford Quist,2019-04-08,1363.8,2019,4,Apr,Q2,Mon,340.95,4
+578,"Hines, Zach",Vegetarian Dishes,Ashanti,Fisher Mills,2019-04-08,3409.5,2019,4,Apr,Q2,Mon,340.95,10
+579,"Dede, Amakye",Fish Meals,Savannah,Fisher Mills,2019-04-08,3409.5,2019,4,Apr,Q2,Mon,340.95,10
+580,"Stuart, Jill",Vegetarian Dishes,Oti,Kwaku Mason,2019-04-09,1363.8,2019,4,Apr,Q2,Tue,340.95,4
+581,"Azpilecueta, Moses",Fish Meals,Oti,Fisher Mills,2019-04-10,2045.7,2019,4,Apr,Q2,Wed,340.95,6
+582,"Stuart, Jill",Fish Meals,Oti,Kwaku Mason,2019-04-10,2045.7,2019,4,Apr,Q2,Wed,340.95,6
+583,"Milner, James",Fish Meals,Greater Accra,Clifford Quist,2019-04-12,2386.65,2019,4,Apr,Q2,Fri,340.95,7
+584,"Tall, Liz",Beef Meals,Savannah,Elton John,2019-04-12,1351.6,2019,4,Apr,Q2,Fri,168.95,8
+585,"Read, Tira",Fish Meals,Savannah,Elton John,2019-04-12,5114.25,2019,4,Apr,Q2,Fri,340.95,15
+586,"Tall, Liz",Vegetarian Dishes,Savannah,Kwaku Mason,2019-04-12,1363.8,2019,4,Apr,Q2,Fri,340.95,4
+587,"Stuart, Jill",Fish Meals,Oti,Fisher Mills,2019-04-15,4091.4,2019,4,Apr,Q2,Mon,340.95,12
+588,"Read, Tira",Pasta Dishes,Savannah,Sharon Sticks,2019-04-16,7199.55,2019,4,Apr,Q2,Tue,799.95,9
+589,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Kwaku Mason,2019-04-18,4091.4,2019,4,Apr,Q2,Thu,340.95,12
+590,"Dede, Amakye",Pasta Dishes,Savannah,Kwaku Mason,2019-04-18,10399.35,2019,4,Apr,Q2,Thu,799.95,13
+591,"Barkley, Ross",Seafood,Savannah,Kwaku Mason,2019-04-18,559.93,2019,4,Apr,Q2,Thu,79.99,7
+592,"Tall, Liz",Beef Meals,Savannah,Clifford Quist,2019-04-22,168.95,2019,4,Apr,Q2,Mon,168.95,1
+593,"Smith, Bob",Seafood,Oti,Elton John,2019-04-22,559.93,2019,4,Apr,Q2,Mon,79.99,7
+594,"Read, Tira",Beef Meals,Savannah,Fisher Mills,2019-04-23,2027.4,2019,4,Apr,Q2,Tue,168.95,12
+595,"Smith, Bob",Pasta Dishes,Oti,Sharon Sticks,2019-04-23,3999.75,2019,4,Apr,Q2,Tue,799.95,5
+596,"Milner, James",Fish Meals,Greater Accra,Fisher Mills,2019-04-24,681.9,2019,4,Apr,Q2,Wed,340.95,2
+597,"Milner, James",Pasta Dishes,Greater Accra,Kwaku Mason,2019-04-25,11199.3,2019,4,Apr,Q2,Thu,799.95,14
+598,"Fog, Londong",Seafood,Ashanti,Kwaku Mason,2019-04-26,719.91,2019,4,Apr,Q2,Fri,79.99,9
+599,"Stuart, Jill",Pasta Dishes,Oti,Fisher Mills,2019-04-28,7999.5,2019,4,Apr,Q2,Sun,799.95,10
+600,"Fog, Londong",Pasta Dishes,Ashanti,Clifford Quist,2019-04-29,6399.6,2019,4,Apr,Q2,Mon,799.95,8
+601,"Haveria, Luiz",Pasta Dishes,Greater Accra,Elton John,2019-04-30,8799.45,2019,4,Apr,Q2,Tue,799.95,11
+602,"Dede, Amakye",Seafood,Savannah,Kwaku Mason,2019-04-30,479.94,2019,4,Apr,Q2,Tue,79.99,6
+603,"Fog, Londong",Pasta Dishes,Ashanti,Sharon Sticks,2019-05-01,7199.55,2019,5,May,Q2,Wed,799.95,9
+604,"Azpilecueta, Moses",Fish Meals,Oti,Kwaku Mason,2019-05-02,1363.8,2019,5,May,Q2,Thu,340.95,4
+605,"Milner, James",Pasta Dishes,Greater Accra,Elton John,2019-05-03,15999.0,2019,5,May,Q2,Fri,799.95,20
+606,"Tall, Liz",Beef Meals,Savannah,Sharon Sticks,2019-05-03,168.95,2019,5,May,Q2,Fri,168.95,1
+607,"Milner, James",Vegetarian Dishes,Greater Accra,Clifford Quist,2019-05-05,3409.5,2019,5,May,Q2,Sun,340.95,10
+608,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Kwaku Mason,2019-05-05,340.95,2019,5,May,Q2,Sun,340.95,1
+609,"Barkley, Ross",Beef Meals,Savannah,Clifford Quist,2019-05-06,1182.65,2019,5,May,Q2,Mon,168.95,7
+610,"Dede, Amakye",Seafood,Savannah,Fisher Mills,2019-05-06,879.89,2019,5,May,Q2,Mon,79.99,11
+611,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Sharon Sticks,2019-05-06,3068.55,2019,5,May,Q2,Mon,340.95,9
+612,"Fog, Londong",Seafood,Ashanti,Sharon Sticks,2019-05-06,559.93,2019,5,May,Q2,Mon,79.99,7
+613,"Dede, Amakye",Beef Meals,Savannah,Fisher Mills,2019-05-07,506.85,2019,5,May,Q2,Tue,168.95,3
+614,"Stuart, Jill",Vegetarian Dishes,Oti,Clifford Quist,2019-05-10,3409.5,2019,5,May,Q2,Fri,340.95,10
+615,"Milner, James",Seafood,Greater Accra,Elton John,2019-05-10,639.92,2019,5,May,Q2,Fri,79.99,8
+616,"Hines, Zach",Vegetarian Dishes,Ashanti,Fisher Mills,2019-05-10,681.9,2019,5,May,Q2,Fri,340.95,2
+617,"Dede, Amakye",Fish Meals,Savannah,Fisher Mills,2019-05-10,2727.6,2019,5,May,Q2,Fri,340.95,8
+618,"Milner, James",Beef Meals,Greater Accra,Fisher Mills,2019-05-12,2365.3,2019,5,May,Q2,Sun,168.95,14
+619,"Stuart, Jill",Seafood,Oti,Fisher Mills,2019-05-12,799.9,2019,5,May,Q2,Sun,79.99,10
+620,"Stuart, Jill",Fish Meals,Oti,Kwaku Mason,2019-05-12,1704.75,2019,5,May,Q2,Sun,340.95,5
+621,"Smith, Bob",Seafood,Oti,Fisher Mills,2019-05-13,1199.85,2019,5,May,Q2,Mon,79.99,15
+622,"Read, Tira",Vegetarian Dishes,Savannah,Fisher Mills,2019-05-13,4091.4,2019,5,May,Q2,Mon,340.95,12
+623,"Read, Tira",Beef Meals,Savannah,Sharon Sticks,2019-05-15,337.9,2019,5,May,Q2,Wed,168.95,2
+624,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Elton John,2019-05-17,3750.45,2019,5,May,Q2,Fri,340.95,11
+625,"Tall, Liz",Pasta Dishes,Savannah,Elton John,2019-05-17,11199.3,2019,5,May,Q2,Fri,799.95,14
+626,"Stuart, Jill",Seafood,Oti,Elton John,2019-05-19,1359.83,2019,5,May,Q2,Sun,79.99,17
+627,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Fisher Mills,2019-05-19,2727.6,2019,5,May,Q2,Sun,340.95,8
+628,"Tall, Liz",Pasta Dishes,Savannah,Fisher Mills,2019-05-20,10399.35,2019,5,May,Q2,Mon,799.95,13
+629,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Kwaku Mason,2019-05-20,2727.6,2019,5,May,Q2,Mon,340.95,8
+630,"Stuart, Jill",Beef Meals,Oti,Sharon Sticks,2019-05-20,2196.35,2019,5,May,Q2,Mon,168.95,13
+631,"Tall, Liz",Beef Meals,Savannah,Fisher Mills,2019-05-21,1013.7,2019,5,May,Q2,Tue,168.95,6
+632,"Haveria, Luiz",Fish Meals,Greater Accra,Elton John,2019-05-23,2386.65,2019,5,May,Q2,Thu,340.95,7
+633,"Azpilecueta, Moses",Seafood,Oti,Fisher Mills,2019-05-23,159.98,2019,5,May,Q2,Thu,79.99,2
+634,"Read, Tira",Pasta Dishes,Savannah,Elton John,2019-05-24,5599.65,2019,5,May,Q2,Fri,799.95,7
+635,"Azpilecueta, Moses",Beef Meals,Oti,Clifford Quist,2019-05-26,2365.3,2019,5,May,Q2,Sun,168.95,14
+636,"Smith, Bob",Beef Meals,Oti,Clifford Quist,2019-05-26,2027.4,2019,5,May,Q2,Sun,168.95,12
+637,"Azpilecueta, Moses",Beef Meals,Oti,Kwaku Mason,2019-05-26,2196.35,2019,5,May,Q2,Sun,168.95,13
+638,"Stuart, Jill",Vegetarian Dishes,Oti,Sharon Sticks,2019-05-26,3409.5,2019,5,May,Q2,Sun,340.95,10
+639,"Fog, Londong",Pasta Dishes,Ashanti,Elton John,2019-05-27,15999.0,2019,5,May,Q2,Mon,799.95,20
+640,"Tall, Liz",Vegetarian Dishes,Savannah,Fisher Mills,2019-05-27,1704.75,2019,5,May,Q2,Mon,340.95,5
+641,"Azpilecueta, Moses",Pasta Dishes,Oti,Kwaku Mason,2019-05-27,3199.8,2019,5,May,Q2,Mon,799.95,4
+642,"Tall, Liz",Pasta Dishes,Savannah,Kwaku Mason,2019-05-27,1599.9,2019,5,May,Q2,Mon,799.95,2
+643,"Read, Tira",Seafood,Savannah,Sharon Sticks,2019-05-27,159.98,2019,5,May,Q2,Mon,79.99,2
+644,"Fog, Londong",Beef Meals,Ashanti,Elton John,2019-05-29,2872.15,2019,5,May,Q2,Wed,168.95,17
+645,"Azpilecueta, Moses",Beef Meals,Oti,Fisher Mills,2019-05-29,2196.35,2019,5,May,Q2,Wed,168.95,13
+646,"Read, Tira",Fish Meals,Savannah,Sharon Sticks,2019-05-30,3068.55,2019,5,May,Q2,Thu,340.95,9
+647,"Azpilecueta, Moses",Pasta Dishes,Oti,Elton John,2019-05-31,6399.6,2019,5,May,Q2,Fri,799.95,8
+648,"Read, Tira",Fish Meals,Savannah,Elton John,2019-05-31,6819.0,2019,5,May,Q2,Fri,340.95,20
+649,"Haveria, Luiz",Pasta Dishes,Greater Accra,Sharon Sticks,2019-05-31,9599.4,2019,5,May,Q2,Fri,799.95,12
+650,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Sharon Sticks,2019-05-31,3068.55,2019,5,May,Q2,Fri,340.95,9
+651,"Dede, Amakye",Seafood,Savannah,Sharon Sticks,2019-06-02,239.97,2019,6,Jun,Q2,Sun,79.99,3
+652,"Azpilecueta, Moses",Beef Meals,Oti,Elton John,2019-06-03,2365.3,2019,6,Jun,Q2,Mon,168.95,14
+653,"Tall, Liz",Pasta Dishes,Savannah,Fisher Mills,2019-06-03,7999.5,2019,6,Jun,Q2,Mon,799.95,10
+654,"Smith, Bob",Beef Meals,Oti,Fisher Mills,2019-06-03,675.8,2019,6,Jun,Q2,Mon,168.95,4
+655,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Clifford Quist,2019-06-06,681.9,2019,6,Jun,Q2,Thu,340.95,2
+656,"Stuart, Jill",Beef Meals,Oti,Elton John,2019-06-06,1013.7,2019,6,Jun,Q2,Thu,168.95,6
+657,"Stuart, Jill",Fish Meals,Oti,Clifford Quist,2019-06-09,2386.65,2019,6,Jun,Q2,Sun,340.95,7
+658,"Smith, Bob",Pasta Dishes,Oti,Kwaku Mason,2019-06-10,2399.85,2019,6,Jun,Q2,Mon,799.95,3
+659,"Fog, Londong",Vegetarian Dishes,Ashanti,Elton John,2019-06-12,2727.6,2019,6,Jun,Q2,Wed,340.95,8
+660,"Dede, Amakye",Fish Meals,Savannah,Sharon Sticks,2019-06-12,3068.55,2019,6,Jun,Q2,Wed,340.95,9
+661,"Dede, Amakye",Pasta Dishes,Savannah,Elton John,2019-06-13,8799.45,2019,6,Jun,Q2,Thu,799.95,11
+662,"Milner, James",Fish Meals,Greater Accra,Kwaku Mason,2019-06-13,3750.45,2019,6,Jun,Q2,Thu,340.95,11
+663,"Dede, Amakye",Pasta Dishes,Savannah,Clifford Quist,2019-06-17,799.95,2019,6,Jun,Q2,Mon,799.95,1
+664,"Hines, Zach",Seafood,Ashanti,Sharon Sticks,2019-06-17,879.89,2019,6,Jun,Q2,Mon,79.99,11
+665,"Haveria, Luiz",Seafood,Greater Accra,Sharon Sticks,2019-06-17,879.89,2019,6,Jun,Q2,Mon,79.99,11
+666,"Smith, Bob",Fish Meals,Oti,Clifford Quist,2019-06-19,1022.85,2019,6,Jun,Q2,Wed,340.95,3
+667,"Stuart, Jill",Pasta Dishes,Oti,Clifford Quist,2019-06-19,799.95,2019,6,Jun,Q2,Wed,799.95,1
+668,"Milner, James",Vegetarian Dishes,Greater Accra,Fisher Mills,2019-06-19,340.95,2019,6,Jun,Q2,Wed,340.95,1
+669,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Clifford Quist,2019-06-21,2386.65,2019,6,Jun,Q2,Fri,340.95,7
+670,"Smith, Bob",Pasta Dishes,Oti,Clifford Quist,2019-06-21,9599.4,2019,6,Jun,Q2,Fri,799.95,12
+671,"Azpilecueta, Moses",Pasta Dishes,Oti,Elton John,2019-06-24,15199.05,2019,6,Jun,Q2,Mon,799.95,19
+672,"Haveria, Luiz",Pasta Dishes,Greater Accra,Elton John,2019-06-25,12799.2,2019,6,Jun,Q2,Tue,799.95,16
+673,"Stuart, Jill",Pasta Dishes,Oti,Elton John,2019-06-25,13599.15,2019,6,Jun,Q2,Tue,799.95,17
+674,"Read, Tira",Pasta Dishes,Savannah,Sharon Sticks,2019-06-25,6399.6,2019,6,Jun,Q2,Tue,799.95,8
+675,"Stuart, Jill",Seafood,Oti,Sharon Sticks,2019-06-25,239.97,2019,6,Jun,Q2,Tue,79.99,3
+676,"Tall, Liz",Seafood,Savannah,Fisher Mills,2019-06-26,1199.85,2019,6,Jun,Q2,Wed,79.99,15
+677,"Read, Tira",Beef Meals,Savannah,Clifford Quist,2019-06-27,2196.35,2019,6,Jun,Q2,Thu,168.95,13
+678,"Read, Tira",Beef Meals,Savannah,Fisher Mills,2019-06-27,506.85,2019,6,Jun,Q2,Thu,168.95,3
+679,"Smith, Bob",Seafood,Oti,Clifford Quist,2019-06-28,479.94,2019,6,Jun,Q2,Fri,79.99,6
+680,"Smith, Bob",Vegetarian Dishes,Oti,Kwaku Mason,2019-06-28,1704.75,2019,6,Jun,Q2,Fri,340.95,5
+681,"Haveria, Luiz",Fish Meals,Greater Accra,Kwaku Mason,2019-06-30,5114.25,2019,6,Jun,Q2,Sun,340.95,15
+682,"Stuart, Jill",Vegetarian Dishes,Oti,Kwaku Mason,2019-06-30,681.9,2019,6,Jun,Q2,Sun,340.95,2
+683,"Dede, Amakye",Seafood,Savannah,Clifford Quist,2019-07-01,319.96,2019,7,Jul,Q3,Mon,79.99,4
+684,"Haveria, Luiz",Fish Meals,Greater Accra,Elton John,2019-07-01,3068.55,2019,7,Jul,Q3,Mon,340.95,9
+685,"Read, Tira",Seafood,Savannah,Kwaku Mason,2019-07-01,639.92,2019,7,Jul,Q3,Mon,79.99,8
+686,"Tall, Liz",Pasta Dishes,Savannah,Elton John,2019-07-02,7999.5,2019,7,Jul,Q3,Tue,799.95,10
+687,"Stuart, Jill",Seafood,Oti,Clifford Quist,2019-07-03,319.96,2019,7,Jul,Q3,Wed,79.99,4
+688,"Read, Tira",Fish Meals,Savannah,Fisher Mills,2019-07-03,4432.35,2019,7,Jul,Q3,Wed,340.95,13
+689,"Stuart, Jill",Beef Meals,Oti,Elton John,2019-07-05,1351.6,2019,7,Jul,Q3,Fri,168.95,8
+690,"Azpilecueta, Moses",Seafood,Oti,Kwaku Mason,2019-07-07,799.9,2019,7,Jul,Q3,Sun,79.99,10
+691,"Stuart, Jill",Vegetarian Dishes,Oti,Kwaku Mason,2019-07-07,2386.65,2019,7,Jul,Q3,Sun,340.95,7
+692,"Smith, Bob",Seafood,Oti,Sharon Sticks,2019-07-07,1199.85,2019,7,Jul,Q3,Sun,79.99,15
+693,"Milner, James",Beef Meals,Greater Accra,Sharon Sticks,2019-07-07,506.85,2019,7,Jul,Q3,Sun,168.95,3
+694,"Read, Tira",Seafood,Savannah,Clifford Quist,2019-07-08,239.97,2019,7,Jul,Q3,Mon,79.99,3
+695,"Barkley, Ross",Beef Meals,Savannah,Elton John,2019-07-08,2872.15,2019,7,Jul,Q3,Mon,168.95,17
+696,"Dede, Amakye",Seafood,Savannah,Fisher Mills,2019-07-08,1119.86,2019,7,Jul,Q3,Mon,79.99,14
+697,"Fog, Londong",Pasta Dishes,Ashanti,Sharon Sticks,2019-07-08,3999.75,2019,7,Jul,Q3,Mon,799.95,5
+698,"Hines, Zach",Vegetarian Dishes,Ashanti,Elton John,2019-07-09,2045.7,2019,7,Jul,Q3,Tue,340.95,6
+699,"Milner, James",Vegetarian Dishes,Greater Accra,Elton John,2019-07-10,3068.55,2019,7,Jul,Q3,Wed,340.95,9
+700,"Milner, James",Vegetarian Dishes,Greater Accra,Kwaku Mason,2019-07-10,2045.7,2019,7,Jul,Q3,Wed,340.95,6
+701,"Haveria, Luiz",Pasta Dishes,Greater Accra,Kwaku Mason,2019-07-11,5599.65,2019,7,Jul,Q3,Thu,799.95,7
+702,"Read, Tira",Beef Meals,Savannah,Kwaku Mason,2019-07-11,675.8,2019,7,Jul,Q3,Thu,168.95,4
+703,"Haveria, Luiz",Beef Meals,Greater Accra,Elton John,2019-07-12,2196.35,2019,7,Jul,Q3,Fri,168.95,13
+704,"Tall, Liz",Seafood,Savannah,Kwaku Mason,2019-07-15,639.92,2019,7,Jul,Q3,Mon,79.99,8
+705,"Tall, Liz",Seafood,Savannah,Kwaku Mason,2019-07-15,959.88,2019,7,Jul,Q3,Mon,79.99,12
+706,"Haveria, Luiz",Seafood,Greater Accra,Sharon Sticks,2019-07-15,239.97,2019,7,Jul,Q3,Mon,79.99,3
+707,"Barkley, Ross",Seafood,Savannah,Clifford Quist,2019-07-16,1199.85,2019,7,Jul,Q3,Tue,79.99,15
+708,"Haveria, Luiz",Beef Meals,Greater Accra,Fisher Mills,2019-07-16,675.8,2019,7,Jul,Q3,Tue,168.95,4
+709,"Smith, Bob",Seafood,Oti,Fisher Mills,2019-07-17,959.88,2019,7,Jul,Q3,Wed,79.99,12
+710,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Kwaku Mason,2019-07-17,681.9,2019,7,Jul,Q3,Wed,340.95,2
+711,"Milner, James",Fish Meals,Greater Accra,Kwaku Mason,2019-07-18,1704.75,2019,7,Jul,Q3,Thu,340.95,5
+712,"Smith, Bob",Fish Meals,Oti,Sharon Sticks,2019-07-18,1022.85,2019,7,Jul,Q3,Thu,340.95,3
+713,"Stuart, Jill",Seafood,Oti,Fisher Mills,2019-07-19,239.97,2019,7,Jul,Q3,Fri,79.99,3
+714,"Dede, Amakye",Beef Meals,Savannah,Clifford Quist,2019-07-23,337.9,2019,7,Jul,Q3,Tue,168.95,2
+715,"Milner, James",Beef Meals,Greater Accra,Clifford Quist,2019-07-23,337.9,2019,7,Jul,Q3,Tue,168.95,2
+716,"Dede, Amakye",Seafood,Savannah,Sharon Sticks,2019-07-24,159.98,2019,7,Jul,Q3,Wed,79.99,2
+717,"Tall, Liz",Vegetarian Dishes,Savannah,Sharon Sticks,2019-07-25,2045.7,2019,7,Jul,Q3,Thu,340.95,6
+718,"Stuart, Jill",Beef Meals,Oti,Elton John,2019-07-26,2872.15,2019,7,Jul,Q3,Fri,168.95,17
+719,"Milner, James",Pasta Dishes,Greater Accra,Kwaku Mason,2019-07-28,7999.5,2019,7,Jul,Q3,Sun,799.95,10
+720,"Read, Tira",Fish Meals,Savannah,Kwaku Mason,2019-07-28,4773.3,2019,7,Jul,Q3,Sun,340.95,14
+721,"Milner, James",Vegetarian Dishes,Greater Accra,Clifford Quist,2019-07-29,3068.55,2019,7,Jul,Q3,Mon,340.95,9
+722,"Smith, Bob",Seafood,Oti,Fisher Mills,2019-07-29,799.9,2019,7,Jul,Q3,Mon,79.99,10
+723,"Tall, Liz",Seafood,Savannah,Elton John,2019-07-31,639.92,2019,7,Jul,Q3,Wed,79.99,8
+724,"Milner, James",Seafood,Greater Accra,Sharon Sticks,2019-08-01,719.91,2019,8,Aug,Q3,Thu,79.99,9
+725,"Stuart, Jill",Pasta Dishes,Oti,Kwaku Mason,2019-08-02,5599.65,2019,8,Aug,Q3,Fri,799.95,7
+726,"Dede, Amakye",Pasta Dishes,Savannah,Sharon Sticks,2019-08-02,3999.75,2019,8,Aug,Q3,Fri,799.95,5
+727,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Kwaku Mason,2019-08-04,2727.6,2019,8,Aug,Q3,Sun,340.95,8
+728,"Dede, Amakye",Fish Meals,Savannah,Kwaku Mason,2019-08-05,3409.5,2019,8,Aug,Q3,Mon,340.95,10
+729,"Haveria, Luiz",Beef Meals,Greater Accra,Sharon Sticks,2019-08-05,844.75,2019,8,Aug,Q3,Mon,168.95,5
+730,"Tall, Liz",Vegetarian Dishes,Savannah,Clifford Quist,2019-08-07,3409.5,2019,8,Aug,Q3,Wed,340.95,10
+731,"Dede, Amakye",Seafood,Savannah,Kwaku Mason,2019-08-07,239.97,2019,8,Aug,Q3,Wed,79.99,3
+732,"Milner, James",Vegetarian Dishes,Greater Accra,Elton John,2019-08-08,5455.2,2019,8,Aug,Q3,Thu,340.95,16
+733,"Hines, Zach",Seafood,Ashanti,Clifford Quist,2019-08-09,639.92,2019,8,Aug,Q3,Fri,79.99,8
+734,"Haveria, Luiz",Fish Meals,Greater Accra,Kwaku Mason,2019-08-09,1704.75,2019,8,Aug,Q3,Fri,340.95,5
+735,"Barkley, Ross",Fish Meals,Savannah,Clifford Quist,2019-08-12,4432.35,2019,8,Aug,Q3,Mon,340.95,13
+736,"Tall, Liz",Seafood,Savannah,Clifford Quist,2019-08-12,1039.87,2019,8,Aug,Q3,Mon,79.99,13
+737,"Fog, Londong",Vegetarian Dishes,Ashanti,Clifford Quist,2019-08-12,3750.45,2019,8,Aug,Q3,Mon,340.95,11
+738,"Stuart, Jill",Pasta Dishes,Oti,Kwaku Mason,2019-08-12,9599.4,2019,8,Aug,Q3,Mon,799.95,12
+739,"Barkley, Ross",Seafood,Savannah,Sharon Sticks,2019-08-12,79.99,2019,8,Aug,Q3,Mon,79.99,1
+740,"Read, Tira",Beef Meals,Savannah,Elton John,2019-08-13,1351.6,2019,8,Aug,Q3,Tue,168.95,8
+741,"Stuart, Jill",Vegetarian Dishes,Oti,Sharon Sticks,2019-08-13,2386.65,2019,8,Aug,Q3,Tue,340.95,7
+742,"Stuart, Jill",Pasta Dishes,Oti,Elton John,2019-08-15,12799.2,2019,8,Aug,Q3,Thu,799.95,16
+743,"Smith, Bob",Beef Meals,Oti,Sharon Sticks,2019-08-15,844.75,2019,8,Aug,Q3,Thu,168.95,5
+744,"Stuart, Jill",Seafood,Oti,Sharon Sticks,2019-08-15,639.92,2019,8,Aug,Q3,Thu,79.99,8
+745,"Smith, Bob",Fish Meals,Oti,Clifford Quist,2019-08-16,3068.55,2019,8,Aug,Q3,Fri,340.95,9
+746,"Fog, Londong",Fish Meals,Ashanti,Fisher Mills,2019-08-16,2727.6,2019,8,Aug,Q3,Fri,340.95,8
+747,"Stuart, Jill",Vegetarian Dishes,Oti,Kwaku Mason,2019-08-16,1022.85,2019,8,Aug,Q3,Fri,340.95,3
+748,"Smith, Bob",Fish Meals,Oti,Sharon Sticks,2019-08-16,5114.25,2019,8,Aug,Q3,Fri,340.95,15
+749,"Dede, Amakye",Pasta Dishes,Savannah,Kwaku Mason,2019-08-19,10399.35,2019,8,Aug,Q3,Mon,799.95,13
+750,"Milner, James",Seafood,Greater Accra,Kwaku Mason,2019-08-19,559.93,2019,8,Aug,Q3,Mon,79.99,7
+751,"Haveria, Luiz",Fish Meals,Greater Accra,Sharon Sticks,2019-08-19,340.95,2019,8,Aug,Q3,Mon,340.95,1
+752,"Azpilecueta, Moses",Seafood,Oti,Clifford Quist,2019-08-20,1039.87,2019,8,Aug,Q3,Tue,79.99,13
+753,"Dede, Amakye",Beef Meals,Savannah,Kwaku Mason,2019-08-20,337.9,2019,8,Aug,Q3,Tue,168.95,2
+754,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Fisher Mills,2019-08-22,340.95,2019,8,Aug,Q3,Thu,340.95,1
+755,"Haveria, Luiz",Fish Meals,Greater Accra,Kwaku Mason,2019-08-23,340.95,2019,8,Aug,Q3,Fri,340.95,1
+756,"Hines, Zach",Seafood,Ashanti,Sharon Sticks,2019-08-25,639.92,2019,8,Aug,Q3,Sun,79.99,8
+757,"Tall, Liz",Pasta Dishes,Savannah,Fisher Mills,2019-08-26,7999.5,2019,8,Aug,Q3,Mon,799.95,10
+758,"Fog, Londong",Seafood,Ashanti,Sharon Sticks,2019-08-27,1199.85,2019,8,Aug,Q3,Tue,79.99,15
+759,"Haveria, Luiz",Beef Meals,Greater Accra,Fisher Mills,2019-08-28,2196.35,2019,8,Aug,Q3,Wed,168.95,13
+760,"Barkley, Ross",Beef Meals,Savannah,Sharon Sticks,2019-08-28,2027.4,2019,8,Aug,Q3,Wed,168.95,12
+761,"Haveria, Luiz",Fish Meals,Greater Accra,Clifford Quist,2019-08-29,1704.75,2019,8,Aug,Q3,Thu,340.95,5
+762,"Dede, Amakye",Vegetarian Dishes,Savannah,Sharon Sticks,2019-08-30,2386.65,2019,8,Aug,Q3,Fri,340.95,7
+763,"Haveria, Luiz",Fish Meals,Greater Accra,Kwaku Mason,2019-09-02,1704.75,2019,9,Sep,Q3,Mon,340.95,5
+764,"Haveria, Luiz",Fish Meals,Greater Accra,Kwaku Mason,2019-09-03,3409.5,2019,9,Sep,Q3,Tue,340.95,10
+765,"Haveria, Luiz",Seafood,Greater Accra,Kwaku Mason,2019-09-04,559.93,2019,9,Sep,Q3,Wed,79.99,7
+766,"Read, Tira",Pasta Dishes,Savannah,Clifford Quist,2019-09-05,10399.35,2019,9,Sep,Q3,Thu,799.95,13
+767,"Hines, Zach",Beef Meals,Ashanti,Fisher Mills,2019-09-06,506.85,2019,9,Sep,Q3,Fri,168.95,3
+768,"Stuart, Jill",Vegetarian Dishes,Oti,Sharon Sticks,2019-09-06,2386.65,2019,9,Sep,Q3,Fri,340.95,7
+769,"Tall, Liz",Vegetarian Dishes,Savannah,Clifford Quist,2019-09-09,3068.55,2019,9,Sep,Q3,Mon,340.95,9
+770,"Smith, Bob",Seafood,Oti,Clifford Quist,2019-09-09,159.98,2019,9,Sep,Q3,Mon,79.99,2
+771,"Milner, James",Beef Meals,Greater Accra,Clifford Quist,2019-09-09,168.95,2019,9,Sep,Q3,Mon,168.95,1
+772,"Stuart, Jill",Fish Meals,Oti,Clifford Quist,2019-09-09,4773.3,2019,9,Sep,Q3,Mon,340.95,14
+773,"Haveria, Luiz",Beef Meals,Greater Accra,Fisher Mills,2019-09-09,1013.7,2019,9,Sep,Q3,Mon,168.95,6
+774,"Fog, Londong",Beef Meals,Ashanti,Fisher Mills,2019-09-09,2534.25,2019,9,Sep,Q3,Mon,168.95,15
+775,"Fog, Londong",Fish Meals,Ashanti,Sharon Sticks,2019-09-09,2727.6,2019,9,Sep,Q3,Mon,340.95,8
+776,"Haveria, Luiz",Seafood,Greater Accra,Clifford Quist,2019-09-15,559.93,2019,9,Sep,Q3,Sun,79.99,7
+777,"Hines, Zach",Fish Meals,Ashanti,Sharon Sticks,2019-09-15,4432.35,2019,9,Sep,Q3,Sun,340.95,13
+778,"Tall, Liz",Seafood,Savannah,Sharon Sticks,2019-09-15,1199.85,2019,9,Sep,Q3,Sun,79.99,15
+779,"Fog, Londong",Seafood,Ashanti,Kwaku Mason,2019-09-17,79.99,2019,9,Sep,Q3,Tue,79.99,1
+780,"Stuart, Jill",Beef Meals,Oti,Elton John,2019-09-18,3379.0,2019,9,Sep,Q3,Wed,168.95,20
+781,"Stuart, Jill",Fish Meals,Oti,Kwaku Mason,2019-09-18,4432.35,2019,9,Sep,Q3,Wed,340.95,13
+782,"Azpilecueta, Moses",Pasta Dishes,Oti,Sharon Sticks,2019-09-18,7199.55,2019,9,Sep,Q3,Wed,799.95,9
+783,"Dede, Amakye",Fish Meals,Savannah,Clifford Quist,2019-09-23,2727.6,2019,9,Sep,Q3,Mon,340.95,8
+784,"Milner, James",Beef Meals,Greater Accra,Elton John,2019-09-23,3379.0,2019,9,Sep,Q3,Mon,168.95,20
+785,"Milner, James",Fish Meals,Greater Accra,Fisher Mills,2019-09-23,2045.7,2019,9,Sep,Q3,Mon,340.95,6
+786,"Dede, Amakye",Fish Meals,Savannah,Sharon Sticks,2019-09-23,2045.7,2019,9,Sep,Q3,Mon,340.95,6
+787,"Barkley, Ross",Beef Meals,Savannah,Sharon Sticks,2019-09-23,1013.7,2019,9,Sep,Q3,Mon,168.95,6
+788,"Fog, Londong",Pasta Dishes,Ashanti,Elton John,2019-09-24,15199.05,2019,9,Sep,Q3,Tue,799.95,19
+789,"Stuart, Jill",Fish Meals,Oti,Sharon Sticks,2019-09-24,3409.5,2019,9,Sep,Q3,Tue,340.95,10
+790,"Stuart, Jill",Beef Meals,Oti,Clifford Quist,2019-09-25,1013.7,2019,9,Sep,Q3,Wed,168.95,6
+791,"Haveria, Luiz",Seafood,Greater Accra,Sharon Sticks,2019-09-26,559.93,2019,9,Sep,Q3,Thu,79.99,7
+792,"Haveria, Luiz",Fish Meals,Greater Accra,Clifford Quist,2019-09-29,4432.35,2019,9,Sep,Q3,Sun,340.95,13
+793,"Hines, Zach",Beef Meals,Ashanti,Fisher Mills,2019-09-29,1689.5,2019,9,Sep,Q3,Sun,168.95,10
+794,"Barkley, Ross",Pasta Dishes,Savannah,Kwaku Mason,2019-09-30,11999.25,2019,9,Sep,Q3,Mon,799.95,15
+795,"Read, Tira",Vegetarian Dishes,Savannah,Kwaku Mason,2019-09-30,1022.85,2019,9,Sep,Q3,Mon,340.95,3
+796,"Barkley, Ross",Beef Meals,Savannah,Sharon Sticks,2019-09-30,1689.5,2019,9,Sep,Q3,Mon,168.95,10
+797,"Tall, Liz",Pasta Dishes,Savannah,Fisher Mills,2019-10-01,8799.45,2019,10,Oct,Q4,Tue,799.95,11
+798,"Milner, James",Pasta Dishes,Greater Accra,Kwaku Mason,2019-10-01,3199.8,2019,10,Oct,Q4,Tue,799.95,4
+799,"Barkley, Ross",Seafood,Savannah,Sharon Sticks,2019-10-01,879.89,2019,10,Oct,Q4,Tue,79.99,11
+800,"Milner, James",Fish Meals,Greater Accra,Kwaku Mason,2019-10-02,3068.55,2019,10,Oct,Q4,Wed,340.95,9
+801,"Azpilecueta, Moses",Pasta Dishes,Oti,Clifford Quist,2019-10-03,7199.55,2019,10,Oct,Q4,Thu,799.95,9
+802,"Barkley, Ross",Seafood,Savannah,Elton John,2019-10-03,1519.81,2019,10,Oct,Q4,Thu,79.99,19
+803,"Dede, Amakye",Pasta Dishes,Savannah,Elton John,2019-10-06,11199.3,2019,10,Oct,Q4,Sun,799.95,14
+804,"Dede, Amakye",Beef Meals,Savannah,Clifford Quist,2019-10-07,168.95,2019,10,Oct,Q4,Mon,168.95,1
+805,"Read, Tira",Beef Meals,Savannah,Clifford Quist,2019-10-07,168.95,2019,10,Oct,Q4,Mon,168.95,1
+806,"Azpilecueta, Moses",Fish Meals,Oti,Elton John,2019-10-07,4091.4,2019,10,Oct,Q4,Mon,340.95,12
+807,"Barkley, Ross",Seafood,Savannah,Fisher Mills,2019-10-07,1199.85,2019,10,Oct,Q4,Mon,79.99,15
+808,"Milner, James",Beef Meals,Greater Accra,Elton John,2019-10-08,1013.7,2019,10,Oct,Q4,Tue,168.95,6
+809,"Hines, Zach",Pasta Dishes,Ashanti,Fisher Mills,2019-10-08,11999.25,2019,10,Oct,Q4,Tue,799.95,15
+810,"Hines, Zach",Beef Meals,Ashanti,Sharon Sticks,2019-10-08,2365.3,2019,10,Oct,Q4,Tue,168.95,14
+811,"Hines, Zach",Fish Meals,Ashanti,Sharon Sticks,2019-10-08,340.95,2019,10,Oct,Q4,Tue,340.95,1
+812,"Haveria, Luiz",Beef Meals,Greater Accra,Sharon Sticks,2019-10-09,2027.4,2019,10,Oct,Q4,Wed,168.95,12
+813,"Stuart, Jill",Beef Meals,Oti,Elton John,2019-10-10,1351.6,2019,10,Oct,Q4,Thu,168.95,8
+814,"Haveria, Luiz",Beef Meals,Greater Accra,Clifford Quist,2019-10-11,1689.5,2019,10,Oct,Q4,Fri,168.95,10
+815,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Clifford Quist,2019-10-13,1363.8,2019,10,Oct,Q4,Sun,340.95,4
+816,"Tall, Liz",Fish Meals,Savannah,Sharon Sticks,2019-10-13,340.95,2019,10,Oct,Q4,Sun,340.95,1
+817,"Stuart, Jill",Pasta Dishes,Oti,Fisher Mills,2019-10-14,2399.85,2019,10,Oct,Q4,Mon,799.95,3
+818,"Read, Tira",Vegetarian Dishes,Savannah,Fisher Mills,2019-10-18,2727.6,2019,10,Oct,Q4,Fri,340.95,8
+819,"Azpilecueta, Moses",Pasta Dishes,Oti,Elton John,2019-10-20,8799.45,2019,10,Oct,Q4,Sun,799.95,11
+820,"Hines, Zach",Fish Meals,Ashanti,Clifford Quist,2019-10-24,2045.7,2019,10,Oct,Q4,Thu,340.95,6
+821,"Hines, Zach",Vegetarian Dishes,Ashanti,Kwaku Mason,2019-10-24,340.95,2019,10,Oct,Q4,Thu,340.95,1
+822,"Milner, James",Fish Meals,Greater Accra,Elton John,2019-10-25,6137.1,2019,10,Oct,Q4,Fri,340.95,18
+823,"Haveria, Luiz",Beef Meals,Greater Accra,Kwaku Mason,2019-10-25,168.95,2019,10,Oct,Q4,Fri,168.95,1
+824,"Stuart, Jill",Fish Meals,Oti,Elton John,2019-10-27,5455.2,2019,10,Oct,Q4,Sun,340.95,16
+825,"Hines, Zach",Beef Meals,Ashanti,Elton John,2019-10-28,3041.1,2019,10,Oct,Q4,Mon,168.95,18
+826,"Milner, James",Seafood,Greater Accra,Fisher Mills,2019-10-28,639.92,2019,10,Oct,Q4,Mon,79.99,8
+827,"Hines, Zach",Pasta Dishes,Ashanti,Kwaku Mason,2019-10-28,10399.35,2019,10,Oct,Q4,Mon,799.95,13
+828,"Stuart, Jill",Pasta Dishes,Oti,Kwaku Mason,2019-10-28,3999.75,2019,10,Oct,Q4,Mon,799.95,5
+829,"Read, Tira",Beef Meals,Savannah,Clifford Quist,2019-10-31,337.9,2019,10,Oct,Q4,Thu,168.95,2
+830,"Azpilecueta, Moses",Beef Meals,Oti,Kwaku Mason,2019-11-01,2196.35,2019,11,Nov,Q4,Fri,168.95,13
+831,"Read, Tira",Pasta Dishes,Savannah,Elton John,2019-11-03,6399.6,2019,11,Nov,Q4,Sun,799.95,8
+832,"Tall, Liz",Pasta Dishes,Savannah,Clifford Quist,2019-11-04,5599.65,2019,11,Nov,Q4,Mon,799.95,7
+833,"Hines, Zach",Vegetarian Dishes,Ashanti,Kwaku Mason,2019-11-04,3750.45,2019,11,Nov,Q4,Mon,340.95,11
+834,"Barkley, Ross",Fish Meals,Savannah,Sharon Sticks,2019-11-04,3750.45,2019,11,Nov,Q4,Mon,340.95,11
+835,"Tall, Liz",Pasta Dishes,Savannah,Clifford Quist,2019-11-05,10399.35,2019,11,Nov,Q4,Tue,799.95,13
+836,"Read, Tira",Seafood,Savannah,Clifford Quist,2019-11-05,79.99,2019,11,Nov,Q4,Tue,79.99,1
+837,"Haveria, Luiz",Fish Meals,Greater Accra,Kwaku Mason,2019-11-05,2727.6,2019,11,Nov,Q4,Tue,340.95,8
+838,"Stuart, Jill",Pasta Dishes,Oti,Clifford Quist,2019-11-06,1599.9,2019,11,Nov,Q4,Wed,799.95,2
+839,"Hines, Zach",Vegetarian Dishes,Ashanti,Elton John,2019-11-06,5796.15,2019,11,Nov,Q4,Wed,340.95,17
+840,"Stuart, Jill",Beef Meals,Oti,Fisher Mills,2019-11-06,1182.65,2019,11,Nov,Q4,Wed,168.95,7
+841,"Hines, Zach",Vegetarian Dishes,Ashanti,Fisher Mills,2019-11-07,2045.7,2019,11,Nov,Q4,Thu,340.95,6
+842,"Stuart, Jill",Beef Meals,Oti,Elton John,2019-11-08,1520.55,2019,11,Nov,Q4,Fri,168.95,9
+843,"Tall, Liz",Beef Meals,Savannah,Sharon Sticks,2019-11-08,1520.55,2019,11,Nov,Q4,Fri,168.95,9
+844,"Hines, Zach",Vegetarian Dishes,Ashanti,Fisher Mills,2019-11-11,3409.5,2019,11,Nov,Q4,Mon,340.95,10
+845,"Fog, Londong",Seafood,Ashanti,Fisher Mills,2019-11-11,79.99,2019,11,Nov,Q4,Mon,79.99,1
+846,"Azpilecueta, Moses",Beef Meals,Oti,Kwaku Mason,2019-11-11,2196.35,2019,11,Nov,Q4,Mon,168.95,13
+847,"Haveria, Luiz",Pasta Dishes,Greater Accra,Fisher Mills,2019-11-12,799.95,2019,11,Nov,Q4,Tue,799.95,1
+848,"Fog, Londong",Pasta Dishes,Ashanti,Clifford Quist,2019-11-13,5599.65,2019,11,Nov,Q4,Wed,799.95,7
+849,"Fog, Londong",Fish Meals,Ashanti,Clifford Quist,2019-11-14,3409.5,2019,11,Nov,Q4,Thu,340.95,10
+850,"Stuart, Jill",Beef Meals,Oti,Fisher Mills,2019-11-14,1013.7,2019,11,Nov,Q4,Thu,168.95,6
+851,"Haveria, Luiz",Fish Meals,Greater Accra,Clifford Quist,2019-11-15,681.9,2019,11,Nov,Q4,Fri,340.95,2
+852,"Fog, Londong",Vegetarian Dishes,Ashanti,Fisher Mills,2019-11-15,4432.35,2019,11,Nov,Q4,Fri,340.95,13
+853,"Haveria, Luiz",Fish Meals,Greater Accra,Sharon Sticks,2019-11-18,1022.85,2019,11,Nov,Q4,Mon,340.95,3
+854,"Fog, Londong",Beef Meals,Ashanti,Sharon Sticks,2019-11-18,1351.6,2019,11,Nov,Q4,Mon,168.95,8
+855,"Tall, Liz",Pasta Dishes,Savannah,Elton John,2019-11-19,15199.05,2019,11,Nov,Q4,Tue,799.95,19
+856,"Read, Tira",Seafood,Savannah,Fisher Mills,2019-11-19,959.88,2019,11,Nov,Q4,Tue,79.99,12
+857,"Fog, Londong",Pasta Dishes,Ashanti,Sharon Sticks,2019-11-19,2399.85,2019,11,Nov,Q4,Tue,799.95,3
+858,"Tall, Liz",Beef Meals,Savannah,Kwaku Mason,2019-11-20,506.85,2019,11,Nov,Q4,Wed,168.95,3
+859,"Hines, Zach",Beef Meals,Ashanti,Sharon Sticks,2019-11-21,506.85,2019,11,Nov,Q4,Thu,168.95,3
+860,"Azpilecueta, Moses",Vegetarian Dishes,Greater Accra,Kwaku Mason,2019-11-22,2386.65,2019,11,Nov,Q4,Fri,340.95,7
+861,"Stuart, Jill",Pasta Dishes,Oti,Clifford Quist,2019-11-24,7999.5,2019,11,Nov,Q4,Sun,799.95,10
+862,"Barkley, Ross",Pasta Dishes,Savannah,Kwaku Mason,2019-11-24,799.95,2019,11,Nov,Q4,Sun,799.95,1
+863,"Read, Tira",Fish Meals,Savannah,Kwaku Mason,2019-11-24,2727.6,2019,11,Nov,Q4,Sun,340.95,8
+864,"Stuart, Jill",Pasta Dishes,Oti,Fisher Mills,2019-11-25,7999.5,2019,11,Nov,Q4,Mon,799.95,10
+865,"Hines, Zach",Vegetarian Dishes,Ashanti,Sharon Sticks,2019-11-25,3409.5,2019,11,Nov,Q4,Mon,340.95,10
+866,"Stuart, Jill",Fish Meals,Oti,Sharon Sticks,2019-11-25,3409.5,2019,11,Nov,Q4,Mon,340.95,10
+867,"Stuart, Jill",Pasta Dishes,Oti,Fisher Mills,2019-11-26,4799.7,2019,11,Nov,Q4,Tue,799.95,6
+868,"Stuart, Jill",Beef Meals,Oti,Fisher Mills,2019-11-26,168.95,2019,11,Nov,Q4,Tue,168.95,1
+869,"Fog, Londong",Pasta Dishes,Ashanti,Elton John,2019-11-27,14399.1,2019,11,Nov,Q4,Wed,799.95,18
+870,"Stuart, Jill",Fish Meals,Oti,Sharon Sticks,2019-12-01,681.9,2019,12,Dec,Q4,Sun,340.95,2
+871,"Tall, Liz",Fish Meals,Savannah,Clifford Quist,2019-12-02,3068.55,2019,12,Dec,Q4,Mon,340.95,9
+872,"Read, Tira",Pasta Dishes,Savannah,Fisher Mills,2019-12-02,11999.25,2019,12,Dec,Q4,Mon,799.95,15
+873,"Stuart, Jill",Vegetarian Dishes,Oti,Clifford Quist,2019-12-04,3068.55,2019,12,Dec,Q4,Wed,340.95,9
+874,"Hines, Zach",Fish Meals,Ashanti,Fisher Mills,2019-12-04,4432.35,2019,12,Dec,Q4,Wed,340.95,13
+875,"Read, Tira",Seafood,Savannah,Sharon Sticks,2019-12-04,399.95,2019,12,Dec,Q4,Wed,79.99,5
+876,"Hines, Zach",Fish Meals,Ashanti,Elton John,2019-12-05,4432.35,2019,12,Dec,Q4,Thu,340.95,13
+877,"Tall, Liz",Fish Meals,Savannah,Clifford Quist,2019-12-06,4091.4,2019,12,Dec,Q4,Fri,340.95,12
+878,"Fog, Londong",Beef Meals,Ashanti,Kwaku Mason,2019-12-06,2534.25,2019,12,Dec,Q4,Fri,168.95,15
+879,"Azpilecueta, Moses",Fish Meals,Oti,Clifford Quist,2019-12-09,2386.65,2019,12,Dec,Q4,Mon,340.95,7
+880,"Tall, Liz",Pasta Dishes,Savannah,Clifford Quist,2019-12-10,3999.75,2019,12,Dec,Q4,Tue,799.95,5
+881,"Hines, Zach",Pasta Dishes,Ashanti,Clifford Quist,2019-12-11,11199.3,2019,12,Dec,Q4,Wed,799.95,14
+882,"Fog, Londong",Seafood,Ashanti,Clifford Quist,2019-12-11,1199.85,2019,12,Dec,Q4,Wed,79.99,15
+883,"Tall, Liz",Fish Meals,Savannah,Fisher Mills,2019-12-11,3750.45,2019,12,Dec,Q4,Wed,340.95,11
+884,"Hines, Zach",Beef Meals,Ashanti,Clifford Quist,2019-12-12,2027.4,2019,12,Dec,Q4,Thu,168.95,12
+885,"Barkley, Ross",Vegetarian Dishes,Savannah,Elton John,2019-12-13,3750.45,2019,12,Dec,Q4,Fri,340.95,11
+886,"Fog, Londong",Beef Meals,Ashanti,Elton John,2019-12-13,1013.7,2019,12,Dec,Q4,Fri,168.95,6
+887,"Barkley, Ross",Vegetarian Dishes,Savannah,Kwaku Mason,2019-12-13,4773.3,2019,12,Dec,Q4,Fri,340.95,14
+888,"Stuart, Jill",Fish Meals,Oti,Elton John,2019-12-15,4432.35,2019,12,Dec,Q4,Sun,340.95,13
+889,"Fog, Londong",Beef Meals,Ashanti,Fisher Mills,2019-12-15,1013.7,2019,12,Dec,Q4,Sun,168.95,6
+890,"Azpilecueta, Moses",Beef Meals,Oti,Clifford Quist,2019-12-16,675.8,2019,12,Dec,Q4,Mon,168.95,4
+891,"Read, Tira",Fish Meals,Savannah,Elton John,2019-12-16,3750.45,2019,12,Dec,Q4,Mon,340.95,11
+892,"Stuart, Jill",Beef Meals,Oti,Fisher Mills,2019-12-16,1182.65,2019,12,Dec,Q4,Mon,168.95,7
+893,"Barkley, Ross",Fish Meals,Savannah,Kwaku Mason,2019-12-16,1704.75,2019,12,Dec,Q4,Mon,340.95,5
+894,"Tall, Liz",Beef Meals,Savannah,Sharon Sticks,2019-12-16,844.75,2019,12,Dec,Q4,Mon,168.95,5
+895,"Tall, Liz",Vegetarian Dishes,Savannah,Elton John,2019-12-17,2727.6,2019,12,Dec,Q4,Tue,340.95,8
+896,"Haveria, Luiz",Vegetarian Dishes,Greater Accra,Elton John,2019-12-22,4091.4,2019,12,Dec,Q4,Sun,340.95,12
+897,"Fog, Londong",Fish Meals,Ashanti,Kwaku Mason,2019-12-22,4091.4,2019,12,Dec,Q4,Sun,340.95,12
+898,"Stuart, Jill",Pasta Dishes,Oti,Kwaku Mason,2019-12-22,2399.85,2019,12,Dec,Q4,Sun,799.95,3
+899,"Stuart, Jill",Fish Meals,Oti,Kwaku Mason,2019-12-22,5114.25,2019,12,Dec,Q4,Sun,340.95,15
+900,"Read, Tira",Seafood,Savannah,Clifford Quist,2019-12-23,559.93,2019,12,Dec,Q4,Mon,79.99,7
+901,"Azpilecueta, Moses",Fish Meals,Oti,Elton John,2019-12-23,6819.0,2019,12,Dec,Q4,Mon,340.95,20
+902,"Stuart, Jill",Pasta Dishes,Oti,Elton John,2019-12-23,7199.55,2019,12,Dec,Q4,Mon,799.95,9
+903,"Barkley, Ross",Beef Meals,Savannah,Clifford Quist,2019-12-24,506.85,2019,12,Dec,Q4,Tue,168.95,3
+904,"Hines, Zach",Vegetarian Dishes,Ashanti,Elton John,2019-12-24,6137.1,2019,12,Dec,Q4,Tue,340.95,18
+905,"Hines, Zach",Fish Meals,Ashanti,Fisher Mills,2019-12-24,4091.4,2019,12,Dec,Q4,Tue,340.95,12
+906,"Read, Tira",Fish Meals,Savannah,Sharon Sticks,2019-12-24,5114.25,2019,12,Dec,Q4,Tue,340.95,15
+907,"Haveria, Luiz",Seafood,Greater Accra,Clifford Quist,2019-12-25,879.89,2019,12,Dec,Q4,Wed,79.99,11
+908,"Fog, Londong",Beef Meals,Ashanti,Kwaku Mason,2019-12-30,1351.6,2019,12,Dec,Q4,Mon,168.95,8
+909,"Stuart, Jill",Vegetarian Dishes,Oti,Kwaku Mason,2019-12-30,4773.3,2019,12,Dec,Q4,Mon,340.95,14

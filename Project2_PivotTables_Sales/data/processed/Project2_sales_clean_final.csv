@@ -1,0 +1,910 @@
+OrderID,Salesperson,Product,Region,Customer,Date,Sales,Year,MonthNum,Month,Quarter,Weekday,UnitPrice,Units
+1,"Stuart, Jill",Seafood,East,Elton John,2020-01-01,719.91,2020,1,Jan,Q1,Wed,79.99,9
+2,"Temple, Cheryl",Beef Meals,East,Kwaku Mason,2020-01-01,675.8,2020,1,Jan,Q1,Wed,168.95,4
+3,"Fog, Londong",Seafood,West,Kwaku Mason,2020-01-01,879.89,2020,1,Jan,Q1,Wed,79.99,11
+4,"Read, Tira",Beef Meals,North,Kwaku Mason,2020-01-01,2534.25,2020,1,Jan,Q1,Wed,168.95,15
+5,"Dede, Amakye",Vegetarian Dishes,North,Sharon Sticks,2020-01-01,2727.6,2020,1,Jan,Q1,Wed,340.95,8
+6,"Fog, Londong",Fish Meals,West,Elton John,2020-01-02,4091.4,2020,1,Jan,Q1,Thu,340.95,12
+7,"Azpilecueta, Moses",Vegetarian Dishes,South,Fisher Mills,2020-01-02,1363.8,2020,1,Jan,Q1,Thu,340.95,4
+8,"Stuart, Jill",Vegetarian Dishes,East,Elton John,2020-01-06,3068.55,2020,1,Jan,Q1,Mon,340.95,9
+9,"Fog, Londong",Fish Meals,West,Kwaku Mason,2020-01-06,681.9,2020,1,Jan,Q1,Mon,340.95,2
+10,"Haveria, Luiz",Seafood,South,Clifford Quist,2020-01-07,559.93,2020,1,Jan,Q1,Tue,79.99,7
+11,"Smith, Bob",Fish Meals,East,Clifford Quist,2020-01-07,681.9,2020,1,Jan,Q1,Tue,340.95,2
+12,"Fog, Londong",Beef Meals,West,Fisher Mills,2020-01-07,2534.25,2020,1,Jan,Q1,Tue,168.95,15
+13,"Fog, Londong",Seafood,West,Sharon Sticks,2020-01-07,79.99,2020,1,Jan,Q1,Tue,79.99,1
+14,"Fog, Londong",Beef Meals,West,Clifford Quist,2020-01-08,506.85,2020,1,Jan,Q1,Wed,168.95,3
+15,"Hines, Zach",Seafood,West,Elton John,2020-01-08,959.88,2020,1,Jan,Q1,Wed,79.99,12
+16,"Read, Tira",Pasta Dishes,North,Elton John,2020-01-08,14399.1,2020,1,Jan,Q1,Wed,799.95,18
+17,"Stuart, Jill",Beef Meals,East,Elton John,2020-01-08,3379.0,2020,1,Jan,Q1,Wed,168.95,20
+18,"Smith, Bob",Beef Meals,East,Kwaku Mason,2020-01-08,675.8,2020,1,Jan,Q1,Wed,168.95,4
+19,"Dede, Amakye",Fish Meals,North,Clifford Quist,2020-01-09,3750.45,2020,1,Jan,Q1,Thu,340.95,11
+20,"Temple, Cheryl",Fish Meals,East,Clifford Quist,2020-01-09,340.95,2020,1,Jan,Q1,Thu,340.95,1
+21,"Azpilecueta, Moses",Vegetarian Dishes,South,Fisher Mills,2020-01-09,2386.65,2020,1,Jan,Q1,Thu,340.95,7
+22,"Read, Tira",Pasta Dishes,North,Clifford Quist,2020-01-10,10399.35,2020,1,Jan,Q1,Fri,799.95,13
+23,"Hines, Zach",Pasta Dishes,West,Clifford Quist,2020-01-10,5599.65,2020,1,Jan,Q1,Fri,799.95,7
+24,"Haveria, Luiz",Pasta Dishes,South,Clifford Quist,2020-01-10,6399.6,2020,1,Jan,Q1,Fri,799.95,8
+25,"Barkley, Ross",Seafood,North,Elton John,2020-01-10,1279.84,2020,1,Jan,Q1,Fri,79.99,16
+26,"Smith, Bob",Beef Meals,East,Elton John,2020-01-10,2703.2,2020,1,Jan,Q1,Fri,168.95,16
+27,"Hines, Zach",Beef Meals,West,Fisher Mills,2020-01-10,1013.7,2020,1,Jan,Q1,Fri,168.95,6
+28,"Azpilecueta, Moses",Pasta Dishes,East,Sharon Sticks,2020-01-10,11999.25,2020,1,Jan,Q1,Fri,799.95,15
+29,"Azpilecueta, Moses",Fish Meals,East,Sharon Sticks,2020-01-10,3750.45,2020,1,Jan,Q1,Fri,340.95,11
+30,"Smith, Bob",Seafood,East,Kwaku Mason,2020-01-11,799.9,2020,1,Jan,Q1,Sat,79.99,10
+31,"Fog, Londong",Pasta Dishes,West,Kwaku Mason,2020-01-11,1599.9,2020,1,Jan,Q1,Sat,799.95,2
+32,"Fog, Londong",Fish Meals,West,Kwaku Mason,2020-01-11,2045.7,2020,1,Jan,Q1,Sat,340.95,6
+33,"Fog, Londong",Beef Meals,West,Elton John,2020-01-11,1013.7,2020,1,Jan,Q1,Sat,168.95,6
+34,"Haveria, Luiz",Beef Meals,South,Sharon Sticks,2020-01-11,1858.45,2020,1,Jan,Q1,Sat,168.95,11
+35,"Dede, Amakye",Pasta Dishes,North,Sharon Sticks,2020-01-11,5599.65,2020,1,Jan,Q1,Sat,799.95,7
+36,"Temple, Cheryl",Beef Meals,East,Sharon Sticks,2020-01-13,168.95,2020,1,Jan,Q1,Mon,168.95,1
+37,"Fog, Londong",Fish Meals,West,Elton John,2020-01-14,4432.35,2020,1,Jan,Q1,Tue,340.95,13
+38,"Hines, Zach",Beef Meals,West,Kwaku Mason,2020-01-14,1689.5,2020,1,Jan,Q1,Tue,168.95,10
+39,"Stuart, Jill",Fish Meals,East,Kwaku Mason,2020-01-14,1363.8,2020,1,Jan,Q1,Tue,340.95,4
+40,"Hines, Zach",Beef Meals,West,Clifford Quist,2020-01-14,2534.25,2020,1,Jan,Q1,Tue,168.95,15
+41,"Haveria, Luiz",Seafood,South,Clifford Quist,2020-01-14,959.88,2020,1,Jan,Q1,Tue,79.99,12
+42,"Hines, Zach",Beef Meals,West,Elton John,2020-01-14,2196.35,2020,1,Jan,Q1,Tue,168.95,13
+43,"Barkley, Ross",Fish Meals,North,Sharon Sticks,2020-01-14,340.95,2020,1,Jan,Q1,Tue,340.95,1
+44,"Milner, James",Fish Meals,South,Sharon Sticks,2020-01-14,5114.25,2020,1,Jan,Q1,Tue,340.95,15
+45,"Hines, Zach",Beef Meals,West,Elton John,2020-01-15,1858.45,2020,1,Jan,Q1,Wed,168.95,11
+46,"Haveria, Luiz",Vegetarian Dishes,South,Elton John,2020-01-15,2386.65,2020,1,Jan,Q1,Wed,340.95,7
+47,"Hines, Zach",Seafood,West,Clifford Quist,2020-01-16,879.89,2020,1,Jan,Q1,Thu,79.99,11
+48,"Smith, Bob",Pasta Dishes,East,Elton John,2020-01-16,4799.7,2020,1,Jan,Q1,Thu,799.95,6
+49,"Haveria, Luiz",Pasta Dishes,South,Elton John,2020-01-16,4799.7,2020,1,Jan,Q1,Thu,799.95,6
+50,"Fog, Londong",Vegetarian Dishes,West,Sharon Sticks,2020-01-16,4432.35,2020,1,Jan,Q1,Thu,340.95,13
+51,"Tall, Liz",Vegetarian Dishes,North,Elton John,2020-01-17,4773.3,2020,1,Jan,Q1,Fri,340.95,14
+52,"Read, Tira",Beef Meals,North,Kwaku Mason,2020-01-17,1689.5,2020,1,Jan,Q1,Fri,168.95,10
+53,"Azpilecueta, Moses",Beef Meals,East,Clifford Quist,2020-01-17,2534.25,2020,1,Jan,Q1,Fri,168.95,15
+54,"Stuart, Jill",Vegetarian Dishes,East,Kwaku Mason,2020-01-17,4091.4,2020,1,Jan,Q1,Fri,340.95,12
+55,"Temple, Cheryl",Vegetarian Dishes,East,Sharon Sticks,2020-01-17,681.9,2020,1,Jan,Q1,Fri,340.95,2
+56,"Temple, Cheryl",Seafood,East,Clifford Quist,2020-01-18,159.98,2020,1,Jan,Q1,Sat,79.99,2
+57,"Tall, Liz",Seafood,North,Elton John,2020-01-18,639.92,2020,1,Jan,Q1,Sat,79.99,8
+58,"Fog, Londong",Fish Meals,West,Fisher Mills,2020-01-18,3409.5,2020,1,Jan,Q1,Sat,340.95,10
+59,"Stuart, Jill",Pasta Dishes,East,Clifford Quist,2020-01-21,2399.85,2020,1,Jan,Q1,Tue,799.95,3
+60,"Smith, Bob",Seafood,East,Kwaku Mason,2020-01-21,1119.86,2020,1,Jan,Q1,Tue,79.99,14
+61,"Stuart, Jill",Vegetarian Dishes,East,Sharon Sticks,2020-01-21,2727.6,2020,1,Jan,Q1,Tue,340.95,8
+62,"Stuart, Jill",Fish Meals,East,Clifford Quist,2020-01-22,1363.8,2020,1,Jan,Q1,Wed,340.95,4
+63,"Milner, James",Pasta Dishes,South,Kwaku Mason,2020-01-22,7999.5,2020,1,Jan,Q1,Wed,799.95,10
+64,"Tall, Liz",Seafood,North,Elton John,2020-01-23,1599.8,2020,1,Jan,Q1,Thu,79.99,20
+65,"Read, Tira",Fish Meals,North,Kwaku Mason,2020-01-24,2727.6,2020,1,Jan,Q1,Fri,340.95,8
+66,"Tall, Liz",Pasta Dishes,North,Elton John,2020-01-24,11999.25,2020,1,Jan,Q1,Fri,799.95,15
+67,"Haveria, Luiz",Fish Meals,South,Fisher Mills,2020-01-24,3750.45,2020,1,Jan,Q1,Fri,340.95,11
+68,"Milner, James",Seafood,South,Sharon Sticks,2020-01-25,799.9,2020,1,Jan,Q1,Sat,79.99,10
+69,"Temple, Cheryl",Seafood,East,Kwaku Mason,2020-01-26,879.89,2020,1,Jan,Q1,Sun,79.99,11
+70,"Haveria, Luiz",Beef Meals,South,Fisher Mills,2020-01-27,1858.45,2020,1,Jan,Q1,Mon,168.95,11
+71,"Haveria, Luiz",Vegetarian Dishes,South,Clifford Quist,2020-01-28,4432.35,2020,1,Jan,Q1,Tue,340.95,13
+72,"Haveria, Luiz",Fish Meals,South,Elton John,2020-01-28,2386.65,2020,1,Jan,Q1,Tue,340.95,7
+73,"Azpilecueta, Moses",Pasta Dishes,East,Clifford Quist,2020-01-28,1599.9,2020,1,Jan,Q1,Tue,799.95,2
+74,"Hines, Zach",Vegetarian Dishes,West,Fisher Mills,2020-01-28,5114.25,2020,1,Jan,Q1,Tue,340.95,15
+75,"Barkley, Ross",Pasta Dishes,North,Kwaku Mason,2020-01-28,8799.45,2020,1,Jan,Q1,Tue,799.95,11
+76,"Temple, Cheryl",Fish Meals,East,Elton John,2020-01-29,2727.6,2020,1,Jan,Q1,Wed,340.95,8
+77,"Barkley, Ross",Fish Meals,North,Elton John,2020-01-29,5796.15,2020,1,Jan,Q1,Wed,340.95,17
+78,"Stuart, Jill",Fish Meals,East,Fisher Mills,2020-01-29,2727.6,2020,1,Jan,Q1,Wed,340.95,8
+79,"Stuart, Jill",Pasta Dishes,East,Clifford Quist,2020-01-30,7999.5,2020,1,Jan,Q1,Thu,799.95,10
+80,"Stuart, Jill",Pasta Dishes,East,Kwaku Mason,2020-01-30,5599.65,2020,1,Jan,Q1,Thu,799.95,7
+81,"Fog, Londong",Beef Meals,West,Clifford Quist,2020-01-30,1520.55,2020,1,Jan,Q1,Thu,168.95,9
+82,"Milner, James",Seafood,South,Kwaku Mason,2020-01-30,159.98,2020,1,Jan,Q1,Thu,79.99,2
+83,"Tall, Liz",Fish Meals,North,Clifford Quist,2020-01-31,1363.8,2020,1,Jan,Q1,Fri,340.95,4
+84,"Haveria, Luiz",Vegetarian Dishes,South,Kwaku Mason,2020-01-31,2727.6,2020,1,Jan,Q1,Fri,340.95,8
+85,"Read, Tira",Pasta Dishes,North,Sharon Sticks,2020-01-31,11999.25,2020,1,Jan,Q1,Fri,799.95,15
+86,"Haveria, Luiz",Pasta Dishes,South,Fisher Mills,2020-02-01,3999.75,2020,2,Feb,Q1,Sat,799.95,5
+87,"Read, Tira",Pasta Dishes,North,Kwaku Mason,2020-02-01,5599.65,2020,2,Feb,Q1,Sat,799.95,7
+88,"Stuart, Jill",Vegetarian Dishes,East,Kwaku Mason,2020-02-01,2045.7,2020,2,Feb,Q1,Sat,340.95,6
+89,"Smith, Bob",Beef Meals,East,Clifford Quist,2020-02-01,675.8,2020,2,Feb,Q1,Sat,168.95,4
+90,"Fog, Londong",Fish Meals,West,Clifford Quist,2020-02-01,5114.25,2020,2,Feb,Q1,Sat,340.95,15
+91,"Haveria, Luiz",Seafood,South,Kwaku Mason,2020-02-02,399.95,2020,2,Feb,Q1,Sun,79.99,5
+92,"Stuart, Jill",Beef Meals,East,Elton John,2020-02-03,2196.35,2020,2,Feb,Q1,Mon,168.95,13
+93,"Dede, Amakye",Seafood,North,Fisher Mills,2020-02-03,639.92,2020,2,Feb,Q1,Mon,79.99,8
+94,"Milner, James",Seafood,South,Fisher Mills,2020-02-03,79.99,2020,2,Feb,Q1,Mon,79.99,1
+95,"Read, Tira",Beef Meals,North,Fisher Mills,2020-02-03,2196.35,2020,2,Feb,Q1,Mon,168.95,13
+96,"Read, Tira",Vegetarian Dishes,North,Elton John,2020-02-04,4432.35,2020,2,Feb,Q1,Tue,340.95,13
+97,"Fog, Londong",Seafood,West,Kwaku Mason,2020-02-05,799.9,2020,2,Feb,Q1,Wed,79.99,10
+98,"Haveria, Luiz",Vegetarian Dishes,South,Elton John,2020-02-05,4091.4,2020,2,Feb,Q1,Wed,340.95,12
+99,"Haveria, Luiz",Vegetarian Dishes,South,Sharon Sticks,2020-02-05,3068.55,2020,2,Feb,Q1,Wed,340.95,9
+100,"Stuart, Jill",Beef Meals,East,Sharon Sticks,2020-02-05,1013.7,2020,2,Feb,Q1,Wed,168.95,6
+101,"Dede, Amakye",Vegetarian Dishes,North,Elton John,2020-02-06,2386.65,2020,2,Feb,Q1,Thu,340.95,7
+102,"Dede, Amakye",Vegetarian Dishes,North,Elton John,2020-02-06,3750.45,2020,2,Feb,Q1,Thu,340.95,11
+103,"Smith, Bob",Vegetarian Dishes,East,Elton John,2020-02-06,3068.55,2020,2,Feb,Q1,Thu,340.95,9
+104,"Smith, Bob",Vegetarian Dishes,East,Elton John,2020-02-06,4091.4,2020,2,Feb,Q1,Thu,340.95,12
+105,"Stuart, Jill",Vegetarian Dishes,East,Elton John,2020-02-06,5114.25,2020,2,Feb,Q1,Thu,340.95,15
+106,"Stuart, Jill",Vegetarian Dishes,East,Elton John,2020-02-06,5796.15,2020,2,Feb,Q1,Thu,340.95,17
+107,"Hines, Zach",Vegetarian Dishes,West,Kwaku Mason,2020-02-06,4773.3,2020,2,Feb,Q1,Thu,340.95,14
+108,"Milner, James",Seafood,South,Kwaku Mason,2020-02-06,239.97,2020,2,Feb,Q1,Thu,79.99,3
+109,"Azpilecueta, Moses",Pasta Dishes,East,Fisher Mills,2020-02-07,4799.7,2020,2,Feb,Q1,Fri,799.95,6
+110,"Smith, Bob",Seafood,East,Fisher Mills,2020-02-07,79.99,2020,2,Feb,Q1,Fri,79.99,1
+111,"Fog, Londong",Seafood,West,Fisher Mills,2020-02-08,719.91,2020,2,Feb,Q1,Sat,79.99,9
+112,"Fog, Londong",Seafood,West,Fisher Mills,2020-02-08,1119.86,2020,2,Feb,Q1,Sat,79.99,14
+113,"Read, Tira",Vegetarian Dishes,North,Kwaku Mason,2020-02-09,340.95,2020,2,Feb,Q1,Sun,340.95,1
+114,"Read, Tira",Vegetarian Dishes,North,Kwaku Mason,2020-02-09,1022.85,2020,2,Feb,Q1,Sun,340.95,3
+115,"Read, Tira",Pasta Dishes,North,Fisher Mills,2020-02-11,3199.8,2020,2,Feb,Q1,Tue,799.95,4
+116,"Read, Tira",Pasta Dishes,North,Fisher Mills,2020-02-11,8799.45,2020,2,Feb,Q1,Tue,799.95,11
+117,"Tall, Liz",Beef Meals,North,Clifford Quist,2020-02-11,2365.3,2020,2,Feb,Q1,Tue,168.95,14
+118,"Read, Tira",Vegetarian Dishes,North,Elton John,2020-02-11,3750.45,2020,2,Feb,Q1,Tue,340.95,11
+119,"Dede, Amakye",Vegetarian Dishes,North,Fisher Mills,2020-02-11,2386.65,2020,2,Feb,Q1,Tue,340.95,7
+120,"Tall, Liz",Pasta Dishes,North,Fisher Mills,2020-02-11,8799.45,2020,2,Feb,Q1,Tue,799.95,11
+121,"Barkley, Ross",Beef Meals,North,Sharon Sticks,2020-02-11,1182.65,2020,2,Feb,Q1,Tue,168.95,7
+122,"Barkley, Ross",Fish Meals,North,Clifford Quist,2020-02-12,1363.8,2020,2,Feb,Q1,Wed,340.95,4
+123,"Barkley, Ross",Fish Meals,North,Clifford Quist,2020-02-12,2045.7,2020,2,Feb,Q1,Wed,340.95,6
+124,"Stuart, Jill",Beef Meals,East,Elton John,2020-02-12,1351.6,2020,2,Feb,Q1,Wed,168.95,8
+125,"Stuart, Jill",Beef Meals,East,Elton John,2020-02-12,2196.35,2020,2,Feb,Q1,Wed,168.95,13
+126,"Stuart, Jill",Seafood,East,Elton John,2020-02-12,639.92,2020,2,Feb,Q1,Wed,79.99,8
+127,"Stuart, Jill",Seafood,East,Elton John,2020-02-12,1119.86,2020,2,Feb,Q1,Wed,79.99,14
+128,"Dede, Amakye",Seafood,North,Elton John,2020-02-15,1359.83,2020,2,Feb,Q1,Sat,79.99,17
+129,"Barkley, Ross",Pasta Dishes,North,Fisher Mills,2020-02-16,799.95,2020,2,Feb,Q1,Sun,799.95,1
+130,"Temple, Cheryl",Beef Meals,East,Kwaku Mason,2020-02-16,1858.45,2020,2,Feb,Q1,Sun,168.95,11
+131,"Smith, Bob",Beef Meals,East,Elton John,2020-02-17,2365.3,2020,2,Feb,Q1,Mon,168.95,14
+132,"Read, Tira",Fish Meals,North,Fisher Mills,2020-02-18,681.9,2020,2,Feb,Q1,Tue,340.95,2
+133,"Haveria, Luiz",Fish Meals,South,Sharon Sticks,2020-02-18,5114.25,2020,2,Feb,Q1,Tue,340.95,15
+134,"Barkley, Ross",Pasta Dishes,North,Clifford Quist,2020-02-19,7199.55,2020,2,Feb,Q1,Wed,799.95,9
+135,"Smith, Bob",Seafood,East,Elton John,2020-02-19,1199.85,2020,2,Feb,Q1,Wed,79.99,15
+136,"Read, Tira",Pasta Dishes,North,Elton John,2020-02-19,11199.3,2020,2,Feb,Q1,Wed,799.95,14
+137,"Stuart, Jill",Seafood,East,Elton John,2020-02-19,1599.8,2020,2,Feb,Q1,Wed,79.99,20
+138,"Temple, Cheryl",Pasta Dishes,East,Fisher Mills,2020-02-19,3999.75,2020,2,Feb,Q1,Wed,799.95,5
+139,"Read, Tira",Fish Meals,North,Clifford Quist,2020-02-19,2386.65,2020,2,Feb,Q1,Wed,340.95,7
+140,"Temple, Cheryl",Pasta Dishes,East,Elton John,2020-02-20,14399.1,2020,2,Feb,Q1,Thu,799.95,18
+141,"Haveria, Luiz",Beef Meals,South,Fisher Mills,2020-02-20,1351.6,2020,2,Feb,Q1,Thu,168.95,8
+142,"Fog, Londong",Pasta Dishes,West,Kwaku Mason,2020-02-20,3199.8,2020,2,Feb,Q1,Thu,799.95,4
+143,"Temple, Cheryl",Pasta Dishes,East,Fisher Mills,2020-02-21,11199.3,2020,2,Feb,Q1,Fri,799.95,14
+144,"Read, Tira",Vegetarian Dishes,North,Elton John,2020-02-22,6137.1,2020,2,Feb,Q1,Sat,340.95,18
+145,"Hines, Zach",Vegetarian Dishes,West,Kwaku Mason,2020-02-22,681.9,2020,2,Feb,Q1,Sat,340.95,2
+146,"Haveria, Luiz",Fish Meals,South,Clifford Quist,2020-02-22,2045.7,2020,2,Feb,Q1,Sat,340.95,6
+147,"Milner, James",Seafood,South,Clifford Quist,2020-02-22,239.97,2020,2,Feb,Q1,Sat,79.99,3
+148,"Smith, Bob",Vegetarian Dishes,East,Elton John,2020-02-22,6478.05,2020,2,Feb,Q1,Sat,340.95,19
+149,"Dede, Amakye",Pasta Dishes,North,Sharon Sticks,2020-02-22,10399.35,2020,2,Feb,Q1,Sat,799.95,13
+150,"Read, Tira",Pasta Dishes,North,Elton John,2020-02-23,13599.15,2020,2,Feb,Q1,Sun,799.95,17
+151,"Dede, Amakye",Vegetarian Dishes,North,Fisher Mills,2020-02-23,4091.4,2020,2,Feb,Q1,Sun,340.95,12
+152,"Stuart, Jill",Vegetarian Dishes,East,Clifford Quist,2020-02-24,3750.45,2020,2,Feb,Q1,Mon,340.95,11
+153,"Tall, Liz",Vegetarian Dishes,North,Fisher Mills,2020-02-25,2045.7,2020,2,Feb,Q1,Tue,340.95,6
+154,"Milner, James",Vegetarian Dishes,South,Sharon Sticks,2020-02-25,1022.85,2020,2,Feb,Q1,Tue,340.95,3
+155,"Read, Tira",Fish Meals,North,Kwaku Mason,2020-02-27,4773.3,2020,2,Feb,Q1,Thu,340.95,14
+156,"Smith, Bob",Seafood,East,Fisher Mills,2020-02-27,479.94,2020,2,Feb,Q1,Thu,79.99,6
+157,"Azpilecueta, Moses",Beef Meals,East,Sharon Sticks,2020-02-27,1351.6,2020,2,Feb,Q1,Thu,168.95,8
+158,"Read, Tira",Pasta Dishes,North,Clifford Quist,2020-02-28,7199.55,2020,2,Feb,Q1,Fri,799.95,9
+159,"Smith, Bob",Fish Meals,East,Kwaku Mason,2020-03-01,3750.45,2020,3,Mar,Q1,Sun,340.95,11
+160,"Stuart, Jill",Fish Meals,East,Kwaku Mason,2020-03-01,3750.45,2020,3,Mar,Q1,Sun,340.95,11
+161,"Dede, Amakye",Fish Meals,North,Sharon Sticks,2020-03-03,4091.4,2020,3,Mar,Q1,Tue,340.95,12
+162,"Fog, Londong",Beef Meals,West,Clifford Quist,2020-03-04,675.8,2020,3,Mar,Q1,Wed,168.95,4
+163,"Smith, Bob",Fish Meals,East,Elton John,2020-03-04,6819.0,2020,3,Mar,Q1,Wed,340.95,20
+164,"Barkley, Ross",Pasta Dishes,North,Sharon Sticks,2020-03-04,10399.35,2020,3,Mar,Q1,Wed,799.95,13
+165,"Fog, Londong",Seafood,West,Kwaku Mason,2020-03-05,799.9,2020,3,Mar,Q1,Thu,79.99,10
+166,"Read, Tira",Seafood,North,Clifford Quist,2020-03-07,959.88,2020,3,Mar,Q1,Sat,79.99,12
+167,"Dede, Amakye",Beef Meals,North,Elton John,2020-03-07,1351.6,2020,3,Mar,Q1,Sat,168.95,8
+168,"Hines, Zach",Beef Meals,West,Clifford Quist,2020-03-08,1858.45,2020,3,Mar,Q1,Sun,168.95,11
+169,"Read, Tira",Fish Meals,North,Sharon Sticks,2020-03-09,340.95,2020,3,Mar,Q1,Mon,340.95,1
+170,"Milner, James",Vegetarian Dishes,South,Fisher Mills,2020-03-11,681.9,2020,3,Mar,Q1,Wed,340.95,2
+171,"Milner, James",Seafood,South,Fisher Mills,2020-03-11,159.98,2020,3,Mar,Q1,Wed,79.99,2
+172,"Tall, Liz",Fish Meals,North,Kwaku Mason,2020-03-11,4091.4,2020,3,Mar,Q1,Wed,340.95,12
+173,"Dede, Amakye",Pasta Dishes,North,Clifford Quist,2020-03-12,6399.6,2020,3,Mar,Q1,Thu,799.95,8
+174,"Barkley, Ross",Beef Meals,North,Kwaku Mason,2020-03-12,2534.25,2020,3,Mar,Q1,Thu,168.95,15
+175,"Stuart, Jill",Vegetarian Dishes,East,Sharon Sticks,2020-03-12,2045.7,2020,3,Mar,Q1,Thu,340.95,6
+176,"Barkley, Ross",Vegetarian Dishes,North,Elton John,2020-03-13,5796.15,2020,3,Mar,Q1,Fri,340.95,17
+177,"Haveria, Luiz",Vegetarian Dishes,South,Fisher Mills,2020-03-13,681.9,2020,3,Mar,Q1,Fri,340.95,2
+178,"Barkley, Ross",Vegetarian Dishes,North,Fisher Mills,2020-03-13,3068.55,2020,3,Mar,Q1,Fri,340.95,9
+179,"Read, Tira",Pasta Dishes,North,Fisher Mills,2020-03-13,6399.6,2020,3,Mar,Q1,Fri,799.95,8
+180,"Stuart, Jill",Fish Meals,East,Clifford Quist,2020-03-14,1704.75,2020,3,Mar,Q1,Sat,340.95,5
+181,"Tall, Liz",Vegetarian Dishes,North,Clifford Quist,2020-03-14,4432.35,2020,3,Mar,Q1,Sat,340.95,13
+182,"Dede, Amakye",Pasta Dishes,North,Elton John,2020-03-14,7199.55,2020,3,Mar,Q1,Sat,799.95,9
+183,"Smith, Bob",Fish Meals,East,Fisher Mills,2020-03-14,3750.45,2020,3,Mar,Q1,Sat,340.95,11
+184,"Azpilecueta, Moses",Pasta Dishes,East,Elton John,2020-03-15,6399.6,2020,3,Mar,Q1,Sun,799.95,8
+185,"Fog, Londong",Vegetarian Dishes,West,Sharon Sticks,2020-03-15,1363.8,2020,3,Mar,Q1,Sun,340.95,4
+186,"Smith, Bob",Pasta Dishes,East,Clifford Quist,2020-03-16,8799.45,2020,3,Mar,Q1,Mon,799.95,11
+187,"Stuart, Jill",Seafood,East,Clifford Quist,2020-03-18,719.91,2020,3,Mar,Q1,Wed,79.99,9
+188,"Haveria, Luiz",Seafood,South,Sharon Sticks,2020-03-18,79.99,2020,3,Mar,Q1,Wed,79.99,1
+189,"Temple, Cheryl",Vegetarian Dishes,East,Sharon Sticks,2020-03-18,3750.45,2020,3,Mar,Q1,Wed,340.95,11
+190,"Dede, Amakye",Fish Meals,North,Kwaku Mason,2020-03-18,1363.8,2020,3,Mar,Q1,Wed,340.95,4
+191,"Milner, James",Fish Meals,South,Sharon Sticks,2020-03-18,2727.6,2020,3,Mar,Q1,Wed,340.95,8
+192,"Hines, Zach",Seafood,West,Clifford Quist,2020-03-19,399.95,2020,3,Mar,Q1,Thu,79.99,5
+193,"Tall, Liz",Seafood,North,Elton John,2020-03-19,1439.82,2020,3,Mar,Q1,Thu,79.99,18
+194,"Read, Tira",Seafood,North,Kwaku Mason,2020-03-19,719.91,2020,3,Mar,Q1,Thu,79.99,9
+195,"Temple, Cheryl",Beef Meals,East,Kwaku Mason,2020-03-20,2027.4,2020,3,Mar,Q1,Fri,168.95,12
+196,"Dede, Amakye",Fish Meals,North,Fisher Mills,2020-03-21,340.95,2020,3,Mar,Q1,Sat,340.95,1
+197,"Temple, Cheryl",Pasta Dishes,East,Fisher Mills,2020-03-21,7199.55,2020,3,Mar,Q1,Sat,799.95,9
+198,"Dede, Amakye",Seafood,North,Clifford Quist,2020-03-22,79.99,2020,3,Mar,Q1,Sun,79.99,1
+199,"Smith, Bob",Fish Meals,East,Elton John,2020-03-23,5455.2,2020,3,Mar,Q1,Mon,340.95,16
+200,"Barkley, Ross",Pasta Dishes,North,Sharon Sticks,2020-03-25,7999.5,2020,3,Mar,Q1,Wed,799.95,10
+201,"Read, Tira",Pasta Dishes,North,Kwaku Mason,2020-03-26,6399.6,2020,3,Mar,Q1,Thu,799.95,8
+202,"Stuart, Jill",Seafood,East,Elton John,2020-03-27,1599.8,2020,3,Mar,Q1,Fri,79.99,20
+203,"Barkley, Ross",Fish Meals,North,Sharon Sticks,2020-03-27,2045.7,2020,3,Mar,Q1,Fri,340.95,6
+204,"Barkley, Ross",Vegetarian Dishes,North,Elton John,2020-03-27,6137.1,2020,3,Mar,Q1,Fri,340.95,18
+205,"Haveria, Luiz",Fish Meals,South,Fisher Mills,2020-03-27,1363.8,2020,3,Mar,Q1,Fri,340.95,4
+206,"Smith, Bob",Beef Meals,East,Kwaku Mason,2020-03-27,1520.55,2020,3,Mar,Q1,Fri,168.95,9
+207,"Stuart, Jill",Vegetarian Dishes,East,Fisher Mills,2020-03-28,1363.8,2020,3,Mar,Q1,Sat,340.95,4
+208,"Dede, Amakye",Fish Meals,North,Elton John,2020-03-29,6819.0,2020,3,Mar,Q1,Sun,340.95,20
+209,"Fog, Londong",Pasta Dishes,West,Elton John,2020-03-29,5599.65,2020,3,Mar,Q1,Sun,799.95,7
+210,"Smith, Bob",Vegetarian Dishes,East,Fisher Mills,2020-03-29,2045.7,2020,3,Mar,Q1,Sun,340.95,6
+211,"Barkley, Ross",Fish Meals,North,Clifford Quist,2020-03-30,5114.25,2020,3,Mar,Q1,Mon,340.95,15
+212,"Haveria, Luiz",Beef Meals,South,Fisher Mills,2020-03-31,2365.3,2020,3,Mar,Q1,Tue,168.95,14
+213,"Dede, Amakye",Seafood,North,Elton John,2020-04-01,719.91,2020,4,Apr,Q2,Wed,79.99,9
+214,"Azpilecueta, Moses",Vegetarian Dishes,South,Sharon Sticks,2020-04-01,3409.5,2020,4,Apr,Q2,Wed,340.95,10
+215,"Azpilecueta, Moses",Fish Meals,East,Sharon Sticks,2020-04-01,4432.35,2020,4,Apr,Q2,Wed,340.95,13
+216,"Stuart, Jill",Pasta Dishes,East,Kwaku Mason,2020-04-02,5599.65,2020,4,Apr,Q2,Thu,799.95,7
+217,"Azpilecueta, Moses",Vegetarian Dishes,South,Sharon Sticks,2020-04-02,3068.55,2020,4,Apr,Q2,Thu,340.95,9
+218,"Read, Tira",Pasta Dishes,North,Elton John,2020-04-02,9599.4,2020,4,Apr,Q2,Thu,799.95,12
+219,"Azpilecueta, Moses",Vegetarian Dishes,South,Fisher Mills,2020-04-02,1363.8,2020,4,Apr,Q2,Thu,340.95,4
+220,"Milner, James",Fish Meals,South,Clifford Quist,2020-04-03,2045.7,2020,4,Apr,Q2,Fri,340.95,6
+221,"Dede, Amakye",Seafood,North,Kwaku Mason,2020-04-04,479.94,2020,4,Apr,Q2,Sat,79.99,6
+222,"Haveria, Luiz",Seafood,South,Fisher Mills,2020-04-04,159.98,2020,4,Apr,Q2,Sat,79.99,2
+223,"Milner, James",Beef Meals,South,Kwaku Mason,2020-04-04,2534.25,2020,4,Apr,Q2,Sat,168.95,15
+224,"Hines, Zach",Beef Meals,West,Clifford Quist,2020-04-05,2365.3,2020,4,Apr,Q2,Sun,168.95,14
+225,"Haveria, Luiz",Fish Meals,South,Fisher Mills,2020-04-05,1022.85,2020,4,Apr,Q2,Sun,340.95,3
+226,"Stuart, Jill",Vegetarian Dishes,East,Sharon Sticks,2020-04-06,1704.75,2020,4,Apr,Q2,Mon,340.95,5
+227,"Tall, Liz",Beef Meals,North,Sharon Sticks,2020-04-07,1520.55,2020,4,Apr,Q2,Tue,168.95,9
+228,"Temple, Cheryl",Vegetarian Dishes,East,Kwaku Mason,2020-04-08,1022.85,2020,4,Apr,Q2,Wed,340.95,3
+229,"Stuart, Jill",Fish Meals,East,Clifford Quist,2020-04-08,1363.8,2020,4,Apr,Q2,Wed,340.95,4
+230,"Hines, Zach",Vegetarian Dishes,West,Fisher Mills,2020-04-08,3409.5,2020,4,Apr,Q2,Wed,340.95,10
+231,"Dede, Amakye",Fish Meals,North,Fisher Mills,2020-04-08,3409.5,2020,4,Apr,Q2,Wed,340.95,10
+232,"Temple, Cheryl",Fish Meals,East,Elton John,2020-04-09,6137.1,2020,4,Apr,Q2,Thu,340.95,18
+233,"Smith, Bob",Beef Meals,East,Fisher Mills,2020-04-09,2196.35,2020,4,Apr,Q2,Thu,168.95,13
+234,"Dede, Amakye",Fish Meals,North,Kwaku Mason,2020-04-09,3750.45,2020,4,Apr,Q2,Thu,340.95,11
+235,"Barkley, Ross",Seafood,North,Kwaku Mason,2020-04-09,1039.87,2020,4,Apr,Q2,Thu,79.99,13
+236,"Haveria, Luiz",Fish Meals,South,Sharon Sticks,2020-04-09,2045.7,2020,4,Apr,Q2,Thu,340.95,6
+237,"Barkley, Ross",Fish Meals,North,Sharon Sticks,2020-04-09,681.9,2020,4,Apr,Q2,Thu,340.95,2
+238,"Stuart, Jill",Vegetarian Dishes,East,Kwaku Mason,2020-04-09,1363.8,2020,4,Apr,Q2,Thu,340.95,4
+239,"Temple, Cheryl",Seafood,East,Clifford Quist,2020-04-10,1039.87,2020,4,Apr,Q2,Fri,79.99,13
+240,"Azpilecueta, Moses",Fish Meals,East,Fisher Mills,2020-04-10,2045.7,2020,4,Apr,Q2,Fri,340.95,6
+241,"Stuart, Jill",Fish Meals,East,Kwaku Mason,2020-04-10,2045.7,2020,4,Apr,Q2,Fri,340.95,6
+242,"Hines, Zach",Beef Meals,West,Kwaku Mason,2020-04-11,506.85,2020,4,Apr,Q2,Sat,168.95,3
+243,"Milner, James",Fish Meals,South,Clifford Quist,2020-04-12,2386.65,2020,4,Apr,Q2,Sun,340.95,7
+244,"Tall, Liz",Beef Meals,North,Elton John,2020-04-12,1351.6,2020,4,Apr,Q2,Sun,168.95,8
+245,"Read, Tira",Fish Meals,North,Elton John,2020-04-12,5114.25,2020,4,Apr,Q2,Sun,340.95,15
+246,"Tall, Liz",Vegetarian Dishes,North,Kwaku Mason,2020-04-12,1363.8,2020,4,Apr,Q2,Sun,340.95,4
+247,"Temple, Cheryl",Beef Meals,East,Fisher Mills,2020-04-13,1689.5,2020,4,Apr,Q2,Mon,168.95,10
+248,"Haveria, Luiz",Fish Meals,South,Kwaku Mason,2020-04-13,4773.3,2020,4,Apr,Q2,Mon,340.95,14
+249,"Azpilecueta, Moses",Vegetarian Dishes,South,Sharon Sticks,2020-04-13,2727.6,2020,4,Apr,Q2,Mon,340.95,8
+250,"Dede, Amakye",Pasta Dishes,North,Kwaku Mason,2020-04-15,3199.8,2020,4,Apr,Q2,Wed,799.95,4
+251,"Stuart, Jill",Fish Meals,East,Kwaku Mason,2020-04-15,1363.8,2020,4,Apr,Q2,Wed,340.95,4
+252,"Stuart, Jill",Fish Meals,East,Fisher Mills,2020-04-15,4091.4,2020,4,Apr,Q2,Wed,340.95,12
+253,"Barkley, Ross",Fish Meals,North,Clifford Quist,2020-04-16,2045.7,2020,4,Apr,Q2,Thu,340.95,6
+254,"Haveria, Luiz",Pasta Dishes,South,Elton John,2020-04-16,5599.65,2020,4,Apr,Q2,Thu,799.95,7
+255,"Barkley, Ross",Beef Meals,North,Sharon Sticks,2020-04-16,2027.4,2020,4,Apr,Q2,Thu,168.95,12
+256,"Read, Tira",Pasta Dishes,North,Sharon Sticks,2020-04-16,7199.55,2020,4,Apr,Q2,Thu,799.95,9
+257,"Azpilecueta, Moses",Seafood,East,Elton John,2020-04-18,959.88,2020,4,Apr,Q2,Sat,79.99,12
+258,"Azpilecueta, Moses",Seafood,East,Sharon Sticks,2020-04-18,959.88,2020,4,Apr,Q2,Sat,79.99,12
+259,"Haveria, Luiz",Vegetarian Dishes,South,Kwaku Mason,2020-04-18,4091.4,2020,4,Apr,Q2,Sat,340.95,12
+260,"Dede, Amakye",Pasta Dishes,North,Kwaku Mason,2020-04-18,10399.35,2020,4,Apr,Q2,Sat,799.95,13
+261,"Barkley, Ross",Seafood,North,Kwaku Mason,2020-04-18,559.93,2020,4,Apr,Q2,Sat,79.99,7
+262,"Temple, Cheryl",Seafood,East,Fisher Mills,2020-04-19,639.92,2020,4,Apr,Q2,Sun,79.99,8
+263,"Smith, Bob",Fish Meals,East,Kwaku Mason,2020-04-20,1704.75,2020,4,Apr,Q2,Mon,340.95,5
+264,"Dede, Amakye",Pasta Dishes,North,Kwaku Mason,2020-04-22,6399.6,2020,4,Apr,Q2,Wed,799.95,8
+265,"Tall, Liz",Beef Meals,North,Clifford Quist,2020-04-22,168.95,2020,4,Apr,Q2,Wed,168.95,1
+266,"Smith, Bob",Seafood,East,Elton John,2020-04-22,559.93,2020,4,Apr,Q2,Wed,79.99,7
+267,"Barkley, Ross",Fish Meals,North,Clifford Quist,2020-04-23,681.9,2020,4,Apr,Q2,Thu,340.95,2
+268,"Dede, Amakye",Seafood,North,Elton John,2020-04-23,879.89,2020,4,Apr,Q2,Thu,79.99,11
+269,"Azpilecueta, Moses",Fish Meals,East,Fisher Mills,2020-04-23,340.95,2020,4,Apr,Q2,Thu,340.95,1
+270,"Read, Tira",Beef Meals,North,Fisher Mills,2020-04-23,2027.4,2020,4,Apr,Q2,Thu,168.95,12
+271,"Smith, Bob",Pasta Dishes,East,Sharon Sticks,2020-04-23,3999.75,2020,4,Apr,Q2,Thu,799.95,5
+272,"Haveria, Luiz",Beef Meals,South,Sharon Sticks,2020-04-24,2027.4,2020,4,Apr,Q2,Fri,168.95,12
+273,"Milner, James",Fish Meals,South,Fisher Mills,2020-04-24,681.9,2020,4,Apr,Q2,Fri,340.95,2
+274,"Dede, Amakye",Vegetarian Dishes,North,Clifford Quist,2020-04-25,2727.6,2020,4,Apr,Q2,Sat,340.95,8
+275,"Azpilecueta, Moses",Seafood,East,Elton John,2020-04-25,799.9,2020,4,Apr,Q2,Sat,79.99,10
+276,"Smith, Bob",Fish Meals,East,Fisher Mills,2020-04-25,1363.8,2020,4,Apr,Q2,Sat,340.95,4
+277,"Dede, Amakye",Seafood,North,Kwaku Mason,2020-04-25,559.93,2020,4,Apr,Q2,Sat,79.99,7
+278,"Stuart, Jill",Fish Meals,East,Sharon Sticks,2020-04-25,2386.65,2020,4,Apr,Q2,Sat,340.95,7
+279,"Milner, James",Pasta Dishes,South,Kwaku Mason,2020-04-25,11199.3,2020,4,Apr,Q2,Sat,799.95,14
+280,"Dede, Amakye",Pasta Dishes,North,Elton John,2020-04-26,12799.2,2020,4,Apr,Q2,Sun,799.95,16
+281,"Fog, Londong",Seafood,West,Kwaku Mason,2020-04-26,719.91,2020,4,Apr,Q2,Sun,79.99,9
+282,"Stuart, Jill",Pasta Dishes,East,Fisher Mills,2020-04-28,7999.5,2020,4,Apr,Q2,Tue,799.95,10
+283,"Read, Tira",Pasta Dishes,North,Sharon Sticks,2020-04-29,6399.6,2020,4,Apr,Q2,Wed,799.95,8
+284,"Fog, Londong",Pasta Dishes,West,Clifford Quist,2020-04-29,6399.6,2020,4,Apr,Q2,Wed,799.95,8
+285,"Smith, Bob",Pasta Dishes,East,Fisher Mills,2020-04-30,1599.9,2020,4,Apr,Q2,Thu,799.95,2
+286,"Read, Tira",Fish Meals,North,Fisher Mills,2020-04-30,3750.45,2020,4,Apr,Q2,Thu,340.95,11
+287,"Haveria, Luiz",Pasta Dishes,South,Elton John,2020-04-30,8799.45,2020,4,Apr,Q2,Thu,799.95,11
+288,"Dede, Amakye",Seafood,North,Kwaku Mason,2020-04-30,479.94,2020,4,Apr,Q2,Thu,79.99,6
+289,"Stuart, Jill",Vegetarian Dishes,East,Clifford Quist,2020-05-01,2727.6,2020,5,May,Q2,Fri,340.95,8
+290,"Read, Tira",Beef Meals,North,Sharon Sticks,2020-05-01,2027.4,2020,5,May,Q2,Fri,168.95,12
+291,"Fog, Londong",Pasta Dishes,West,Sharon Sticks,2020-05-01,7199.55,2020,5,May,Q2,Fri,799.95,9
+292,"Fog, Londong",Seafood,West,Fisher Mills,2020-05-02,79.99,2020,5,May,Q2,Sat,79.99,1
+293,"Azpilecueta, Moses",Fish Meals,East,Kwaku Mason,2020-05-02,1363.8,2020,5,May,Q2,Sat,340.95,4
+294,"Milner, James",Pasta Dishes,South,Elton John,2020-05-03,15999.0,2020,5,May,Q2,Sun,799.95,20
+295,"Tall, Liz",Beef Meals,North,Sharon Sticks,2020-05-03,168.95,2020,5,May,Q2,Sun,168.95,1
+296,"Milner, James",Vegetarian Dishes,South,Clifford Quist,2020-05-05,3409.5,2020,5,May,Q2,Tue,340.95,10
+297,"Azpilecueta, Moses",Vegetarian Dishes,South,Kwaku Mason,2020-05-05,340.95,2020,5,May,Q2,Tue,340.95,1
+298,"Barkley, Ross",Beef Meals,North,Clifford Quist,2020-05-06,1182.65,2020,5,May,Q2,Wed,168.95,7
+299,"Dede, Amakye",Seafood,North,Fisher Mills,2020-05-06,879.89,2020,5,May,Q2,Wed,79.99,11
+300,"Azpilecueta, Moses",Vegetarian Dishes,South,Sharon Sticks,2020-05-06,3068.55,2020,5,May,Q2,Wed,340.95,9
+301,"Fog, Londong",Seafood,West,Sharon Sticks,2020-05-06,559.93,2020,5,May,Q2,Wed,79.99,7
+302,"Haveria, Luiz",Fish Meals,South,Clifford Quist,2020-05-07,681.9,2020,5,May,Q2,Thu,340.95,2
+303,"Dede, Amakye",Beef Meals,North,Fisher Mills,2020-05-07,506.85,2020,5,May,Q2,Thu,168.95,3
+304,"Barkley, Ross",Pasta Dishes,North,Sharon Sticks,2020-05-08,4799.7,2020,5,May,Q2,Fri,799.95,6
+305,"Haveria, Luiz",Seafood,South,Clifford Quist,2020-05-10,399.95,2020,5,May,Q2,Sun,79.99,5
+306,"Stuart, Jill",Vegetarian Dishes,East,Clifford Quist,2020-05-10,3409.5,2020,5,May,Q2,Sun,340.95,10
+307,"Milner, James",Seafood,South,Elton John,2020-05-10,639.92,2020,5,May,Q2,Sun,79.99,8
+308,"Hines, Zach",Vegetarian Dishes,West,Fisher Mills,2020-05-10,681.9,2020,5,May,Q2,Sun,340.95,2
+309,"Dede, Amakye",Fish Meals,North,Fisher Mills,2020-05-10,2727.6,2020,5,May,Q2,Sun,340.95,8
+310,"Azpilecueta, Moses",Pasta Dishes,East,Fisher Mills,2020-05-11,4799.7,2020,5,May,Q2,Mon,799.95,6
+311,"Fog, Londong",Fish Meals,West,Fisher Mills,2020-05-11,5114.25,2020,5,May,Q2,Mon,340.95,15
+312,"Milner, James",Beef Meals,South,Fisher Mills,2020-05-12,2365.3,2020,5,May,Q2,Tue,168.95,14
+313,"Stuart, Jill",Seafood,East,Fisher Mills,2020-05-12,799.9,2020,5,May,Q2,Tue,79.99,10
+314,"Stuart, Jill",Fish Meals,East,Kwaku Mason,2020-05-12,1704.75,2020,5,May,Q2,Tue,340.95,5
+315,"Haveria, Luiz",Pasta Dishes,South,Clifford Quist,2020-05-13,7199.55,2020,5,May,Q2,Wed,799.95,9
+316,"Smith, Bob",Seafood,East,Fisher Mills,2020-05-13,1199.85,2020,5,May,Q2,Wed,79.99,15
+317,"Read, Tira",Vegetarian Dishes,North,Fisher Mills,2020-05-13,4091.4,2020,5,May,Q2,Wed,340.95,12
+318,"Hines, Zach",Pasta Dishes,West,Kwaku Mason,2020-05-14,7999.5,2020,5,May,Q2,Thu,799.95,10
+319,"Temple, Cheryl",Vegetarian Dishes,East,Sharon Sticks,2020-05-14,3750.45,2020,5,May,Q2,Thu,340.95,11
+320,"Haveria, Luiz",Seafood,South,Kwaku Mason,2020-05-15,239.97,2020,5,May,Q2,Fri,79.99,3
+321,"Read, Tira",Beef Meals,North,Sharon Sticks,2020-05-15,337.9,2020,5,May,Q2,Fri,168.95,2
+322,"Read, Tira",Beef Meals,North,Fisher Mills,2020-05-16,2534.25,2020,5,May,Q2,Sat,168.95,15
+323,"Barkley, Ross",Beef Meals,North,Sharon Sticks,2020-05-16,2365.3,2020,5,May,Q2,Sat,168.95,14
+324,"Barkley, Ross",Vegetarian Dishes,North,Elton John,2020-05-17,2045.7,2020,5,May,Q2,Sun,340.95,6
+325,"Haveria, Luiz",Vegetarian Dishes,South,Elton John,2020-05-17,3750.45,2020,5,May,Q2,Sun,340.95,11
+326,"Tall, Liz",Pasta Dishes,North,Elton John,2020-05-17,11199.3,2020,5,May,Q2,Sun,799.95,14
+327,"Temple, Cheryl",Seafood,East,Elton John,2020-05-18,559.93,2020,5,May,Q2,Mon,79.99,7
+328,"Smith, Bob",Vegetarian Dishes,East,Fisher Mills,2020-05-18,4091.4,2020,5,May,Q2,Mon,340.95,12
+329,"Smith, Bob",Vegetarian Dishes,East,Kwaku Mason,2020-05-18,1704.75,2020,5,May,Q2,Mon,340.95,5
+330,"Stuart, Jill",Seafood,East,Elton John,2020-05-19,1359.83,2020,5,May,Q2,Tue,79.99,17
+331,"Haveria, Luiz",Vegetarian Dishes,South,Fisher Mills,2020-05-19,2727.6,2020,5,May,Q2,Tue,340.95,8
+332,"Hines, Zach",Fish Meals,West,Elton John,2020-05-20,5114.25,2020,5,May,Q2,Wed,340.95,15
+333,"Haveria, Luiz",Beef Meals,South,Kwaku Mason,2020-05-20,1858.45,2020,5,May,Q2,Wed,168.95,11
+334,"Milner, James",Fish Meals,South,Sharon Sticks,2020-05-20,5114.25,2020,5,May,Q2,Wed,340.95,15
+335,"Tall, Liz",Pasta Dishes,North,Fisher Mills,2020-05-20,10399.35,2020,5,May,Q2,Wed,799.95,13
+336,"Azpilecueta, Moses",Vegetarian Dishes,South,Kwaku Mason,2020-05-20,2727.6,2020,5,May,Q2,Wed,340.95,8
+337,"Stuart, Jill",Beef Meals,East,Sharon Sticks,2020-05-20,2196.35,2020,5,May,Q2,Wed,168.95,13
+338,"Read, Tira",Vegetarian Dishes,North,Elton John,2020-05-21,6137.1,2020,5,May,Q2,Thu,340.95,18
+339,"Tall, Liz",Beef Meals,North,Fisher Mills,2020-05-21,1013.7,2020,5,May,Q2,Thu,168.95,6
+340,"Dede, Amakye",Fish Meals,North,Clifford Quist,2020-05-23,1022.85,2020,5,May,Q2,Sat,340.95,3
+341,"Haveria, Luiz",Fish Meals,South,Elton John,2020-05-23,2386.65,2020,5,May,Q2,Sat,340.95,7
+342,"Azpilecueta, Moses",Seafood,East,Fisher Mills,2020-05-23,159.98,2020,5,May,Q2,Sat,79.99,2
+343,"Azpilecueta, Moses",Beef Meals,East,Clifford Quist,2020-05-24,675.8,2020,5,May,Q2,Sun,168.95,4
+344,"Read, Tira",Pasta Dishes,North,Elton John,2020-05-24,5599.65,2020,5,May,Q2,Sun,799.95,7
+345,"Barkley, Ross",Beef Meals,North,Elton John,2020-05-25,1520.55,2020,5,May,Q2,Mon,168.95,9
+346,"Azpilecueta, Moses",Beef Meals,East,Clifford Quist,2020-05-26,2365.3,2020,5,May,Q2,Tue,168.95,14
+347,"Smith, Bob",Beef Meals,East,Clifford Quist,2020-05-26,2027.4,2020,5,May,Q2,Tue,168.95,12
+348,"Azpilecueta, Moses",Beef Meals,East,Kwaku Mason,2020-05-26,2196.35,2020,5,May,Q2,Tue,168.95,13
+349,"Stuart, Jill",Vegetarian Dishes,East,Sharon Sticks,2020-05-26,3409.5,2020,5,May,Q2,Tue,340.95,10
+350,"Dede, Amakye",Fish Meals,North,Fisher Mills,2020-05-27,1022.85,2020,5,May,Q2,Wed,340.95,3
+351,"Stuart, Jill",Pasta Dishes,East,Fisher Mills,2020-05-27,7999.5,2020,5,May,Q2,Wed,799.95,10
+352,"Fog, Londong",Pasta Dishes,West,Elton John,2020-05-27,15999.0,2020,5,May,Q2,Wed,799.95,20
+353,"Tall, Liz",Vegetarian Dishes,North,Fisher Mills,2020-05-27,1704.75,2020,5,May,Q2,Wed,340.95,5
+354,"Azpilecueta, Moses",Pasta Dishes,East,Kwaku Mason,2020-05-27,3199.8,2020,5,May,Q2,Wed,799.95,4
+355,"Tall, Liz",Pasta Dishes,North,Kwaku Mason,2020-05-27,1599.9,2020,5,May,Q2,Wed,799.95,2
+356,"Read, Tira",Seafood,North,Sharon Sticks,2020-05-27,159.98,2020,5,May,Q2,Wed,79.99,2
+357,"Dede, Amakye",Seafood,North,Clifford Quist,2020-05-28,79.99,2020,5,May,Q2,Thu,79.99,1
+358,"Barkley, Ross",Beef Meals,North,Elton John,2020-05-28,1013.7,2020,5,May,Q2,Thu,168.95,6
+359,"Smith, Bob",Vegetarian Dishes,East,Elton John,2020-05-28,4773.3,2020,5,May,Q2,Thu,340.95,14
+360,"Temple, Cheryl",Beef Meals,East,Kwaku Mason,2020-05-28,1520.55,2020,5,May,Q2,Thu,168.95,9
+361,"Read, Tira",Vegetarian Dishes,North,Sharon Sticks,2020-05-28,340.95,2020,5,May,Q2,Thu,340.95,1
+362,"Fog, Londong",Beef Meals,West,Elton John,2020-05-29,2872.15,2020,5,May,Q2,Fri,168.95,17
+363,"Azpilecueta, Moses",Beef Meals,East,Fisher Mills,2020-05-29,2196.35,2020,5,May,Q2,Fri,168.95,13
+364,"Read, Tira",Fish Meals,North,Sharon Sticks,2020-05-30,3068.55,2020,5,May,Q2,Sat,340.95,9
+365,"Read, Tira",Pasta Dishes,North,Clifford Quist,2020-05-31,3999.75,2020,5,May,Q2,Sun,799.95,5
+366,"Azpilecueta, Moses",Pasta Dishes,East,Elton John,2020-05-31,6399.6,2020,5,May,Q2,Sun,799.95,8
+367,"Read, Tira",Fish Meals,North,Elton John,2020-05-31,6819.0,2020,5,May,Q2,Sun,340.95,20
+368,"Haveria, Luiz",Pasta Dishes,South,Sharon Sticks,2020-05-31,9599.4,2020,5,May,Q2,Sun,799.95,12
+369,"Haveria, Luiz",Vegetarian Dishes,South,Sharon Sticks,2020-05-31,3068.55,2020,5,May,Q2,Sun,340.95,9
+370,"Dede, Amakye",Seafood,North,Sharon Sticks,2020-06-02,239.97,2020,6,Jun,Q2,Tue,79.99,3
+371,"Smith, Bob",Beef Meals,East,Elton John,2020-06-03,2365.3,2020,6,Jun,Q2,Wed,168.95,14
+372,"Azpilecueta, Moses",Beef Meals,East,Elton John,2020-06-03,2365.3,2020,6,Jun,Q2,Wed,168.95,14
+373,"Tall, Liz",Pasta Dishes,North,Fisher Mills,2020-06-03,7999.5,2020,6,Jun,Q2,Wed,799.95,10
+374,"Smith, Bob",Beef Meals,East,Fisher Mills,2020-06-03,675.8,2020,6,Jun,Q2,Wed,168.95,4
+375,"Azpilecueta, Moses",Vegetarian Dishes,South,Kwaku Mason,2020-06-04,681.9,2020,6,Jun,Q2,Thu,340.95,2
+376,"Temple, Cheryl",Seafood,East,Kwaku Mason,2020-06-04,959.88,2020,6,Jun,Q2,Thu,79.99,12
+377,"Dede, Amakye",Vegetarian Dishes,North,Clifford Quist,2020-06-06,3068.55,2020,6,Jun,Q2,Sat,340.95,9
+378,"Azpilecueta, Moses",Vegetarian Dishes,South,Clifford Quist,2020-06-06,681.9,2020,6,Jun,Q2,Sat,340.95,2
+379,"Stuart, Jill",Beef Meals,East,Elton John,2020-06-06,1013.7,2020,6,Jun,Q2,Sat,168.95,6
+380,"Read, Tira",Seafood,North,Fisher Mills,2020-06-07,479.94,2020,6,Jun,Q2,Sun,79.99,6
+381,"Stuart, Jill",Fish Meals,East,Clifford Quist,2020-06-09,2386.65,2020,6,Jun,Q2,Tue,340.95,7
+382,"Barkley, Ross",Beef Meals,North,Elton John,2020-06-10,3041.1,2020,6,Jun,Q2,Wed,168.95,18
+383,"Smith, Bob",Pasta Dishes,East,Kwaku Mason,2020-06-10,2399.85,2020,6,Jun,Q2,Wed,799.95,3
+384,"Smith, Bob",Vegetarian Dishes,East,Elton John,2020-06-11,4432.35,2020,6,Jun,Q2,Thu,340.95,13
+385,"Hines, Zach",Seafood,West,Fisher Mills,2020-06-12,1119.86,2020,6,Jun,Q2,Fri,79.99,14
+386,"Smith, Bob",Pasta Dishes,East,Fisher Mills,2020-06-12,2399.85,2020,6,Jun,Q2,Fri,799.95,3
+387,"Fog, Londong",Vegetarian Dishes,West,Elton John,2020-06-12,2727.6,2020,6,Jun,Q2,Fri,340.95,8
+388,"Dede, Amakye",Fish Meals,North,Sharon Sticks,2020-06-12,3068.55,2020,6,Jun,Q2,Fri,340.95,9
+389,"Smith, Bob",Fish Meals,East,Elton John,2020-06-13,6137.1,2020,6,Jun,Q2,Sat,340.95,18
+390,"Haveria, Luiz",Seafood,South,Sharon Sticks,2020-06-13,719.91,2020,6,Jun,Q2,Sat,79.99,9
+391,"Dede, Amakye",Pasta Dishes,North,Elton John,2020-06-13,8799.45,2020,6,Jun,Q2,Sat,799.95,11
+392,"Milner, James",Fish Meals,South,Kwaku Mason,2020-06-13,3750.45,2020,6,Jun,Q2,Sat,340.95,11
+393,"Dede, Amakye",Pasta Dishes,North,Fisher Mills,2020-06-14,7999.5,2020,6,Jun,Q2,Sun,799.95,10
+394,"Milner, James",Vegetarian Dishes,South,Clifford Quist,2020-06-15,2045.7,2020,6,Jun,Q2,Mon,340.95,6
+395,"Dede, Amakye",Pasta Dishes,North,Clifford Quist,2020-06-17,799.95,2020,6,Jun,Q2,Wed,799.95,1
+396,"Hines, Zach",Seafood,West,Sharon Sticks,2020-06-17,879.89,2020,6,Jun,Q2,Wed,79.99,11
+397,"Haveria, Luiz",Seafood,South,Sharon Sticks,2020-06-17,879.89,2020,6,Jun,Q2,Wed,79.99,11
+398,"Barkley, Ross",Beef Meals,North,Clifford Quist,2020-06-18,1013.7,2020,6,Jun,Q2,Thu,168.95,6
+399,"Temple, Cheryl",Beef Meals,East,Clifford Quist,2020-06-18,1520.55,2020,6,Jun,Q2,Thu,168.95,9
+400,"Milner, James",Vegetarian Dishes,South,Clifford Quist,2020-06-18,3409.5,2020,6,Jun,Q2,Thu,340.95,10
+401,"Stuart, Jill",Pasta Dishes,East,Sharon Sticks,2020-06-18,2399.85,2020,6,Jun,Q2,Thu,799.95,3
+402,"Stuart, Jill",Pasta Dishes,East,Elton John,2020-06-19,15199.05,2020,6,Jun,Q2,Fri,799.95,19
+403,"Azpilecueta, Moses",Fish Meals,East,Kwaku Mason,2020-06-19,4773.3,2020,6,Jun,Q2,Fri,340.95,14
+404,"Smith, Bob",Fish Meals,East,Clifford Quist,2020-06-19,1022.85,2020,6,Jun,Q2,Fri,340.95,3
+405,"Stuart, Jill",Pasta Dishes,East,Clifford Quist,2020-06-19,799.95,2020,6,Jun,Q2,Fri,799.95,1
+406,"Milner, James",Vegetarian Dishes,South,Fisher Mills,2020-06-19,340.95,2020,6,Jun,Q2,Fri,340.95,1
+407,"Azpilecueta, Moses",Pasta Dishes,East,Kwaku Mason,2020-06-21,8799.45,2020,6,Jun,Q2,Sun,799.95,11
+408,"Dede, Amakye",Pasta Dishes,North,Sharon Sticks,2020-06-21,4799.7,2020,6,Jun,Q2,Sun,799.95,6
+409,"Azpilecueta, Moses",Vegetarian Dishes,South,Clifford Quist,2020-06-21,2386.65,2020,6,Jun,Q2,Sun,340.95,7
+410,"Smith, Bob",Pasta Dishes,East,Clifford Quist,2020-06-21,9599.4,2020,6,Jun,Q2,Sun,799.95,12
+411,"Stuart, Jill",Seafood,East,Kwaku Mason,2020-06-22,239.97,2020,6,Jun,Q2,Mon,79.99,3
+412,"Azpilecueta, Moses",Pasta Dishes,East,Elton John,2020-06-24,15199.05,2020,6,Jun,Q2,Wed,799.95,19
+413,"Haveria, Luiz",Beef Meals,South,Clifford Quist,2020-06-25,844.75,2020,6,Jun,Q2,Thu,168.95,5
+414,"Smith, Bob",Pasta Dishes,East,Elton John,2020-06-25,15199.05,2020,6,Jun,Q2,Thu,799.95,19
+415,"Smith, Bob",Seafood,East,Fisher Mills,2020-06-25,799.9,2020,6,Jun,Q2,Thu,79.99,10
+416,"Temple, Cheryl",Vegetarian Dishes,East,Sharon Sticks,2020-06-25,2727.6,2020,6,Jun,Q2,Thu,340.95,8
+417,"Smith, Bob",Pasta Dishes,East,Sharon Sticks,2020-06-25,7199.55,2020,6,Jun,Q2,Thu,799.95,9
+418,"Haveria, Luiz",Pasta Dishes,South,Elton John,2020-06-25,12799.2,2020,6,Jun,Q2,Thu,799.95,16
+419,"Stuart, Jill",Pasta Dishes,East,Elton John,2020-06-25,13599.15,2020,6,Jun,Q2,Thu,799.95,17
+420,"Read, Tira",Pasta Dishes,North,Sharon Sticks,2020-06-25,6399.6,2020,6,Jun,Q2,Thu,799.95,8
+421,"Stuart, Jill",Seafood,East,Sharon Sticks,2020-06-25,239.97,2020,6,Jun,Q2,Thu,79.99,3
+422,"Smith, Bob",Fish Meals,East,Fisher Mills,2020-06-26,2045.7,2020,6,Jun,Q2,Fri,340.95,6
+423,"Read, Tira",Seafood,North,Kwaku Mason,2020-06-26,879.89,2020,6,Jun,Q2,Fri,79.99,11
+424,"Tall, Liz",Seafood,North,Fisher Mills,2020-06-26,1199.85,2020,6,Jun,Q2,Fri,79.99,15
+425,"Temple, Cheryl",Beef Meals,East,Clifford Quist,2020-06-27,1182.65,2020,6,Jun,Q2,Sat,168.95,7
+426,"Dede, Amakye",Fish Meals,North,Kwaku Mason,2020-06-27,681.9,2020,6,Jun,Q2,Sat,340.95,2
+427,"Temple, Cheryl",Fish Meals,East,Sharon Sticks,2020-06-27,5114.25,2020,6,Jun,Q2,Sat,340.95,15
+428,"Read, Tira",Beef Meals,North,Clifford Quist,2020-06-27,2196.35,2020,6,Jun,Q2,Sat,168.95,13
+429,"Read, Tira",Beef Meals,North,Fisher Mills,2020-06-27,506.85,2020,6,Jun,Q2,Sat,168.95,3
+430,"Azpilecueta, Moses",Seafood,East,Elton John,2020-06-28,959.88,2020,6,Jun,Q2,Sun,79.99,12
+431,"Hines, Zach",Pasta Dishes,West,Sharon Sticks,2020-06-28,11199.3,2020,6,Jun,Q2,Sun,799.95,14
+432,"Barkley, Ross",Pasta Dishes,North,Sharon Sticks,2020-06-28,11999.25,2020,6,Jun,Q2,Sun,799.95,15
+433,"Barkley, Ross",Vegetarian Dishes,North,Sharon Sticks,2020-06-28,1363.8,2020,6,Jun,Q2,Sun,340.95,4
+434,"Smith, Bob",Seafood,East,Clifford Quist,2020-06-28,479.94,2020,6,Jun,Q2,Sun,79.99,6
+435,"Smith, Bob",Vegetarian Dishes,East,Kwaku Mason,2020-06-28,1704.75,2020,6,Jun,Q2,Sun,340.95,5
+436,"Haveria, Luiz",Fish Meals,South,Kwaku Mason,2020-06-30,5114.25,2020,6,Jun,Q2,Tue,340.95,15
+437,"Stuart, Jill",Vegetarian Dishes,East,Kwaku Mason,2020-06-30,681.9,2020,6,Jun,Q2,Tue,340.95,2
+438,"Dede, Amakye",Seafood,North,Clifford Quist,2020-07-01,319.96,2020,7,Jul,Q3,Wed,79.99,4
+439,"Haveria, Luiz",Fish Meals,South,Elton John,2020-07-01,3068.55,2020,7,Jul,Q3,Wed,340.95,9
+440,"Read, Tira",Seafood,North,Kwaku Mason,2020-07-01,639.92,2020,7,Jul,Q3,Wed,79.99,8
+441,"Tall, Liz",Pasta Dishes,North,Elton John,2020-07-02,7999.5,2020,7,Jul,Q3,Thu,799.95,10
+442,"Stuart, Jill",Seafood,East,Clifford Quist,2020-07-03,319.96,2020,7,Jul,Q3,Fri,79.99,4
+443,"Read, Tira",Fish Meals,North,Fisher Mills,2020-07-03,4432.35,2020,7,Jul,Q3,Fri,340.95,13
+444,"Haveria, Luiz",Pasta Dishes,South,Clifford Quist,2020-07-04,8799.45,2020,7,Jul,Q3,Sat,799.95,11
+445,"Read, Tira",Vegetarian Dishes,North,Fisher Mills,2020-07-04,4773.3,2020,7,Jul,Q3,Sat,340.95,14
+446,"Haveria, Luiz",Seafood,South,Clifford Quist,2020-07-05,479.94,2020,7,Jul,Q3,Sun,79.99,6
+447,"Hines, Zach",Beef Meals,West,Fisher Mills,2020-07-05,1182.65,2020,7,Jul,Q3,Sun,168.95,7
+448,"Haveria, Luiz",Pasta Dishes,South,Fisher Mills,2020-07-05,1599.9,2020,7,Jul,Q3,Sun,799.95,2
+449,"Read, Tira",Vegetarian Dishes,North,Kwaku Mason,2020-07-05,4432.35,2020,7,Jul,Q3,Sun,340.95,13
+450,"Stuart, Jill",Beef Meals,East,Elton John,2020-07-05,1351.6,2020,7,Jul,Q3,Sun,168.95,8
+451,"Azpilecueta, Moses",Seafood,East,Kwaku Mason,2020-07-07,799.9,2020,7,Jul,Q3,Tue,79.99,10
+452,"Stuart, Jill",Vegetarian Dishes,East,Kwaku Mason,2020-07-07,2386.65,2020,7,Jul,Q3,Tue,340.95,7
+453,"Smith, Bob",Seafood,East,Sharon Sticks,2020-07-07,1199.85,2020,7,Jul,Q3,Tue,79.99,15
+454,"Milner, James",Beef Meals,South,Sharon Sticks,2020-07-07,506.85,2020,7,Jul,Q3,Tue,168.95,3
+455,"Read, Tira",Seafood,North,Clifford Quist,2020-07-08,239.97,2020,7,Jul,Q3,Wed,79.99,3
+456,"Barkley, Ross",Beef Meals,North,Elton John,2020-07-08,2872.15,2020,7,Jul,Q3,Wed,168.95,17
+457,"Dede, Amakye",Seafood,North,Fisher Mills,2020-07-08,1119.86,2020,7,Jul,Q3,Wed,79.99,14
+458,"Fog, Londong",Pasta Dishes,West,Sharon Sticks,2020-07-08,3999.75,2020,7,Jul,Q3,Wed,799.95,5
+459,"Temple, Cheryl",Pasta Dishes,East,Elton John,2020-07-09,11999.25,2020,7,Jul,Q3,Thu,799.95,15
+460,"Temple, Cheryl",Seafood,East,Kwaku Mason,2020-07-09,959.88,2020,7,Jul,Q3,Thu,79.99,12
+461,"Hines, Zach",Vegetarian Dishes,West,Elton John,2020-07-09,2045.7,2020,7,Jul,Q3,Thu,340.95,6
+462,"Milner, James",Vegetarian Dishes,South,Elton John,2020-07-10,3068.55,2020,7,Jul,Q3,Fri,340.95,9
+463,"Milner, James",Vegetarian Dishes,South,Kwaku Mason,2020-07-10,2045.7,2020,7,Jul,Q3,Fri,340.95,6
+464,"Stuart, Jill",Beef Meals,East,Sharon Sticks,2020-07-11,2365.3,2020,7,Jul,Q3,Sat,168.95,14
+465,"Haveria, Luiz",Pasta Dishes,South,Kwaku Mason,2020-07-11,5599.65,2020,7,Jul,Q3,Sat,799.95,7
+466,"Read, Tira",Beef Meals,North,Kwaku Mason,2020-07-11,675.8,2020,7,Jul,Q3,Sat,168.95,4
+467,"Smith, Bob",Vegetarian Dishes,East,Elton John,2020-07-12,3068.55,2020,7,Jul,Q3,Sun,340.95,9
+468,"Haveria, Luiz",Beef Meals,South,Elton John,2020-07-12,2196.35,2020,7,Jul,Q3,Sun,168.95,13
+469,"Smith, Bob",Pasta Dishes,East,Elton John,2020-07-13,11199.3,2020,7,Jul,Q3,Mon,799.95,14
+470,"Hines, Zach",Pasta Dishes,West,Fisher Mills,2020-07-13,2399.85,2020,7,Jul,Q3,Mon,799.95,3
+471,"Fog, Londong",Fish Meals,West,Fisher Mills,2020-07-13,4773.3,2020,7,Jul,Q3,Mon,340.95,14
+472,"Tall, Liz",Seafood,North,Kwaku Mason,2020-07-15,639.92,2020,7,Jul,Q3,Wed,79.99,8
+473,"Tall, Liz",Seafood,North,Kwaku Mason,2020-07-15,959.88,2020,7,Jul,Q3,Wed,79.99,12
+474,"Haveria, Luiz",Seafood,South,Sharon Sticks,2020-07-15,239.97,2020,7,Jul,Q3,Wed,79.99,3
+475,"Azpilecueta, Moses",Vegetarian Dishes,South,Clifford Quist,2020-07-16,2045.7,2020,7,Jul,Q3,Thu,340.95,6
+476,"Smith, Bob",Seafood,East,Clifford Quist,2020-07-16,159.98,2020,7,Jul,Q3,Thu,79.99,2
+477,"Smith, Bob",Fish Meals,East,Kwaku Mason,2020-07-16,4432.35,2020,7,Jul,Q3,Thu,340.95,13
+478,"Barkley, Ross",Seafood,North,Clifford Quist,2020-07-16,1199.85,2020,7,Jul,Q3,Thu,79.99,15
+479,"Haveria, Luiz",Beef Meals,South,Fisher Mills,2020-07-16,675.8,2020,7,Jul,Q3,Thu,168.95,4
+480,"Stuart, Jill",Vegetarian Dishes,East,Sharon Sticks,2020-07-17,681.9,2020,7,Jul,Q3,Fri,340.95,2
+481,"Smith, Bob",Seafood,East,Fisher Mills,2020-07-17,959.88,2020,7,Jul,Q3,Fri,79.99,12
+482,"Azpilecueta, Moses",Vegetarian Dishes,South,Kwaku Mason,2020-07-17,681.9,2020,7,Jul,Q3,Fri,340.95,2
+483,"Dede, Amakye",Seafood,North,Elton John,2020-07-18,639.92,2020,7,Jul,Q3,Sat,79.99,8
+484,"Milner, James",Fish Meals,South,Kwaku Mason,2020-07-18,1704.75,2020,7,Jul,Q3,Sat,340.95,5
+485,"Smith, Bob",Fish Meals,East,Sharon Sticks,2020-07-18,1022.85,2020,7,Jul,Q3,Sat,340.95,3
+486,"Fog, Londong",Vegetarian Dishes,West,Fisher Mills,2020-07-19,681.9,2020,7,Jul,Q3,Sun,340.95,2
+487,"Stuart, Jill",Seafood,East,Fisher Mills,2020-07-19,239.97,2020,7,Jul,Q3,Sun,79.99,3
+488,"Smith, Bob",Pasta Dishes,East,Clifford Quist,2020-07-20,11199.3,2020,7,Jul,Q3,Mon,799.95,14
+489,"Read, Tira",Vegetarian Dishes,North,Kwaku Mason,2020-07-20,4432.35,2020,7,Jul,Q3,Mon,340.95,13
+490,"Temple, Cheryl",Pasta Dishes,East,Clifford Quist,2020-07-23,1599.9,2020,7,Jul,Q3,Thu,799.95,2
+491,"Milner, James",Pasta Dishes,South,Fisher Mills,2020-07-23,11999.25,2020,7,Jul,Q3,Thu,799.95,15
+492,"Stuart, Jill",Vegetarian Dishes,East,Fisher Mills,2020-07-23,4432.35,2020,7,Jul,Q3,Thu,340.95,13
+493,"Fog, Londong",Seafood,West,Kwaku Mason,2020-07-23,1039.87,2020,7,Jul,Q3,Thu,79.99,13
+494,"Dede, Amakye",Beef Meals,North,Clifford Quist,2020-07-23,337.9,2020,7,Jul,Q3,Thu,168.95,2
+495,"Milner, James",Beef Meals,South,Clifford Quist,2020-07-23,337.9,2020,7,Jul,Q3,Thu,168.95,2
+496,"Haveria, Luiz",Beef Meals,South,Elton John,2020-07-24,1182.65,2020,7,Jul,Q3,Fri,168.95,7
+497,"Fog, Londong",Vegetarian Dishes,West,Fisher Mills,2020-07-24,3068.55,2020,7,Jul,Q3,Fri,340.95,9
+498,"Smith, Bob",Fish Meals,East,Sharon Sticks,2020-07-24,2386.65,2020,7,Jul,Q3,Fri,340.95,7
+499,"Dede, Amakye",Seafood,North,Sharon Sticks,2020-07-24,159.98,2020,7,Jul,Q3,Fri,79.99,2
+500,"Barkley, Ross",Fish Meals,North,Clifford Quist,2020-07-25,4773.3,2020,7,Jul,Q3,Sat,340.95,14
+501,"Tall, Liz",Vegetarian Dishes,North,Sharon Sticks,2020-07-25,2045.7,2020,7,Jul,Q3,Sat,340.95,6
+502,"Stuart, Jill",Seafood,East,Clifford Quist,2020-07-26,719.91,2020,7,Jul,Q3,Sun,79.99,9
+503,"Hines, Zach",Vegetarian Dishes,West,Elton John,2020-07-26,4091.4,2020,7,Jul,Q3,Sun,340.95,12
+504,"Stuart, Jill",Beef Meals,East,Elton John,2020-07-26,2872.15,2020,7,Jul,Q3,Sun,168.95,17
+505,"Dede, Amakye",Pasta Dishes,North,Kwaku Mason,2020-07-27,1599.9,2020,7,Jul,Q3,Mon,799.95,2
+506,"Milner, James",Pasta Dishes,South,Kwaku Mason,2020-07-28,7999.5,2020,7,Jul,Q3,Tue,799.95,10
+507,"Read, Tira",Fish Meals,North,Kwaku Mason,2020-07-28,4773.3,2020,7,Jul,Q3,Tue,340.95,14
+508,"Smith, Bob",Fish Meals,East,Clifford Quist,2020-07-29,1022.85,2020,7,Jul,Q3,Wed,340.95,3
+509,"Temple, Cheryl",Pasta Dishes,East,Sharon Sticks,2020-07-29,7199.55,2020,7,Jul,Q3,Wed,799.95,9
+510,"Milner, James",Vegetarian Dishes,South,Clifford Quist,2020-07-29,3068.55,2020,7,Jul,Q3,Wed,340.95,9
+511,"Smith, Bob",Seafood,East,Fisher Mills,2020-07-29,799.9,2020,7,Jul,Q3,Wed,79.99,10
+512,"Read, Tira",Beef Meals,North,Elton John,2020-07-30,2027.4,2020,7,Jul,Q3,Thu,168.95,12
+513,"Fog, Londong",Beef Meals,West,Fisher Mills,2020-07-30,1351.6,2020,7,Jul,Q3,Thu,168.95,8
+514,"Dede, Amakye",Fish Meals,North,Elton John,2020-07-31,4091.4,2020,7,Jul,Q3,Fri,340.95,12
+515,"Stuart, Jill",Seafood,East,Kwaku Mason,2020-07-31,799.9,2020,7,Jul,Q3,Fri,79.99,10
+516,"Tall, Liz",Seafood,North,Elton John,2020-07-31,639.92,2020,7,Jul,Q3,Fri,79.99,8
+517,"Temple, Cheryl",Fish Meals,East,Elton John,2020-08-01,3750.45,2020,8,Aug,Q3,Sat,340.95,11
+518,"Milner, James",Seafood,South,Sharon Sticks,2020-08-01,719.91,2020,8,Aug,Q3,Sat,79.99,9
+519,"Stuart, Jill",Vegetarian Dishes,East,Clifford Quist,2020-08-02,3409.5,2020,8,Aug,Q3,Sun,340.95,10
+520,"Stuart, Jill",Pasta Dishes,East,Kwaku Mason,2020-08-02,5599.65,2020,8,Aug,Q3,Sun,799.95,7
+521,"Dede, Amakye",Pasta Dishes,North,Sharon Sticks,2020-08-02,3999.75,2020,8,Aug,Q3,Sun,799.95,5
+522,"Haveria, Luiz",Vegetarian Dishes,South,Kwaku Mason,2020-08-04,2727.6,2020,8,Aug,Q3,Tue,340.95,8
+523,"Azpilecueta, Moses",Vegetarian Dishes,South,Elton John,2020-08-05,5114.25,2020,8,Aug,Q3,Wed,340.95,15
+524,"Haveria, Luiz",Beef Meals,South,Elton John,2020-08-05,3379.0,2020,8,Aug,Q3,Wed,168.95,20
+525,"Dede, Amakye",Fish Meals,North,Kwaku Mason,2020-08-05,3409.5,2020,8,Aug,Q3,Wed,340.95,10
+526,"Haveria, Luiz",Beef Meals,South,Sharon Sticks,2020-08-05,844.75,2020,8,Aug,Q3,Wed,168.95,5
+527,"Temple, Cheryl",Fish Meals,East,Elton John,2020-08-06,2386.65,2020,8,Aug,Q3,Thu,340.95,7
+528,"Fog, Londong",Fish Meals,West,Fisher Mills,2020-08-06,1363.8,2020,8,Aug,Q3,Thu,340.95,4
+529,"Smith, Bob",Beef Meals,East,Sharon Sticks,2020-08-06,2534.25,2020,8,Aug,Q3,Thu,168.95,15
+530,"Smith, Bob",Pasta Dishes,East,Clifford Quist,2020-08-07,6399.6,2020,8,Aug,Q3,Fri,799.95,8
+531,"Read, Tira",Pasta Dishes,North,Kwaku Mason,2020-08-07,3999.75,2020,8,Aug,Q3,Fri,799.95,5
+532,"Tall, Liz",Vegetarian Dishes,North,Clifford Quist,2020-08-07,3409.5,2020,8,Aug,Q3,Fri,340.95,10
+533,"Dede, Amakye",Seafood,North,Kwaku Mason,2020-08-07,239.97,2020,8,Aug,Q3,Fri,79.99,3
+534,"Milner, James",Vegetarian Dishes,South,Elton John,2020-08-08,5455.2,2020,8,Aug,Q3,Sat,340.95,16
+535,"Fog, Londong",Fish Meals,West,Clifford Quist,2020-08-09,4773.3,2020,8,Aug,Q3,Sun,340.95,14
+536,"Milner, James",Fish Meals,South,Sharon Sticks,2020-08-09,681.9,2020,8,Aug,Q3,Sun,340.95,2
+537,"Hines, Zach",Seafood,West,Clifford Quist,2020-08-09,639.92,2020,8,Aug,Q3,Sun,79.99,8
+538,"Haveria, Luiz",Fish Meals,South,Kwaku Mason,2020-08-09,1704.75,2020,8,Aug,Q3,Sun,340.95,5
+539,"Temple, Cheryl",Beef Meals,East,Kwaku Mason,2020-08-12,2196.35,2020,8,Aug,Q3,Wed,168.95,13
+540,"Barkley, Ross",Fish Meals,North,Clifford Quist,2020-08-12,4432.35,2020,8,Aug,Q3,Wed,340.95,13
+541,"Tall, Liz",Seafood,North,Clifford Quist,2020-08-12,1039.87,2020,8,Aug,Q3,Wed,79.99,13
+542,"Fog, Londong",Vegetarian Dishes,West,Clifford Quist,2020-08-12,3750.45,2020,8,Aug,Q3,Wed,340.95,11
+543,"Stuart, Jill",Pasta Dishes,East,Kwaku Mason,2020-08-12,9599.4,2020,8,Aug,Q3,Wed,799.95,12
+544,"Barkley, Ross",Seafood,North,Sharon Sticks,2020-08-12,79.99,2020,8,Aug,Q3,Wed,79.99,1
+545,"Read, Tira",Seafood,North,Fisher Mills,2020-08-13,239.97,2020,8,Aug,Q3,Thu,79.99,3
+546,"Read, Tira",Beef Meals,North,Elton John,2020-08-13,1351.6,2020,8,Aug,Q3,Thu,168.95,8
+547,"Stuart, Jill",Vegetarian Dishes,East,Sharon Sticks,2020-08-13,2386.65,2020,8,Aug,Q3,Thu,340.95,7
+548,"Smith, Bob",Fish Meals,East,Elton John,2020-08-14,6819.0,2020,8,Aug,Q3,Fri,340.95,20
+549,"Stuart, Jill",Pasta Dishes,East,Elton John,2020-08-15,12799.2,2020,8,Aug,Q3,Sat,799.95,16
+550,"Smith, Bob",Beef Meals,East,Sharon Sticks,2020-08-15,844.75,2020,8,Aug,Q3,Sat,168.95,5
+551,"Stuart, Jill",Seafood,East,Sharon Sticks,2020-08-15,639.92,2020,8,Aug,Q3,Sat,79.99,8
+552,"Azpilecueta, Moses",Pasta Dishes,East,Fisher Mills,2020-08-16,7199.55,2020,8,Aug,Q3,Sun,799.95,9
+553,"Smith, Bob",Fish Meals,East,Clifford Quist,2020-08-16,3068.55,2020,8,Aug,Q3,Sun,340.95,9
+554,"Fog, Londong",Fish Meals,West,Fisher Mills,2020-08-16,2727.6,2020,8,Aug,Q3,Sun,340.95,8
+555,"Stuart, Jill",Vegetarian Dishes,East,Kwaku Mason,2020-08-16,1022.85,2020,8,Aug,Q3,Sun,340.95,3
+556,"Smith, Bob",Fish Meals,East,Sharon Sticks,2020-08-16,5114.25,2020,8,Aug,Q3,Sun,340.95,15
+557,"Azpilecueta, Moses",Vegetarian Dishes,South,Fisher Mills,2020-08-17,5114.25,2020,8,Aug,Q3,Mon,340.95,15
+558,"Azpilecueta, Moses",Pasta Dishes,East,Clifford Quist,2020-08-19,799.95,2020,8,Aug,Q3,Wed,799.95,1
+559,"Dede, Amakye",Fish Meals,North,Clifford Quist,2020-08-19,1022.85,2020,8,Aug,Q3,Wed,340.95,3
+560,"Dede, Amakye",Fish Meals,North,Fisher Mills,2020-08-19,3409.5,2020,8,Aug,Q3,Wed,340.95,10
+561,"Read, Tira",Beef Meals,North,Fisher Mills,2020-08-19,337.9,2020,8,Aug,Q3,Wed,168.95,2
+562,"Dede, Amakye",Pasta Dishes,North,Kwaku Mason,2020-08-19,10399.35,2020,8,Aug,Q3,Wed,799.95,13
+563,"Milner, James",Seafood,South,Kwaku Mason,2020-08-19,559.93,2020,8,Aug,Q3,Wed,79.99,7
+564,"Haveria, Luiz",Fish Meals,South,Sharon Sticks,2020-08-19,340.95,2020,8,Aug,Q3,Wed,340.95,1
+565,"Milner, James",Beef Meals,South,Sharon Sticks,2020-08-20,1351.6,2020,8,Aug,Q3,Thu,168.95,8
+566,"Azpilecueta, Moses",Seafood,East,Clifford Quist,2020-08-20,1039.87,2020,8,Aug,Q3,Thu,79.99,13
+567,"Dede, Amakye",Beef Meals,North,Kwaku Mason,2020-08-20,337.9,2020,8,Aug,Q3,Thu,168.95,2
+568,"Read, Tira",Fish Meals,North,Elton John,2020-08-21,2045.7,2020,8,Aug,Q3,Fri,340.95,6
+569,"Read, Tira",Beef Meals,North,Fisher Mills,2020-08-21,168.95,2020,8,Aug,Q3,Fri,168.95,1
+570,"Dede, Amakye",Pasta Dishes,North,Fisher Mills,2020-08-22,10399.35,2020,8,Aug,Q3,Sat,799.95,13
+571,"Haveria, Luiz",Vegetarian Dishes,South,Fisher Mills,2020-08-22,340.95,2020,8,Aug,Q3,Sat,340.95,1
+572,"Azpilecueta, Moses",Seafood,East,Fisher Mills,2020-08-23,719.91,2020,8,Aug,Q3,Sun,79.99,9
+573,"Haveria, Luiz",Fish Meals,South,Kwaku Mason,2020-08-23,340.95,2020,8,Aug,Q3,Sun,340.95,1
+574,"Stuart, Jill",Pasta Dishes,East,Clifford Quist,2020-08-24,3199.8,2020,8,Aug,Q3,Mon,799.95,4
+575,"Hines, Zach",Seafood,West,Sharon Sticks,2020-08-25,639.92,2020,8,Aug,Q3,Tue,79.99,8
+576,"Stuart, Jill",Seafood,East,Elton John,2020-08-26,959.88,2020,8,Aug,Q3,Wed,79.99,12
+577,"Hines, Zach",Fish Meals,West,Fisher Mills,2020-08-26,2727.6,2020,8,Aug,Q3,Wed,340.95,8
+578,"Fog, Londong",Fish Meals,West,Kwaku Mason,2020-08-26,1704.75,2020,8,Aug,Q3,Wed,340.95,5
+579,"Tall, Liz",Pasta Dishes,North,Fisher Mills,2020-08-26,7999.5,2020,8,Aug,Q3,Wed,799.95,10
+580,"Dede, Amakye",Beef Meals,North,Sharon Sticks,2020-08-27,506.85,2020,8,Aug,Q3,Thu,168.95,3
+581,"Dede, Amakye",Fish Meals,North,Sharon Sticks,2020-08-27,5114.25,2020,8,Aug,Q3,Thu,340.95,15
+582,"Fog, Londong",Seafood,West,Sharon Sticks,2020-08-27,1199.85,2020,8,Aug,Q3,Thu,79.99,15
+583,"Haveria, Luiz",Beef Meals,South,Fisher Mills,2020-08-28,2196.35,2020,8,Aug,Q3,Fri,168.95,13
+584,"Barkley, Ross",Beef Meals,North,Sharon Sticks,2020-08-28,2027.4,2020,8,Aug,Q3,Fri,168.95,12
+585,"Haveria, Luiz",Seafood,South,Kwaku Mason,2020-08-29,399.95,2020,8,Aug,Q3,Sat,79.99,5
+586,"Haveria, Luiz",Fish Meals,South,Clifford Quist,2020-08-29,1704.75,2020,8,Aug,Q3,Sat,340.95,5
+587,"Azpilecueta, Moses",Seafood,East,Fisher Mills,2020-08-30,959.88,2020,8,Aug,Q3,Sun,79.99,12
+588,"Dede, Amakye",Vegetarian Dishes,North,Sharon Sticks,2020-08-30,2386.65,2020,8,Aug,Q3,Sun,340.95,7
+589,"Haveria, Luiz",Fish Meals,South,Kwaku Mason,2020-09-02,1704.75,2020,9,Sep,Q3,Wed,340.95,5
+590,"Barkley, Ross",Fish Meals,North,Elton John,2020-09-03,3750.45,2020,9,Sep,Q3,Thu,340.95,11
+591,"Haveria, Luiz",Seafood,South,Kwaku Mason,2020-09-03,159.98,2020,9,Sep,Q3,Thu,79.99,2
+592,"Haveria, Luiz",Seafood,South,Sharon Sticks,2020-09-03,239.97,2020,9,Sep,Q3,Thu,79.99,3
+593,"Read, Tira",Beef Meals,North,Sharon Sticks,2020-09-03,2027.4,2020,9,Sep,Q3,Thu,168.95,12
+594,"Haveria, Luiz",Fish Meals,South,Kwaku Mason,2020-09-03,3409.5,2020,9,Sep,Q3,Thu,340.95,10
+595,"Temple, Cheryl",Vegetarian Dishes,East,Sharon Sticks,2020-09-04,3068.55,2020,9,Sep,Q3,Fri,340.95,9
+596,"Haveria, Luiz",Seafood,South,Kwaku Mason,2020-09-04,559.93,2020,9,Sep,Q3,Fri,79.99,7
+597,"Fog, Londong",Seafood,West,Elton John,2020-09-05,879.89,2020,9,Sep,Q3,Sat,79.99,11
+598,"Read, Tira",Pasta Dishes,North,Clifford Quist,2020-09-05,10399.35,2020,9,Sep,Q3,Sat,799.95,13
+599,"Haveria, Luiz",Beef Meals,South,Elton John,2020-09-06,1520.55,2020,9,Sep,Q3,Sun,168.95,9
+600,"Temple, Cheryl",Vegetarian Dishes,East,Kwaku Mason,2020-09-06,340.95,2020,9,Sep,Q3,Sun,340.95,1
+601,"Hines, Zach",Beef Meals,West,Fisher Mills,2020-09-06,506.85,2020,9,Sep,Q3,Sun,168.95,3
+602,"Stuart, Jill",Vegetarian Dishes,East,Sharon Sticks,2020-09-06,2386.65,2020,9,Sep,Q3,Sun,340.95,7
+603,"Temple, Cheryl",Seafood,East,Clifford Quist,2020-09-09,1039.87,2020,9,Sep,Q3,Wed,79.99,13
+604,"Temple, Cheryl",Fish Meals,East,Elton John,2020-09-09,2386.65,2020,9,Sep,Q3,Wed,340.95,7
+605,"Smith, Bob",Seafood,East,Sharon Sticks,2020-09-09,79.99,2020,9,Sep,Q3,Wed,79.99,1
+606,"Stuart, Jill",Pasta Dishes,East,Sharon Sticks,2020-09-09,3199.8,2020,9,Sep,Q3,Wed,799.95,4
+607,"Tall, Liz",Vegetarian Dishes,North,Clifford Quist,2020-09-09,3068.55,2020,9,Sep,Q3,Wed,340.95,9
+608,"Smith, Bob",Seafood,East,Clifford Quist,2020-09-09,159.98,2020,9,Sep,Q3,Wed,79.99,2
+609,"Milner, James",Beef Meals,South,Clifford Quist,2020-09-09,168.95,2020,9,Sep,Q3,Wed,168.95,1
+610,"Stuart, Jill",Fish Meals,East,Clifford Quist,2020-09-09,4773.3,2020,9,Sep,Q3,Wed,340.95,14
+611,"Haveria, Luiz",Beef Meals,South,Fisher Mills,2020-09-09,1013.7,2020,9,Sep,Q3,Wed,168.95,6
+612,"Fog, Londong",Beef Meals,West,Fisher Mills,2020-09-09,2534.25,2020,9,Sep,Q3,Wed,168.95,15
+613,"Fog, Londong",Fish Meals,West,Sharon Sticks,2020-09-09,2727.6,2020,9,Sep,Q3,Wed,340.95,8
+614,"Barkley, Ross",Pasta Dishes,North,Clifford Quist,2020-09-10,11199.3,2020,9,Sep,Q3,Thu,799.95,14
+615,"Milner, James",Pasta Dishes,South,Kwaku Mason,2020-09-10,799.95,2020,9,Sep,Q3,Thu,799.95,1
+616,"Smith, Bob",Vegetarian Dishes,East,Clifford Quist,2020-09-12,1022.85,2020,9,Sep,Q3,Sat,340.95,3
+617,"Fog, Londong",Beef Meals,West,Sharon Sticks,2020-09-12,675.8,2020,9,Sep,Q3,Sat,168.95,4
+618,"Stuart, Jill",Fish Meals,East,Sharon Sticks,2020-09-12,3409.5,2020,9,Sep,Q3,Sat,340.95,10
+619,"Dede, Amakye",Fish Meals,North,Clifford Quist,2020-09-14,1704.75,2020,9,Sep,Q3,Mon,340.95,5
+620,"Barkley, Ross",Fish Meals,North,Clifford Quist,2020-09-14,2727.6,2020,9,Sep,Q3,Mon,340.95,8
+621,"Fog, Londong",Pasta Dishes,West,Elton John,2020-09-14,10399.35,2020,9,Sep,Q3,Mon,799.95,13
+622,"Read, Tira",Seafood,North,Elton John,2020-09-14,1039.87,2020,9,Sep,Q3,Mon,79.99,13
+623,"Temple, Cheryl",Pasta Dishes,East,Kwaku Mason,2020-09-14,7999.5,2020,9,Sep,Q3,Mon,799.95,10
+624,"Haveria, Luiz",Seafood,South,Clifford Quist,2020-09-15,559.93,2020,9,Sep,Q3,Tue,79.99,7
+625,"Hines, Zach",Fish Meals,West,Sharon Sticks,2020-09-15,4432.35,2020,9,Sep,Q3,Tue,340.95,13
+626,"Tall, Liz",Seafood,North,Sharon Sticks,2020-09-15,1199.85,2020,9,Sep,Q3,Tue,79.99,15
+627,"Smith, Bob",Vegetarian Dishes,East,Clifford Quist,2020-09-17,2727.6,2020,9,Sep,Q3,Thu,340.95,8
+628,"Hines, Zach",Fish Meals,West,Fisher Mills,2020-09-17,3068.55,2020,9,Sep,Q3,Thu,340.95,9
+629,"Dede, Amakye",Pasta Dishes,North,Kwaku Mason,2020-09-17,6399.6,2020,9,Sep,Q3,Thu,799.95,8
+630,"Read, Tira",Pasta Dishes,North,Kwaku Mason,2020-09-17,7999.5,2020,9,Sep,Q3,Thu,799.95,10
+631,"Fog, Londong",Seafood,West,Kwaku Mason,2020-09-17,79.99,2020,9,Sep,Q3,Thu,79.99,1
+632,"Stuart, Jill",Beef Meals,East,Elton John,2020-09-18,3379.0,2020,9,Sep,Q3,Fri,168.95,20
+633,"Stuart, Jill",Fish Meals,East,Kwaku Mason,2020-09-18,4432.35,2020,9,Sep,Q3,Fri,340.95,13
+634,"Azpilecueta, Moses",Pasta Dishes,East,Sharon Sticks,2020-09-18,7199.55,2020,9,Sep,Q3,Fri,799.95,9
+635,"Dede, Amakye",Pasta Dishes,North,Kwaku Mason,2020-09-19,10399.35,2020,9,Sep,Q3,Sat,799.95,13
+636,"Milner, James",Fish Meals,South,Fisher Mills,2020-09-20,5114.25,2020,9,Sep,Q3,Sun,340.95,15
+637,"Temple, Cheryl",Pasta Dishes,East,Kwaku Mason,2020-09-20,8799.45,2020,9,Sep,Q3,Sun,799.95,11
+638,"Read, Tira",Seafood,North,Kwaku Mason,2020-09-20,1119.86,2020,9,Sep,Q3,Sun,79.99,14
+639,"Read, Tira",Pasta Dishes,North,Clifford Quist,2020-09-21,7999.5,2020,9,Sep,Q3,Mon,799.95,10
+640,"Fog, Londong",Vegetarian Dishes,West,Sharon Sticks,2020-09-21,4091.4,2020,9,Sep,Q3,Mon,340.95,12
+641,"Dede, Amakye",Fish Meals,North,Clifford Quist,2020-09-23,2727.6,2020,9,Sep,Q3,Wed,340.95,8
+642,"Milner, James",Beef Meals,South,Elton John,2020-09-23,3379.0,2020,9,Sep,Q3,Wed,168.95,20
+643,"Milner, James",Fish Meals,South,Fisher Mills,2020-09-23,2045.7,2020,9,Sep,Q3,Wed,340.95,6
+644,"Dede, Amakye",Fish Meals,North,Sharon Sticks,2020-09-23,2045.7,2020,9,Sep,Q3,Wed,340.95,6
+645,"Barkley, Ross",Beef Meals,North,Sharon Sticks,2020-09-23,1013.7,2020,9,Sep,Q3,Wed,168.95,6
+646,"Fog, Londong",Seafood,West,Kwaku Mason,2020-09-24,959.88,2020,9,Sep,Q3,Thu,79.99,12
+647,"Read, Tira",Pasta Dishes,North,Sharon Sticks,2020-09-24,3199.8,2020,9,Sep,Q3,Thu,799.95,4
+648,"Fog, Londong",Pasta Dishes,West,Elton John,2020-09-24,15199.05,2020,9,Sep,Q3,Thu,799.95,19
+649,"Stuart, Jill",Fish Meals,East,Sharon Sticks,2020-09-24,3409.5,2020,9,Sep,Q3,Thu,340.95,10
+650,"Stuart, Jill",Beef Meals,East,Clifford Quist,2020-09-25,1013.7,2020,9,Sep,Q3,Fri,168.95,6
+651,"Haveria, Luiz",Seafood,South,Fisher Mills,2020-09-26,239.97,2020,9,Sep,Q3,Sat,79.99,3
+652,"Haveria, Luiz",Seafood,South,Sharon Sticks,2020-09-26,559.93,2020,9,Sep,Q3,Sat,79.99,7
+653,"Milner, James",Fish Meals,South,Clifford Quist,2020-09-27,340.95,2020,9,Sep,Q3,Sun,340.95,1
+654,"Fog, Londong",Beef Meals,West,Sharon Sticks,2020-09-28,675.8,2020,9,Sep,Q3,Mon,168.95,4
+655,"Haveria, Luiz",Fish Meals,South,Clifford Quist,2020-09-29,4432.35,2020,9,Sep,Q3,Tue,340.95,13
+656,"Hines, Zach",Beef Meals,West,Fisher Mills,2020-09-29,1689.5,2020,9,Sep,Q3,Tue,168.95,10
+657,"Haveria, Luiz",Pasta Dishes,South,Elton John,2020-09-30,4799.7,2020,9,Sep,Q3,Wed,799.95,6
+658,"Dede, Amakye",Fish Meals,North,Sharon Sticks,2020-09-30,340.95,2020,9,Sep,Q3,Wed,340.95,1
+659,"Barkley, Ross",Pasta Dishes,North,Kwaku Mason,2020-09-30,11999.25,2020,9,Sep,Q3,Wed,799.95,15
+660,"Read, Tira",Vegetarian Dishes,North,Kwaku Mason,2020-09-30,1022.85,2020,9,Sep,Q3,Wed,340.95,3
+661,"Barkley, Ross",Beef Meals,North,Sharon Sticks,2020-09-30,1689.5,2020,9,Sep,Q3,Wed,168.95,10
+662,"Haveria, Luiz",Vegetarian Dishes,South,Sharon Sticks,2020-10-01,4091.4,2020,10,Oct,Q4,Thu,340.95,12
+663,"Tall, Liz",Pasta Dishes,North,Fisher Mills,2020-10-01,8799.45,2020,10,Oct,Q4,Thu,799.95,11
+664,"Milner, James",Pasta Dishes,South,Kwaku Mason,2020-10-01,3199.8,2020,10,Oct,Q4,Thu,799.95,4
+665,"Barkley, Ross",Seafood,North,Sharon Sticks,2020-10-01,879.89,2020,10,Oct,Q4,Thu,79.99,11
+666,"Read, Tira",Beef Meals,North,Kwaku Mason,2020-10-02,168.95,2020,10,Oct,Q4,Fri,168.95,1
+667,"Milner, James",Fish Meals,South,Kwaku Mason,2020-10-02,3068.55,2020,10,Oct,Q4,Fri,340.95,9
+668,"Temple, Cheryl",Fish Meals,East,Elton John,2020-10-03,6478.05,2020,10,Oct,Q4,Sat,340.95,19
+669,"Read, Tira",Fish Meals,North,Elton John,2020-10-03,2045.7,2020,10,Oct,Q4,Sat,340.95,6
+670,"Stuart, Jill",Seafood,East,Elton John,2020-10-03,1599.8,2020,10,Oct,Q4,Sat,79.99,20
+671,"Azpilecueta, Moses",Pasta Dishes,East,Clifford Quist,2020-10-03,7199.55,2020,10,Oct,Q4,Sat,799.95,9
+672,"Barkley, Ross",Seafood,North,Elton John,2020-10-03,1519.81,2020,10,Oct,Q4,Sat,79.99,19
+673,"Fog, Londong",Beef Meals,West,Kwaku Mason,2020-10-04,1013.7,2020,10,Oct,Q4,Sun,168.95,6
+674,"Dede, Amakye",Pasta Dishes,North,Elton John,2020-10-06,11199.3,2020,10,Oct,Q4,Tue,799.95,14
+675,"Tall, Liz",Beef Meals,North,Elton John,2020-10-07,3041.1,2020,10,Oct,Q4,Wed,168.95,18
+676,"Dede, Amakye",Beef Meals,North,Clifford Quist,2020-10-07,168.95,2020,10,Oct,Q4,Wed,168.95,1
+677,"Read, Tira",Beef Meals,North,Clifford Quist,2020-10-07,168.95,2020,10,Oct,Q4,Wed,168.95,1
+678,"Azpilecueta, Moses",Fish Meals,East,Elton John,2020-10-07,4091.4,2020,10,Oct,Q4,Wed,340.95,12
+679,"Barkley, Ross",Seafood,North,Fisher Mills,2020-10-07,1199.85,2020,10,Oct,Q4,Wed,79.99,15
+680,"Smith, Bob",Seafood,East,Clifford Quist,2020-10-08,319.96,2020,10,Oct,Q4,Thu,79.99,4
+681,"Milner, James",Fish Meals,South,Fisher Mills,2020-10-08,340.95,2020,10,Oct,Q4,Thu,340.95,1
+682,"Temple, Cheryl",Vegetarian Dishes,East,Kwaku Mason,2020-10-08,5114.25,2020,10,Oct,Q4,Thu,340.95,15
+683,"Stuart, Jill",Beef Meals,East,Kwaku Mason,2020-10-08,675.8,2020,10,Oct,Q4,Thu,168.95,4
+684,"Temple, Cheryl",Fish Meals,East,Sharon Sticks,2020-10-08,2045.7,2020,10,Oct,Q4,Thu,340.95,6
+685,"Fog, Londong",Vegetarian Dishes,West,Sharon Sticks,2020-10-08,2386.65,2020,10,Oct,Q4,Thu,340.95,7
+686,"Milner, James",Beef Meals,South,Elton John,2020-10-08,1013.7,2020,10,Oct,Q4,Thu,168.95,6
+687,"Hines, Zach",Pasta Dishes,West,Fisher Mills,2020-10-08,11999.25,2020,10,Oct,Q4,Thu,799.95,15
+688,"Hines, Zach",Beef Meals,West,Sharon Sticks,2020-10-08,2365.3,2020,10,Oct,Q4,Thu,168.95,14
+689,"Hines, Zach",Fish Meals,West,Sharon Sticks,2020-10-08,340.95,2020,10,Oct,Q4,Thu,340.95,1
+690,"Haveria, Luiz",Beef Meals,South,Sharon Sticks,2020-10-09,2027.4,2020,10,Oct,Q4,Fri,168.95,12
+691,"Stuart, Jill",Beef Meals,East,Elton John,2020-10-10,1351.6,2020,10,Oct,Q4,Sat,168.95,8
+692,"Read, Tira",Vegetarian Dishes,North,Sharon Sticks,2020-10-11,4091.4,2020,10,Oct,Q4,Sun,340.95,12
+693,"Haveria, Luiz",Beef Meals,South,Clifford Quist,2020-10-11,1689.5,2020,10,Oct,Q4,Sun,168.95,10
+694,"Haveria, Luiz",Vegetarian Dishes,South,Clifford Quist,2020-10-13,1363.8,2020,10,Oct,Q4,Tue,340.95,4
+695,"Tall, Liz",Fish Meals,North,Sharon Sticks,2020-10-13,340.95,2020,10,Oct,Q4,Tue,340.95,1
+696,"Read, Tira",Seafood,North,Clifford Quist,2020-10-14,79.99,2020,10,Oct,Q4,Wed,79.99,1
+697,"Stuart, Jill",Pasta Dishes,East,Fisher Mills,2020-10-14,2399.85,2020,10,Oct,Q4,Wed,799.95,3
+698,"Tall, Liz",Fish Meals,North,Elton John,2020-10-15,4432.35,2020,10,Oct,Q4,Thu,340.95,13
+699,"Smith, Bob",Seafood,East,Fisher Mills,2020-10-15,159.98,2020,10,Oct,Q4,Thu,79.99,2
+700,"Fog, Londong",Seafood,West,Clifford Quist,2020-10-16,319.96,2020,10,Oct,Q4,Fri,79.99,4
+701,"Azpilecueta, Moses",Seafood,East,Kwaku Mason,2020-10-16,79.99,2020,10,Oct,Q4,Fri,79.99,1
+702,"Azpilecueta, Moses",Fish Meals,East,Kwaku Mason,2020-10-16,1022.85,2020,10,Oct,Q4,Fri,340.95,3
+703,"Read, Tira",Vegetarian Dishes,North,Fisher Mills,2020-10-18,2727.6,2020,10,Oct,Q4,Sun,340.95,8
+704,"Azpilecueta, Moses",Pasta Dishes,East,Elton John,2020-10-20,8799.45,2020,10,Oct,Q4,Tue,799.95,11
+705,"Haveria, Luiz",Beef Meals,South,Clifford Quist,2020-10-21,1182.65,2020,10,Oct,Q4,Wed,168.95,7
+706,"Smith, Bob",Vegetarian Dishes,East,Clifford Quist,2020-10-22,2045.7,2020,10,Oct,Q4,Thu,340.95,6
+707,"Smith, Bob",Fish Meals,East,Clifford Quist,2020-10-22,2386.65,2020,10,Oct,Q4,Thu,340.95,7
+708,"Fog, Londong",Pasta Dishes,West,Clifford Quist,2020-10-22,10399.35,2020,10,Oct,Q4,Thu,799.95,13
+709,"Hines, Zach",Pasta Dishes,West,Fisher Mills,2020-10-22,3999.75,2020,10,Oct,Q4,Thu,799.95,5
+710,"Smith, Bob",Beef Meals,East,Kwaku Mason,2020-10-22,337.9,2020,10,Oct,Q4,Thu,168.95,2
+711,"Smith, Bob",Fish Meals,East,Sharon Sticks,2020-10-22,681.9,2020,10,Oct,Q4,Thu,340.95,2
+712,"Dede, Amakye",Seafood,North,Sharon Sticks,2020-10-23,959.88,2020,10,Oct,Q4,Fri,79.99,12
+713,"Hines, Zach",Fish Meals,West,Clifford Quist,2020-10-24,2045.7,2020,10,Oct,Q4,Sat,340.95,6
+714,"Hines, Zach",Vegetarian Dishes,West,Kwaku Mason,2020-10-24,340.95,2020,10,Oct,Q4,Sat,340.95,1
+715,"Barkley, Ross",Seafood,North,Clifford Quist,2020-10-25,959.88,2020,10,Oct,Q4,Sun,79.99,12
+716,"Read, Tira",Pasta Dishes,North,Clifford Quist,2020-10-25,1599.9,2020,10,Oct,Q4,Sun,799.95,2
+717,"Hines, Zach",Vegetarian Dishes,West,Fisher Mills,2020-10-25,1704.75,2020,10,Oct,Q4,Sun,340.95,5
+718,"Hines, Zach",Fish Meals,West,Kwaku Mason,2020-10-25,2727.6,2020,10,Oct,Q4,Sun,340.95,8
+719,"Milner, James",Fish Meals,South,Elton John,2020-10-25,6137.1,2020,10,Oct,Q4,Sun,340.95,18
+720,"Haveria, Luiz",Beef Meals,South,Kwaku Mason,2020-10-25,168.95,2020,10,Oct,Q4,Sun,168.95,1
+721,"Read, Tira",Fish Meals,North,Clifford Quist,2020-10-26,1363.8,2020,10,Oct,Q4,Mon,340.95,4
+722,"Stuart, Jill",Fish Meals,East,Elton John,2020-10-27,5455.2,2020,10,Oct,Q4,Tue,340.95,16
+723,"Smith, Bob",Vegetarian Dishes,East,Kwaku Mason,2020-10-28,681.9,2020,10,Oct,Q4,Wed,340.95,2
+724,"Azpilecueta, Moses",Vegetarian Dishes,South,Sharon Sticks,2020-10-28,1704.75,2020,10,Oct,Q4,Wed,340.95,5
+725,"Hines, Zach",Beef Meals,West,Elton John,2020-10-28,3041.1,2020,10,Oct,Q4,Wed,168.95,18
+726,"Milner, James",Seafood,South,Fisher Mills,2020-10-28,639.92,2020,10,Oct,Q4,Wed,79.99,8
+727,"Hines, Zach",Pasta Dishes,West,Kwaku Mason,2020-10-28,10399.35,2020,10,Oct,Q4,Wed,799.95,13
+728,"Stuart, Jill",Pasta Dishes,East,Kwaku Mason,2020-10-28,3999.75,2020,10,Oct,Q4,Wed,799.95,5
+729,"Haveria, Luiz",Beef Meals,South,Fisher Mills,2020-10-29,2027.4,2020,10,Oct,Q4,Thu,168.95,12
+730,"Stuart, Jill",Beef Meals,East,Fisher Mills,2020-10-29,2534.25,2020,10,Oct,Q4,Thu,168.95,15
+731,"Read, Tira",Pasta Dishes,North,Clifford Quist,2020-10-30,7199.55,2020,10,Oct,Q4,Fri,799.95,9
+732,"Temple, Cheryl",Vegetarian Dishes,East,Sharon Sticks,2020-10-30,1704.75,2020,10,Oct,Q4,Fri,340.95,5
+733,"Smith, Bob",Pasta Dishes,East,Clifford Quist,2020-10-31,3199.8,2020,10,Oct,Q4,Sat,799.95,4
+734,"Fog, Londong",Fish Meals,West,Sharon Sticks,2020-10-31,5114.25,2020,10,Oct,Q4,Sat,340.95,15
+735,"Read, Tira",Beef Meals,North,Clifford Quist,2020-10-31,337.9,2020,10,Oct,Q4,Sat,168.95,2
+736,"Barkley, Ross",Pasta Dishes,North,Clifford Quist,2020-11-01,7999.5,2020,11,Nov,Q4,Sun,799.95,10
+737,"Azpilecueta, Moses",Beef Meals,East,Kwaku Mason,2020-11-01,2196.35,2020,11,Nov,Q4,Sun,168.95,13
+738,"Dede, Amakye",Fish Meals,North,Kwaku Mason,2020-11-02,681.9,2020,11,Nov,Q4,Mon,340.95,2
+739,"Read, Tira",Pasta Dishes,North,Elton John,2020-11-03,6399.6,2020,11,Nov,Q4,Tue,799.95,8
+740,"Azpilecueta, Moses",Beef Meals,East,Elton John,2020-11-04,1858.45,2020,11,Nov,Q4,Wed,168.95,11
+741,"Azpilecueta, Moses",Beef Meals,East,Kwaku Mason,2020-11-04,337.9,2020,11,Nov,Q4,Wed,168.95,2
+742,"Tall, Liz",Pasta Dishes,North,Clifford Quist,2020-11-04,5599.65,2020,11,Nov,Q4,Wed,799.95,7
+743,"Hines, Zach",Vegetarian Dishes,West,Kwaku Mason,2020-11-04,3750.45,2020,11,Nov,Q4,Wed,340.95,11
+744,"Barkley, Ross",Fish Meals,North,Sharon Sticks,2020-11-04,3750.45,2020,11,Nov,Q4,Wed,340.95,11
+745,"Hines, Zach",Pasta Dishes,West,Sharon Sticks,2020-11-05,5599.65,2020,11,Nov,Q4,Thu,799.95,7
+746,"Dede, Amakye",Vegetarian Dishes,North,Sharon Sticks,2020-11-05,2045.7,2020,11,Nov,Q4,Thu,340.95,6
+747,"Tall, Liz",Pasta Dishes,North,Clifford Quist,2020-11-05,10399.35,2020,11,Nov,Q4,Thu,799.95,13
+748,"Read, Tira",Seafood,North,Clifford Quist,2020-11-05,79.99,2020,11,Nov,Q4,Thu,79.99,1
+749,"Haveria, Luiz",Fish Meals,South,Kwaku Mason,2020-11-05,2727.6,2020,11,Nov,Q4,Thu,340.95,8
+750,"Stuart, Jill",Pasta Dishes,East,Clifford Quist,2020-11-06,1599.9,2020,11,Nov,Q4,Fri,799.95,2
+751,"Hines, Zach",Vegetarian Dishes,West,Elton John,2020-11-06,5796.15,2020,11,Nov,Q4,Fri,340.95,17
+752,"Stuart, Jill",Beef Meals,East,Fisher Mills,2020-11-06,1182.65,2020,11,Nov,Q4,Fri,168.95,7
+753,"Hines, Zach",Vegetarian Dishes,West,Fisher Mills,2020-11-07,2045.7,2020,11,Nov,Q4,Sat,340.95,6
+754,"Haveria, Luiz",Seafood,South,Elton John,2020-11-08,719.91,2020,11,Nov,Q4,Sun,79.99,9
+755,"Haveria, Luiz",Beef Meals,South,Kwaku Mason,2020-11-08,1858.45,2020,11,Nov,Q4,Sun,168.95,11
+756,"Stuart, Jill",Beef Meals,East,Elton John,2020-11-08,1520.55,2020,11,Nov,Q4,Sun,168.95,9
+757,"Tall, Liz",Beef Meals,North,Sharon Sticks,2020-11-08,1520.55,2020,11,Nov,Q4,Sun,168.95,9
+758,"Hines, Zach",Vegetarian Dishes,West,Fisher Mills,2020-11-11,3409.5,2020,11,Nov,Q4,Wed,340.95,10
+759,"Fog, Londong",Seafood,West,Fisher Mills,2020-11-11,79.99,2020,11,Nov,Q4,Wed,79.99,1
+760,"Azpilecueta, Moses",Beef Meals,East,Kwaku Mason,2020-11-11,2196.35,2020,11,Nov,Q4,Wed,168.95,13
+761,"Dede, Amakye",Seafood,North,Clifford Quist,2020-11-12,1039.87,2020,11,Nov,Q4,Thu,79.99,13
+762,"Hines, Zach",Vegetarian Dishes,West,Elton John,2020-11-12,5455.2,2020,11,Nov,Q4,Thu,340.95,16
+763,"Barkley, Ross",Beef Meals,North,Elton John,2020-11-12,1858.45,2020,11,Nov,Q4,Thu,168.95,11
+764,"Temple, Cheryl",Seafood,East,Elton John,2020-11-12,799.9,2020,11,Nov,Q4,Thu,79.99,10
+765,"Barkley, Ross",Beef Meals,North,Fisher Mills,2020-11-12,168.95,2020,11,Nov,Q4,Thu,168.95,1
+766,"Haveria, Luiz",Fish Meals,South,Kwaku Mason,2020-11-12,681.9,2020,11,Nov,Q4,Thu,340.95,2
+767,"Stuart, Jill",Vegetarian Dishes,East,Sharon Sticks,2020-11-12,1363.8,2020,11,Nov,Q4,Thu,340.95,4
+768,"Haveria, Luiz",Pasta Dishes,South,Fisher Mills,2020-11-12,799.95,2020,11,Nov,Q4,Thu,799.95,1
+769,"Fog, Londong",Pasta Dishes,West,Clifford Quist,2020-11-13,5599.65,2020,11,Nov,Q4,Fri,799.95,7
+770,"Fog, Londong",Fish Meals,West,Clifford Quist,2020-11-14,3409.5,2020,11,Nov,Q4,Sat,340.95,10
+771,"Stuart, Jill",Beef Meals,East,Fisher Mills,2020-11-14,1013.7,2020,11,Nov,Q4,Sat,168.95,6
+772,"Azpilecueta, Moses",Pasta Dishes,East,Kwaku Mason,2020-11-15,2399.85,2020,11,Nov,Q4,Sun,799.95,3
+773,"Haveria, Luiz",Fish Meals,South,Clifford Quist,2020-11-15,681.9,2020,11,Nov,Q4,Sun,340.95,2
+774,"Fog, Londong",Vegetarian Dishes,West,Fisher Mills,2020-11-15,4432.35,2020,11,Nov,Q4,Sun,340.95,13
+775,"Smith, Bob",Beef Meals,East,Elton John,2020-11-16,2534.25,2020,11,Nov,Q4,Mon,168.95,15
+776,"Haveria, Luiz",Fish Meals,South,Sharon Sticks,2020-11-18,1022.85,2020,11,Nov,Q4,Wed,340.95,3
+777,"Fog, Londong",Beef Meals,West,Sharon Sticks,2020-11-18,1351.6,2020,11,Nov,Q4,Wed,168.95,8
+778,"Azpilecueta, Moses",Seafood,East,Clifford Quist,2020-11-19,639.92,2020,11,Nov,Q4,Thu,79.99,8
+779,"Tall, Liz",Seafood,North,Elton John,2020-11-19,1039.87,2020,11,Nov,Q4,Thu,79.99,13
+780,"Haveria, Luiz",Vegetarian Dishes,South,Kwaku Mason,2020-11-19,3068.55,2020,11,Nov,Q4,Thu,340.95,9
+781,"Smith, Bob",Beef Meals,East,Kwaku Mason,2020-11-19,844.75,2020,11,Nov,Q4,Thu,168.95,5
+782,"Read, Tira",Vegetarian Dishes,North,Kwaku Mason,2020-11-19,3409.5,2020,11,Nov,Q4,Thu,340.95,10
+783,"Barkley, Ross",Seafood,North,Sharon Sticks,2020-11-19,799.9,2020,11,Nov,Q4,Thu,79.99,10
+784,"Read, Tira",Fish Meals,North,Sharon Sticks,2020-11-19,1022.85,2020,11,Nov,Q4,Thu,340.95,3
+785,"Tall, Liz",Pasta Dishes,North,Elton John,2020-11-19,15199.05,2020,11,Nov,Q4,Thu,799.95,19
+786,"Read, Tira",Seafood,North,Fisher Mills,2020-11-19,959.88,2020,11,Nov,Q4,Thu,79.99,12
+787,"Fog, Londong",Pasta Dishes,West,Sharon Sticks,2020-11-19,2399.85,2020,11,Nov,Q4,Thu,799.95,3
+788,"Stuart, Jill",Beef Meals,East,Clifford Quist,2020-11-20,675.8,2020,11,Nov,Q4,Fri,168.95,4
+789,"Haveria, Luiz",Pasta Dishes,South,Fisher Mills,2020-11-20,3999.75,2020,11,Nov,Q4,Fri,799.95,5
+790,"Temple, Cheryl",Fish Meals,East,Kwaku Mason,2020-11-20,2386.65,2020,11,Nov,Q4,Fri,340.95,7
+791,"Tall, Liz",Beef Meals,North,Kwaku Mason,2020-11-20,506.85,2020,11,Nov,Q4,Fri,168.95,3
+792,"Hines, Zach",Beef Meals,West,Sharon Sticks,2020-11-21,506.85,2020,11,Nov,Q4,Sat,168.95,3
+793,"Stuart, Jill",Vegetarian Dishes,East,Elton John,2020-11-22,2727.6,2020,11,Nov,Q4,Sun,340.95,8
+794,"Temple, Cheryl",Seafood,East,Kwaku Mason,2020-11-22,879.89,2020,11,Nov,Q4,Sun,79.99,11
+795,"Dede, Amakye",Vegetarian Dishes,North,Sharon Sticks,2020-11-22,5114.25,2020,11,Nov,Q4,Sun,340.95,15
+796,"Temple, Cheryl",Beef Meals,East,Sharon Sticks,2020-11-22,506.85,2020,11,Nov,Q4,Sun,168.95,3
+797,"Stuart, Jill",Fish Meals,East,Sharon Sticks,2020-11-22,2727.6,2020,11,Nov,Q4,Sun,340.95,8
+798,"Azpilecueta, Moses",Vegetarian Dishes,South,Kwaku Mason,2020-11-22,2386.65,2020,11,Nov,Q4,Sun,340.95,7
+799,"Barkley, Ross",Fish Meals,North,Elton John,2020-11-23,4773.3,2020,11,Nov,Q4,Mon,340.95,14
+800,"Temple, Cheryl",Fish Meals,East,Elton John,2020-11-23,6478.05,2020,11,Nov,Q4,Mon,340.95,19
+801,"Temple, Cheryl",Seafood,East,Fisher Mills,2020-11-23,319.96,2020,11,Nov,Q4,Mon,79.99,4
+802,"Barkley, Ross",Fish Meals,North,Sharon Sticks,2020-11-23,5114.25,2020,11,Nov,Q4,Mon,340.95,15
+803,"Stuart, Jill",Pasta Dishes,East,Clifford Quist,2020-11-24,7999.5,2020,11,Nov,Q4,Tue,799.95,10
+804,"Barkley, Ross",Pasta Dishes,North,Kwaku Mason,2020-11-24,799.95,2020,11,Nov,Q4,Tue,799.95,1
+805,"Read, Tira",Fish Meals,North,Kwaku Mason,2020-11-24,2727.6,2020,11,Nov,Q4,Tue,340.95,8
+806,"Temple, Cheryl",Pasta Dishes,East,Elton John,2020-11-25,11199.3,2020,11,Nov,Q4,Wed,799.95,14
+807,"Stuart, Jill",Fish Meals,East,Elton John,2020-11-25,2727.6,2020,11,Nov,Q4,Wed,340.95,8
+808,"Milner, James",Pasta Dishes,South,Sharon Sticks,2020-11-25,1599.9,2020,11,Nov,Q4,Wed,799.95,2
+809,"Stuart, Jill",Pasta Dishes,East,Fisher Mills,2020-11-25,7999.5,2020,11,Nov,Q4,Wed,799.95,10
+810,"Hines, Zach",Vegetarian Dishes,West,Sharon Sticks,2020-11-25,3409.5,2020,11,Nov,Q4,Wed,340.95,10
+811,"Stuart, Jill",Fish Meals,East,Sharon Sticks,2020-11-25,3409.5,2020,11,Nov,Q4,Wed,340.95,10
+812,"Haveria, Luiz",Beef Meals,South,Clifford Quist,2020-11-26,337.9,2020,11,Nov,Q4,Thu,168.95,2
+813,"Stuart, Jill",Pasta Dishes,East,Fisher Mills,2020-11-26,11199.3,2020,11,Nov,Q4,Thu,799.95,14
+814,"Stuart, Jill",Pasta Dishes,East,Fisher Mills,2020-11-26,4799.7,2020,11,Nov,Q4,Thu,799.95,6
+815,"Stuart, Jill",Beef Meals,East,Fisher Mills,2020-11-26,168.95,2020,11,Nov,Q4,Thu,168.95,1
+816,"Fog, Londong",Pasta Dishes,West,Elton John,2020-11-27,14399.1,2020,11,Nov,Q4,Fri,799.95,18
+817,"Haveria, Luiz",Vegetarian Dishes,South,Elton John,2020-11-28,4773.3,2020,11,Nov,Q4,Sat,340.95,14
+818,"Stuart, Jill",Fish Meals,East,Fisher Mills,2020-11-28,3068.55,2020,11,Nov,Q4,Sat,340.95,9
+819,"Milner, James",Seafood,South,Sharon Sticks,2020-11-28,399.95,2020,11,Nov,Q4,Sat,79.99,5
+820,"Stuart, Jill",Beef Meals,East,Clifford Quist,2020-11-29,506.85,2020,11,Nov,Q4,Sun,168.95,3
+821,"Azpilecueta, Moses",Vegetarian Dishes,South,Elton John,2020-11-29,5796.15,2020,11,Nov,Q4,Sun,340.95,17
+822,"Stuart, Jill",Fish Meals,East,Kwaku Mason,2020-11-29,4091.4,2020,11,Nov,Q4,Sun,340.95,12
+823,"Milner, James",Beef Meals,South,Fisher Mills,2020-11-30,2365.3,2020,11,Nov,Q4,Mon,168.95,14
+824,"Stuart, Jill",Fish Meals,East,Sharon Sticks,2020-12-01,681.9,2020,12,Dec,Q4,Tue,340.95,2
+825,"Smith, Bob",Fish Meals,East,Kwaku Mason,2020-12-02,4773.3,2020,12,Dec,Q4,Wed,340.95,14
+826,"Tall, Liz",Fish Meals,North,Clifford Quist,2020-12-02,3068.55,2020,12,Dec,Q4,Wed,340.95,9
+827,"Read, Tira",Pasta Dishes,North,Fisher Mills,2020-12-02,11999.25,2020,12,Dec,Q4,Wed,799.95,15
+828,"Milner, James",Beef Meals,South,Clifford Quist,2020-12-03,1520.55,2020,12,Dec,Q4,Thu,168.95,9
+829,"Haveria, Luiz",Fish Meals,South,Elton John,2020-12-03,4432.35,2020,12,Dec,Q4,Thu,340.95,13
+830,"Tall, Liz",Pasta Dishes,North,Elton John,2020-12-04,9599.4,2020,12,Dec,Q4,Fri,799.95,12
+831,"Smith, Bob",Fish Meals,East,Kwaku Mason,2020-12-04,5114.25,2020,12,Dec,Q4,Fri,340.95,15
+832,"Stuart, Jill",Vegetarian Dishes,East,Clifford Quist,2020-12-04,3068.55,2020,12,Dec,Q4,Fri,340.95,9
+833,"Hines, Zach",Fish Meals,West,Fisher Mills,2020-12-04,4432.35,2020,12,Dec,Q4,Fri,340.95,13
+834,"Read, Tira",Seafood,North,Sharon Sticks,2020-12-04,399.95,2020,12,Dec,Q4,Fri,79.99,5
+835,"Temple, Cheryl",Fish Meals,East,Sharon Sticks,2020-12-05,4432.35,2020,12,Dec,Q4,Sat,340.95,13
+836,"Hines, Zach",Fish Meals,West,Elton John,2020-12-05,4432.35,2020,12,Dec,Q4,Sat,340.95,13
+837,"Dede, Amakye",Seafood,North,Clifford Quist,2020-12-06,239.97,2020,12,Dec,Q4,Sun,79.99,3
+838,"Tall, Liz",Fish Meals,North,Clifford Quist,2020-12-06,4091.4,2020,12,Dec,Q4,Sun,340.95,12
+839,"Fog, Londong",Beef Meals,West,Kwaku Mason,2020-12-06,2534.25,2020,12,Dec,Q4,Sun,168.95,15
+840,"Smith, Bob",Seafood,East,Elton John,2020-12-09,1039.87,2020,12,Dec,Q4,Wed,79.99,13
+841,"Azpilecueta, Moses",Fish Meals,East,Clifford Quist,2020-12-09,2386.65,2020,12,Dec,Q4,Wed,340.95,7
+842,"Smith, Bob",Beef Meals,East,Kwaku Mason,2020-12-10,2534.25,2020,12,Dec,Q4,Thu,168.95,15
+843,"Dede, Amakye",Seafood,North,Sharon Sticks,2020-12-10,799.9,2020,12,Dec,Q4,Thu,79.99,10
+844,"Tall, Liz",Pasta Dishes,North,Clifford Quist,2020-12-10,3999.75,2020,12,Dec,Q4,Thu,799.95,5
+845,"Haveria, Luiz",Beef Meals,South,Sharon Sticks,2020-12-11,844.75,2020,12,Dec,Q4,Fri,168.95,5
+846,"Read, Tira",Seafood,North,Sharon Sticks,2020-12-11,559.93,2020,12,Dec,Q4,Fri,79.99,7
+847,"Hines, Zach",Pasta Dishes,West,Clifford Quist,2020-12-11,11199.3,2020,12,Dec,Q4,Fri,799.95,14
+848,"Fog, Londong",Seafood,West,Clifford Quist,2020-12-11,1199.85,2020,12,Dec,Q4,Fri,79.99,15
+849,"Tall, Liz",Fish Meals,North,Fisher Mills,2020-12-11,3750.45,2020,12,Dec,Q4,Fri,340.95,11
+850,"Hines, Zach",Beef Meals,West,Clifford Quist,2020-12-12,2027.4,2020,12,Dec,Q4,Sat,168.95,12
+851,"Read, Tira",Seafood,North,Clifford Quist,2020-12-13,479.94,2020,12,Dec,Q4,Sun,79.99,6
+852,"Milner, James",Beef Meals,South,Fisher Mills,2020-12-13,168.95,2020,12,Dec,Q4,Sun,168.95,1
+853,"Barkley, Ross",Vegetarian Dishes,North,Kwaku Mason,2020-12-13,340.95,2020,12,Dec,Q4,Sun,340.95,1
+854,"Barkley, Ross",Vegetarian Dishes,North,Elton John,2020-12-13,3750.45,2020,12,Dec,Q4,Sun,340.95,11
+855,"Fog, Londong",Beef Meals,West,Elton John,2020-12-13,1013.7,2020,12,Dec,Q4,Sun,168.95,6
+856,"Barkley, Ross",Vegetarian Dishes,North,Kwaku Mason,2020-12-13,4773.3,2020,12,Dec,Q4,Sun,340.95,14
+857,"Stuart, Jill",Pasta Dishes,East,Clifford Quist,2020-12-14,5599.65,2020,12,Dec,Q4,Mon,799.95,7
+858,"Stuart, Jill",Fish Meals,East,Elton John,2020-12-15,4432.35,2020,12,Dec,Q4,Tue,340.95,13
+859,"Fog, Londong",Beef Meals,West,Fisher Mills,2020-12-15,1013.7,2020,12,Dec,Q4,Tue,168.95,6
+860,"Hines, Zach",Pasta Dishes,West,Elton John,2020-12-16,10399.35,2020,12,Dec,Q4,Wed,799.95,13
+861,"Azpilecueta, Moses",Beef Meals,East,Clifford Quist,2020-12-16,675.8,2020,12,Dec,Q4,Wed,168.95,4
+862,"Read, Tira",Fish Meals,North,Elton John,2020-12-16,3750.45,2020,12,Dec,Q4,Wed,340.95,11
+863,"Stuart, Jill",Beef Meals,East,Fisher Mills,2020-12-16,1182.65,2020,12,Dec,Q4,Wed,168.95,7
+864,"Barkley, Ross",Fish Meals,North,Kwaku Mason,2020-12-16,1704.75,2020,12,Dec,Q4,Wed,340.95,5
+865,"Tall, Liz",Beef Meals,North,Sharon Sticks,2020-12-16,844.75,2020,12,Dec,Q4,Wed,168.95,5
+866,"Temple, Cheryl",Vegetarian Dishes,East,Clifford Quist,2020-12-17,3068.55,2020,12,Dec,Q4,Thu,340.95,9
+867,"Barkley, Ross",Fish Meals,North,Elton John,2020-12-17,4432.35,2020,12,Dec,Q4,Thu,340.95,13
+868,"Smith, Bob",Vegetarian Dishes,East,Fisher Mills,2020-12-17,681.9,2020,12,Dec,Q4,Thu,340.95,2
+869,"Tall, Liz",Vegetarian Dishes,North,Elton John,2020-12-17,2727.6,2020,12,Dec,Q4,Thu,340.95,8
+870,"Milner, James",Seafood,South,Fisher Mills,2020-12-18,319.96,2020,12,Dec,Q4,Fri,79.99,4
+871,"Milner, James",Pasta Dishes,South,Sharon Sticks,2020-12-19,11199.3,2020,12,Dec,Q4,Sat,799.95,14
+872,"Temple, Cheryl",Fish Meals,East,Fisher Mills,2020-12-20,3750.45,2020,12,Dec,Q4,Sun,340.95,11
+873,"Stuart, Jill",Beef Meals,East,Fisher Mills,2020-12-20,1858.45,2020,12,Dec,Q4,Sun,168.95,11
+874,"Haveria, Luiz",Pasta Dishes,South,Elton John,2020-12-21,8799.45,2020,12,Dec,Q4,Mon,799.95,11
+875,"Temple, Cheryl",Seafood,East,Elton John,2020-12-21,1519.81,2020,12,Dec,Q4,Mon,79.99,19
+876,"Haveria, Luiz",Vegetarian Dishes,South,Elton John,2020-12-22,4091.4,2020,12,Dec,Q4,Tue,340.95,12
+877,"Fog, Londong",Fish Meals,West,Kwaku Mason,2020-12-22,4091.4,2020,12,Dec,Q4,Tue,340.95,12
+878,"Stuart, Jill",Pasta Dishes,East,Kwaku Mason,2020-12-22,2399.85,2020,12,Dec,Q4,Tue,799.95,3
+879,"Stuart, Jill",Fish Meals,East,Kwaku Mason,2020-12-22,5114.25,2020,12,Dec,Q4,Tue,340.95,15
+880,"Smith, Bob",Pasta Dishes,East,Kwaku Mason,2020-12-23,4799.7,2020,12,Dec,Q4,Wed,799.95,6
+881,"Read, Tira",Seafood,North,Clifford Quist,2020-12-23,559.93,2020,12,Dec,Q4,Wed,79.99,7
+882,"Azpilecueta, Moses",Fish Meals,East,Elton John,2020-12-23,6819.0,2020,12,Dec,Q4,Wed,340.95,20
+883,"Stuart, Jill",Pasta Dishes,East,Elton John,2020-12-23,7199.55,2020,12,Dec,Q4,Wed,799.95,9
+884,"Azpilecueta, Moses",Beef Meals,East,Clifford Quist,2020-12-24,1520.55,2020,12,Dec,Q4,Thu,168.95,9
+885,"Read, Tira",Beef Meals,North,Elton John,2020-12-24,3210.05,2020,12,Dec,Q4,Thu,168.95,19
+886,"Azpilecueta, Moses",Seafood,East,Fisher Mills,2020-12-24,239.97,2020,12,Dec,Q4,Thu,79.99,3
+887,"Barkley, Ross",Beef Meals,North,Clifford Quist,2020-12-24,506.85,2020,12,Dec,Q4,Thu,168.95,3
+888,"Hines, Zach",Vegetarian Dishes,West,Elton John,2020-12-24,6137.1,2020,12,Dec,Q4,Thu,340.95,18
+889,"Hines, Zach",Fish Meals,West,Fisher Mills,2020-12-24,4091.4,2020,12,Dec,Q4,Thu,340.95,12
+890,"Read, Tira",Fish Meals,North,Sharon Sticks,2020-12-24,5114.25,2020,12,Dec,Q4,Thu,340.95,15
+891,"Tall, Liz",Pasta Dishes,North,Elton John,2020-12-25,15999.0,2020,12,Dec,Q4,Fri,799.95,20
+892,"Azpilecueta, Moses",Beef Meals,East,Fisher Mills,2020-12-25,2027.4,2020,12,Dec,Q4,Fri,168.95,12
+893,"Fog, Londong",Seafood,West,Fisher Mills,2020-12-25,79.99,2020,12,Dec,Q4,Fri,79.99,1
+894,"Haveria, Luiz",Seafood,South,Clifford Quist,2020-12-25,879.89,2020,12,Dec,Q4,Fri,79.99,11
+895,"Read, Tira",Fish Meals,North,Clifford Quist,2020-12-27,1022.85,2020,12,Dec,Q4,Sun,340.95,3
+896,"Haveria, Luiz",Fish Meals,South,Elton John,2020-12-27,5455.2,2020,12,Dec,Q4,Sun,340.95,16
+897,"Stuart, Jill",Vegetarian Dishes,East,Fisher Mills,2020-12-27,1022.85,2020,12,Dec,Q4,Sun,340.95,3
+898,"Stuart, Jill",Beef Meals,East,Elton John,2020-12-28,3379.0,2020,12,Dec,Q4,Mon,168.95,20
+899,"Smith, Bob",Fish Meals,East,Fisher Mills,2020-12-28,2727.6,2020,12,Dec,Q4,Mon,340.95,8
+900,"Fog, Londong",Fish Meals,West,Kwaku Mason,2020-12-28,3068.55,2020,12,Dec,Q4,Mon,340.95,9
+901,"Hines, Zach",Fish Meals,West,Clifford Quist,2020-12-30,4091.4,2020,12,Dec,Q4,Wed,340.95,12
+902,"Azpilecueta, Moses",Beef Meals,East,Elton John,2020-12-30,1520.55,2020,12,Dec,Q4,Wed,168.95,9
+903,"Stuart, Jill",Seafood,East,Elton John,2020-12-30,1599.8,2020,12,Dec,Q4,Wed,79.99,20
+904,"Barkley, Ross",Fish Meals,North,Fisher Mills,2020-12-30,2045.7,2020,12,Dec,Q4,Wed,340.95,6
+905,"Dede, Amakye",Seafood,North,Kwaku Mason,2020-12-30,79.99,2020,12,Dec,Q4,Wed,79.99,1
+906,"Barkley, Ross",Seafood,North,Sharon Sticks,2020-12-30,399.95,2020,12,Dec,Q4,Wed,79.99,5
+907,"Tall, Liz",Beef Meals,North,Sharon Sticks,2020-12-30,506.85,2020,12,Dec,Q4,Wed,168.95,3
+908,"Fog, Londong",Beef Meals,West,Kwaku Mason,2020-12-30,1351.6,2020,12,Dec,Q4,Wed,168.95,8
+909,"Stuart, Jill",Vegetarian Dishes,East,Kwaku Mason,2020-12-30,4773.3,2020,12,Dec,Q4,Wed,340.95,14
